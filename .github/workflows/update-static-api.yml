@@ -1,0 +1,71 @@
+name: Update static AniDB JSON API
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-static-anidb-api
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Download latest anime-list-master.xml
+        run: |
+          curl --fail --location --retry 3 \
+            --output anime-list-master.xml \
+            https://raw.githubusercontent.com/Anime-Lists/anime-lists/master/anime-list-master.xml
+
+      - name: Check whether upstream changed
+        id: upstream
+        run: |
+          mkdir -p .source
+          sha256sum anime-list-master.xml | cut -d " " -f 1 > .source/anime-list-master.sha256.new
+          if [ -f .source/anime-list-master.sha256 ] && cmp -s .source/anime-list-master.sha256 .source/anime-list-master.sha256.new; then
+            rm .source/anime-list-master.sha256.new
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "Upstream XML is unchanged. Skipping rebuild."
+            exit 0
+          fi
+          mv .source/anime-list-master.sha256.new .source/anime-list-master.sha256
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Rebuild static JSON files
+        if: steps.upstream.outputs.changed == 'true'
+        run: python tools/build_static_api.py --xml anime-list-master.xml --out .
+
+      - name: Remove downloaded XML
+        run: rm anime-list-master.xml
+
+      - name: Commit changes
+        if: steps.upstream.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME:-main}"
+          git add .source/anime-list-master.sha256
+          git add api/anidb
+          if [ -f duplicate-anidbids.json ]; then
+            git add duplicate-anidbids.json
+          fi
+          if git diff --cached --quiet; then
+            echo "No JSON changes to commit."
+            exit 0
+          fi
+          git commit -m "Update static AniDB JSON API"
+          git push
