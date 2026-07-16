@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AniDB Static JSON API</title>
+  <style>
+    :root {
+      color-scheme: light dark;
+      font-family: Arial, "Microsoft YaHei", sans-serif;
+      background: #f6f7f9;
+      color: #1b1f24;
+    }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      padding: 24px;
+    }
+    main {
+      width: min(920px, 100%);
+    }
+    h1 {
+      margin: 0 0 8px;
+      font-size: 32px;
+      letter-spacing: 0;
+    }
+    p {
+      margin: 0 0 18px;
+      color: #59636e;
+      line-height: 1.6;
+    }
+    form {
+      display: flex;
+      gap: 8px;
+      margin: 20px 0;
+    }
+    input {
+      flex: 1;
+      min-width: 0;
+      padding: 12px 14px;
+      border: 1px solid #cfd6dd;
+      border-radius: 8px;
+      font-size: 16px;
+    }
+    button {
+      padding: 0 18px;
+      border: 0;
+      border-radius: 8px;
+      background: #1769aa;
+      color: #fff;
+      font-size: 16px;
+      cursor: pointer;
+    }
+    code {
+      background: #e9edf2;
+      padding: 2px 6px;
+      border-radius: 6px;
+    }
+    pre {
+      min-height: 220px;
+      max-height: 520px;
+      overflow: auto;
+      padding: 16px;
+      border: 1px solid #d6dde5;
+      border-radius: 8px;
+      background: #111827;
+      color: #e5e7eb;
+      font-size: 14px;
+      line-height: 1.5;
+      white-space: pre-wrap;
+      overflow-wrap: anywhere;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        background: #15191f;
+        color: #f3f4f6;
+      }
+      p {
+        color: #aeb8c4;
+      }
+      input {
+        background: #20262e;
+        color: #f3f4f6;
+        border-color: #3a4451;
+      }
+      code {
+        background: #20262e;
+      }
+      pre {
+        border-color: #303946;
+      }
+    }
+    @media (max-width: 560px) {
+      form {
+        flex-direction: column;
+      }
+      button {
+        height: 44px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>AniDB Static JSON API</h1>
+    <p>输入 AniDB ID 查询完整 anime 映射信息。直接 API 路径格式：<code>/api/anidb/&lt;id&gt;.json</code></p>
+    <form id="lookup-form">
+      <input id="anidbid" name="anidbid" inputmode="numeric" pattern="[0-9]+" placeholder="例如 1" autocomplete="off" required>
+      <button type="submit">查询</button>
+    </form>
+    <pre id="result">等待输入 AniDB ID...</pre>
+  </main>
+  <script>
+    const form = document.querySelector("#lookup-form");
+    const input = document.querySelector("#anidbid");
+    const result = document.querySelector("#result");
+
+    async function lookup(id) {
+      const cleanId = String(id).trim();
+      if (!/^\d+$/.test(cleanId)) {
+        result.textContent = "请输入纯数字 AniDB ID。";
+        return;
+      }
+
+      const url = `api/anidb/${encodeURIComponent(cleanId)}.json`;
+      result.textContent = `GET ${url}`;
+
+      const response = await fetch(url, { headers: { "Accept": "application/json" } });
+      if (!response.ok) {
+        result.textContent = `未找到 AniDB ID ${cleanId}。HTTP ${response.status}`;
+        return;
+      }
+
+      const json = await response.json();
+      result.textContent = JSON.stringify(json, null, 2);
+    }
+
+    form.addEventListener("submit", (event) => {
+      event.preventDefault();
+      lookup(input.value).catch((error) => {
+        result.textContent = `请求失败：${error.message}`;
+      });
+    });
+
+    const query = new URLSearchParams(location.search);
+    if (query.has("id")) {
+      input.value = query.get("id");
+      lookup(input.value);
+    }
+  </script>
+</body>
+</html>
