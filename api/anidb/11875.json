@@ -1,0 +1,19 @@
+{
+  "anidbid": "11875",
+  "tvdbid": "311149",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "66979",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Days",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

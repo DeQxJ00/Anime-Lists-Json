@@ -1,0 +1,22 @@
+{
+  "anidbid": "8177",
+  "tvdbid": "171731",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "37471",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Nurarihyon no Mago: Sennen Makyou",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-4;2-5;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "Studio Deen"
+  }
+}

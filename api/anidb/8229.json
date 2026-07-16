@@ -1,0 +1,21 @@
+{
+  "anidbid": "8229",
+  "tvdbid": "249874",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "45203",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Itsuka Tenma no Kuro Usagi",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "9",
+      "offset": "1"
+    }
+  }
+}

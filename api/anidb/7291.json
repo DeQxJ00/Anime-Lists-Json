@@ -1,0 +1,19 @@
+{
+  "anidbid": "7291",
+  "tvdbid": "81108",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "45532",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Ookiku Furikabutte: Natsu no Taikai Hen",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-2;"
+    }
+  }
+}

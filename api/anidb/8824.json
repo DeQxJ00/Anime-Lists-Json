@@ -1,0 +1,19 @@
+{
+  "anidbid": "8824",
+  "tvdbid": "251047",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "1",
+  "tmdbtv": "43295",
+  "tmdbseason": "0",
+  "tmdboffset": "1",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Carnival Phantasm: EX Season",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-5;"
+    }
+  }
+}

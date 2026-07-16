@@ -1,0 +1,19 @@
+{
+  "anidbid": "7537",
+  "tvdbid": "72454",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "30983",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt18266264",
+  "name": "Meitantei Conan Magic File 4: Osaka Okonomiyaki Odyssey",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-27;"
+    }
+  }
+}

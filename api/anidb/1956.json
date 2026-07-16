@@ -1,0 +1,19 @@
+{
+  "anidbid": "1956",
+  "tvdbid": "85230",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "13339",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0140648",
+  "name": "Uchuu Senkan Yamato: Kanketsuhen",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-5;2-5;3-5;"
+    }
+  }
+}

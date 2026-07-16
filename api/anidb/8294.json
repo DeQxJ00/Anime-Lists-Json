@@ -1,0 +1,19 @@
+{
+  "anidbid": "8294",
+  "tvdbid": "195721",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "35447",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Shinryaku!? Ika Musume",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-8;2-9;"
+    }
+  }
+}

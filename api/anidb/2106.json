@@ -1,0 +1,36 @@
+{
+  "anidbid": "2106",
+  "tvdbid": "283189",
+  "defaulttvdbseason": "a",
+  "episodeoffset": "",
+  "tmdbtv": "83862",
+  "tmdbseason": "a",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Warau Salesman",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "1",
+        "tvdbseason": "1",
+        "start": "1",
+        "end": "44"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "2",
+        "start": "45",
+        "end": "91",
+        "offset": "-44"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "3",
+        "start": "92",
+        "end": "103",
+        "offset": "-91"
+      }
+    ]
+  }
+}

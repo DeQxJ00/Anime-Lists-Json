@@ -1,0 +1,19 @@
+{
+  "anidbid": "9265",
+  "tvdbid": "146401",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "42912",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Gekijouban Inazuma Eleven GO vs Danball Senki W",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-3;"
+    }
+  }
+}

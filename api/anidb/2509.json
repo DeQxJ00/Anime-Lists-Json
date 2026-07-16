@@ -1,0 +1,19 @@
+{
+  "anidbid": "2509",
+  "tvdbid": "80009",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "43004",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Tenchi Muyou! Ryououki (1994)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "2",
+      "text": ";1-6;"
+    }
+  }
+}

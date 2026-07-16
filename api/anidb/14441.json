@@ -1,0 +1,19 @@
+{
+  "anidbid": "14441",
+  "tvdbid": "114921",
+  "defaulttvdbseason": "3",
+  "episodeoffset": "",
+  "tmdbtv": "30977",
+  "tmdbseason": "3",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Toaru Kagaku no Railgun T",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;2-0;3-12;4-13;"
+    }
+  }
+}

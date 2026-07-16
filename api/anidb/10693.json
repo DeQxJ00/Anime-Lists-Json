@@ -1,0 +1,19 @@
+{
+  "anidbid": "10693",
+  "tvdbid": "272311",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "76219",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Miss Monochrome The Animation: Soccer Hen",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-3;"
+    }
+  }
+}

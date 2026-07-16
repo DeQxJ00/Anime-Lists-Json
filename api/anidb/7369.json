@@ -1,0 +1,19 @@
+{
+  "anidbid": "7369",
+  "tvdbid": "83996",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "50712",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kuroshitsuji II",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-3;2-4;3-5;4-6;5-7;6-8;7-0;"
+    }
+  }
+}

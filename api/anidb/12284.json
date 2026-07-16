@@ -1,0 +1,19 @@
+{
+  "anidbid": "12284",
+  "tvdbid": "301920",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "69084",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt6210806",
+  "name": "Monster Strike The Movie: Hajimari no Basho e",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-4;"
+    }
+  }
+}

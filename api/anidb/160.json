@@ -1,0 +1,19 @@
+{
+  "anidbid": "160",
+  "tvdbid": "81477",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "34149",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "UFO Princess Valkyrie",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-2;2-1;3-0;"
+    }
+  }
+}

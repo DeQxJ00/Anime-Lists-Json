@@ -1,0 +1,24 @@
+{
+  "anidbid": "4419",
+  "tvdbid": "79022",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "34182",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Stratos 4 Advance Kanketsuhen",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-3;2-4;"
+    }
+  },
+  "supplemental-info": {
+    "director": "Mori Takeshi",
+    "credits": "Studio Fantasia",
+    "studio": "Studio Fantasia"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "anidbid": "2858",
+  "tvdbid": "79282",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "26674",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Solty Rei",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-1+2;"
+    }
+  },
+  "before": ";1-25;"
+}

@@ -1,0 +1,30 @@
+{
+  "anidbid": "353",
+  "tvdbid": "73550",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "42731",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "HeatGuy J",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "2",
+        "text": ";1-2;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "2",
+        "start": "15",
+        "end": "25",
+        "offset": "-12",
+        "text": ";14-1;"
+      }
+    ]
+  },
+  "before": ";1-15;"
+}

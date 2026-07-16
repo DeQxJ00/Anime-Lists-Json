@@ -1,0 +1,19 @@
+{
+  "anidbid": "14623",
+  "tvdbid": "347215",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "80713",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Jashin-chan Dropkick Dash",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-3;"
+    }
+  }
+}

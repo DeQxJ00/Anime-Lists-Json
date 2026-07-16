@@ -1,0 +1,22 @@
+{
+  "anidbid": "237",
+  "tvdbid": "81997",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "69980",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0303678",
+  "name": "Armitage III: Dual Matrix",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-2;2-2;3-2;4-2;5-2;6-2;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "AIC"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "2242",
+  "tvdbid": "172421",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "131647",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0188535",
+  "name": "Cyborg 009: Chou Ginga Densetsu",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-1;2-1;3-1;"
+    }
+  }
+}

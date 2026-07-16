@@ -1,0 +1,19 @@
+{
+  "anidbid": "7767",
+  "tvdbid": "75141",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "57912",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "The Doraemons: Kaitou Dorapin Nazo no Chousenjou!",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

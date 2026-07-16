@@ -1,0 +1,19 @@
+{
+  "anidbid": "565",
+  "tvdbid": "72470",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "1",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "411274",
+  "imdbid": "",
+  "name": "Hand Maid Mai",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

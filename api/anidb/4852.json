@@ -1,0 +1,19 @@
+{
+  "anidbid": "4852",
+  "tvdbid": "80900",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "43249",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Aika R-16",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;2-0;"
+    }
+  }
+}

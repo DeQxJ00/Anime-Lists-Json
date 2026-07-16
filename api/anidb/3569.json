@@ -1,0 +1,19 @@
+{
+  "anidbid": "3569",
+  "tvdbid": "75414",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "63164",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0781012",
+  "name": "Chou Gekijouban Keroro Gunsou",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-1;"
+    }
+  }
+}

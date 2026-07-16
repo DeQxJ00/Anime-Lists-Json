@@ -1,0 +1,19 @@
+{
+  "anidbid": "15198",
+  "tvdbid": "71863",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "47",
+  "tmdbtv": "31572",
+  "tmdbseason": "0",
+  "tmdboffset": "47",
+  "tmdbid": "",
+  "imdbid": "tt11142308",
+  "name": "Lupin Sansei: Prison of the Past",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-48;2-48;3-48;"
+    }
+  }
+}

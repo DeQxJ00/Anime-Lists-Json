@@ -1,0 +1,19 @@
+{
+  "anidbid": "4169",
+  "tvdbid": "254931",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "20111",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt6467156",
+  "name": "Kidou Senshi Gundam SEED: Kokuu no Senjou",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-2;2-2;3-2;4-2;5-2;6-2;7-2;"
+    }
+  }
+}

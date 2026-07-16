@@ -1,0 +1,19 @@
+{
+  "anidbid": "2229",
+  "tvdbid": "85230",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "13339",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0316540",
+  "name": "Saraba Uchuu Senkan Yamato: Ai no Senshi-tachi",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-2;2-2;3-2;"
+    }
+  }
+}

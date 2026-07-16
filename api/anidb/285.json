@@ -1,0 +1,21 @@
+{
+  "anidbid": "285",
+  "tvdbid": "79544",
+  "defaulttvdbseason": "a",
+  "episodeoffset": "",
+  "tmdbtv": "25722",
+  "tmdbseason": "a",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kodomo no Omocha (1996)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "2",
+      "start": "52",
+      "end": "102",
+      "offset": "-51"
+    }
+  }
+}

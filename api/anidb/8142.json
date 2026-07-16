@@ -1,0 +1,30 @@
+{
+  "anidbid": "8142",
+  "tvdbid": "247231",
+  "defaulttvdbseason": "a",
+  "episodeoffset": "",
+  "tmdbtv": "38251",
+  "tmdbseason": "a",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Toriko (2011)",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "1",
+        "tvdbseason": "2",
+        "start": "50",
+        "end": "98",
+        "offset": "-49"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "3",
+        "start": "99",
+        "end": "147",
+        "offset": "-98"
+      }
+    ]
+  }
+}

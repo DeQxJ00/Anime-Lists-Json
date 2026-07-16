@@ -1,0 +1,21 @@
+{
+  "anidbid": "9676",
+  "tvdbid": "78919",
+  "defaulttvdbseason": "3",
+  "episodeoffset": "",
+  "tmdbtv": "34708",
+  "tmdbseason": "3",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Genshiken Nidaime",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "4",
+      "offset": "5"
+    }
+  }
+}

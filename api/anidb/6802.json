@@ -1,0 +1,19 @@
+{
+  "anidbid": "6802",
+  "tvdbid": "76703",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "216651",
+  "imdbid": "tt1172967",
+  "name": "Pikachu no Wanpaku Island",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-28;"
+    }
+  }
+}

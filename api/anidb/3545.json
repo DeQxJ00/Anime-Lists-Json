@@ -1,0 +1,19 @@
+{
+  "anidbid": "3545",
+  "tvdbid": "113671",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "119590",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Megazone 23 III",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "1",
+      "text": ";1-3;2-4;"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "anidbid": "8085",
+  "tvdbid": "132961",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "56343",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Baka to Test to Shoukanjuu: Matsuri",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-34;2-33;3-32;4-31;5-0;6-0;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-9;2-10;"
+      }
+    ]
+  }
+}

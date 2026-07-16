@@ -1,0 +1,19 @@
+{
+  "anidbid": "1384",
+  "tvdbid": "82971",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "8880",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0163494",
+  "name": "Space Adventure Cobra (1982)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";2-1;3-1;"
+    }
+  }
+}

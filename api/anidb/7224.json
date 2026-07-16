@@ -1,0 +1,19 @@
+{
+  "anidbid": "7224",
+  "tvdbid": "173211",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "35532",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Mitsudomoe",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-7;"
+    }
+  }
+}

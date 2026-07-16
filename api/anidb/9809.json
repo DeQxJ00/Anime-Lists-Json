@@ -1,0 +1,19 @@
+{
+  "anidbid": "9809",
+  "tvdbid": "275583",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "70036",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Tonari no Seki-kun",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-2;2-3;"
+    }
+  }
+}

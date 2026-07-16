@@ -1,0 +1,56 @@
+{
+  "anidbid": "386",
+  "tvdbid": "79156",
+  "defaulttvdbseason": "a",
+  "episodeoffset": "",
+  "tmdbtv": "56387",
+  "tmdbseason": "a",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Hokuto no Ken",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-0;2-0;3-0;4-0;5-0;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "2",
+        "start": "23",
+        "end": "57",
+        "offset": "-22"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "3",
+        "start": "58",
+        "end": "82",
+        "offset": "-57"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "4",
+        "start": "83",
+        "end": "109",
+        "offset": "-82"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "5",
+        "start": "110",
+        "end": "122",
+        "offset": "-109"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "5",
+        "start": "123",
+        "end": "152",
+        "offset": "-122"
+      }
+    ]
+  }
+}

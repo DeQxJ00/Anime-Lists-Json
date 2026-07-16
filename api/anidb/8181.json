@@ -1,0 +1,21 @@
+{
+  "anidbid": "8181",
+  "tvdbid": "247958",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "39434",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Ano Hi Mita Hana no Namae o Bokutachi wa Mada Shiranai.",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "1",
+      "offset": "0"
+    }
+  }
+}

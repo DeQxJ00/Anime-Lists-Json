@@ -1,0 +1,19 @@
+{
+  "anidbid": "2888",
+  "tvdbid": "138691",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "The Ten Little Gall Force",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

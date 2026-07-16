@@ -1,0 +1,19 @@
+{
+  "anidbid": "4138",
+  "tvdbid": "84025",
+  "defaulttvdbseason": "3",
+  "episodeoffset": "",
+  "tmdbtv": "42468",
+  "tmdbseason": "3",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Maria-sama ga Miteru 3rd Season",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-14;2-15;3-16;4-17;5-18;6-0;7-0;8-0;"
+    }
+  }
+}

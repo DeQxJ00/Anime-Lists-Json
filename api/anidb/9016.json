@@ -1,0 +1,50 @@
+{
+  "anidbid": "9016",
+  "tvdbid": "257755",
+  "defaulttvdbseason": "a",
+  "episodeoffset": "",
+  "tmdbtv": "44934",
+  "tmdbseason": "a",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Furusato Saisei Nippon no Mukashibanashi",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "1",
+        "tvdbseason": "1",
+        "start": "1",
+        "end": "52"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "2",
+        "start": "53",
+        "end": "104",
+        "offset": "-52"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "3",
+        "start": "105",
+        "end": "155",
+        "offset": "-104"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "4",
+        "start": "156",
+        "end": "207",
+        "offset": "-155"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "5",
+        "start": "208",
+        "end": "258",
+        "offset": "-207"
+      }
+    ]
+  }
+}

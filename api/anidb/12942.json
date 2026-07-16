@@ -1,0 +1,21 @@
+{
+  "anidbid": "12942",
+  "tvdbid": "316842",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "73833",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Mahou Tsukai no Yome",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "27",
+      "offset": "3"
+    }
+  }
+}

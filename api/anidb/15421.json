@@ -1,0 +1,22 @@
+{
+  "anidbid": "15421",
+  "tvdbid": "385077",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "100049",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Tonikaku Kawaii",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "2",
+      "end": "14",
+      "offset": "-2",
+      "text": ";1-13;"
+    }
+  }
+}

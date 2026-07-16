@@ -1,0 +1,19 @@
+{
+  "anidbid": "6095",
+  "tvdbid": "75414",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "63164",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt1389748",
+  "name": "Chou Gekijouban Keroro Gunsou: Gekishin Dragon Warriors de Arimasu!",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-4;"
+    }
+  }
+}

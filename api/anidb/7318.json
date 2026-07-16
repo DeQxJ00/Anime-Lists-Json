@@ -1,0 +1,19 @@
+{
+  "anidbid": "7318",
+  "tvdbid": "265194",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Boku, Otaryman.",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-1;2-1;"
+    }
+  }
+}

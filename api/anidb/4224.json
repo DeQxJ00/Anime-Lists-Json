@@ -1,0 +1,22 @@
+{
+  "anidbid": "4224",
+  "tvdbid": "113571",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "26968",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Soul Link",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "2",
+      "end": "4",
+      "offset": "1",
+      "text": ";1-1+2;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "4290",
+  "tvdbid": "73749",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "3",
+  "tmdbtv": "1095",
+  "tmdbseason": "0",
+  "tmdboffset": "3",
+  "tmdbid": "",
+  "imdbid": "tt1024214",
+  "name": "Koukaku Kidoutai S.A.C. 2nd GIG: Individual Eleven",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

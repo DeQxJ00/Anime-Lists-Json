@@ -1,0 +1,19 @@
+{
+  "anidbid": "6442",
+  "tvdbid": "73532",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "35",
+  "tmdbtv": "27845",
+  "tmdbseason": "0",
+  "tmdboffset": "35",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Tennis no Ouji-sama OVA Another Story: Kako to Mirai no Message",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-40;2-41;"
+    }
+  }
+}

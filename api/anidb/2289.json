@@ -1,0 +1,19 @@
+{
+  "anidbid": "2289",
+  "tvdbid": "374678",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "44199",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Meiken Lassie",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "1",
+      "text": ";1-26;"
+    }
+  }
+}

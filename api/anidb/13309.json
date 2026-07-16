@@ -1,0 +1,21 @@
+{
+  "anidbid": "13309",
+  "tvdbid": "337123",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "75776",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Marchen Madchen",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "1",
+      "start": "1",
+      "end": "2",
+      "offset": "10"
+    }
+  }
+}

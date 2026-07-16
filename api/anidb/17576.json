@@ -1,0 +1,19 @@
+{
+  "anidbid": "17576",
+  "tvdbid": "293088",
+  "defaulttvdbseason": "3",
+  "episodeoffset": "",
+  "tmdbtv": "63926",
+  "tmdbseason": "3",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "One Punch Man (2025)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-17;"
+    }
+  }
+}

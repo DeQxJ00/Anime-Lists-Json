@@ -1,0 +1,19 @@
+{
+  "anidbid": "395",
+  "tvdbid": "80789",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "21738",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0124770",
+  "name": "Kidou Keisatsu Patlabor 2 the Movie",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-9;2-9;3-9;"
+    }
+  }
+}

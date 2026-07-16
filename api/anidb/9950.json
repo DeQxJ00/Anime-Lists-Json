@@ -1,0 +1,19 @@
+{
+  "anidbid": "9950",
+  "tvdbid": "247788",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "42554",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Gekijouban Sekaiichi Hatsukoi: Yokozawa Takafumi no Baai",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

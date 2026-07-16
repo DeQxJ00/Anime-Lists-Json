@@ -1,0 +1,26 @@
+{
+  "anidbid": "14064",
+  "tvdbid": "328827",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "7",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "542507,843267,893250",
+  "imdbid": "tt8354164,tt14031960,tt23638846",
+  "name": "Princess Principal: Crown Handler",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-10;2-11;3-13;4-0;5-0;6-0;7-0;8-0;9-0;10-0;11-0;12-0;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";3-12;"
+      }
+    ]
+  }
+}

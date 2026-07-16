@@ -1,0 +1,20 @@
+{
+  "anidbid": "1100",
+  "tvdbid": "120151",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "78617",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Takahashi Rumiko Gekijou Ningyo no Mori",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "1",
+      "text": ";1-12;2-13;"
+    }
+  },
+  "before": ";1-12;2-13;"
+}

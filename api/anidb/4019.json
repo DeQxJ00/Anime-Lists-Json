@@ -1,0 +1,28 @@
+{
+  "anidbid": "4019",
+  "tvdbid": "movie",
+  "defaulttvdbseason": "",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Jigoku Sensei Nube: Kyoufu no Natsuyasumi! Ayashi no Umi no Densetsu!",
+  "supplemental-info": [
+    {
+      "studio": "Toei Douga"
+    },
+    {
+      "replace": "true",
+      "fanart": {
+        "thumb": {
+          "dim": "1440x900",
+          "colors": "",
+          "preview": "https://sites.google.com/site/anidblist/htn-96578t.jpg",
+          "text": "https://sites.google.com/site/anidblist/htn-96578b.jpg"
+        }
+      }
+    }
+  ]
+}

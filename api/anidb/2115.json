@@ -1,0 +1,19 @@
+{
+  "anidbid": "2115",
+  "tvdbid": "138691",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Gall Force: Chikyuu Shou",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "1",
+      "text": ";1-5;2-6;3-7;"
+    }
+  }
+}

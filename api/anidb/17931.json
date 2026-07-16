@@ -1,0 +1,21 @@
+{
+  "anidbid": "17931",
+  "tvdbid": "305074",
+  "defaulttvdbseason": "7",
+  "episodeoffset": "",
+  "tmdbtv": "65930",
+  "tmdbseason": "7",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Boku no Hero Academia (2024)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "4",
+      "offset": "15"
+    }
+  }
+}

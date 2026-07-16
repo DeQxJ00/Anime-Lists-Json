@@ -1,0 +1,19 @@
+{
+  "anidbid": "10405",
+  "tvdbid": "79895",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "57041",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Yorinuki Gintama-san on Theater 2D",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-10;2-11;"
+    }
+  }
+}

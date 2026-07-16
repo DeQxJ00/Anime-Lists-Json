@@ -1,0 +1,19 @@
+{
+  "anidbid": "15294",
+  "tvdbid": "173271",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "19",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "653858",
+  "imdbid": "tt12439230",
+  "name": "Gekijouban Seitokai Yakuindomo 2",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-20;"
+    }
+  }
+}

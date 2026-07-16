@@ -1,0 +1,19 @@
+{
+  "anidbid": "993",
+  "tvdbid": "80054",
+  "defaulttvdbseason": "3",
+  "episodeoffset": "",
+  "tmdbtv": "43032",
+  "tmdbseason": "3",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0377008",
+  "name": "Taiho Shichau zo The Movie",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-23;2-23;3-23;4-23;5-23;6-23;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "3374",
+  "tvdbid": "81432",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "2",
+  "tmdbtv": "9642",
+  "tmdbseason": "0",
+  "tmdboffset": "2",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Maze Bakunetsu Jikuu: Tenpen Kyoui no Giant",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";2-3;3-3;"
+    }
+  }
+}

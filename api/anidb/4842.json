@@ -1,0 +1,19 @@
+{
+  "anidbid": "4842",
+  "tvdbid": "90521",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "32377",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Soukou Kihei Votoms: Red Shoulder Document - Yabou no Roots",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-3;"
+    }
+  }
+}

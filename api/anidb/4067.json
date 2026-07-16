@@ -1,0 +1,19 @@
+{
+  "anidbid": "4067",
+  "tvdbid": "81426",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "28853",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Joshikousei: Girl's High",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-1;2-2;3-4;4-5;5-6;6-3;"
+    }
+  }
+}

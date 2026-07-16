@@ -1,0 +1,20 @@
+{
+  "anidbid": "2710",
+  "tvdbid": "78914",
+  "defaulttvdbseason": "3",
+  "episodeoffset": "",
+  "tmdbtv": "39379",
+  "tmdbseason": "3",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Fullmetal Panic! The Second Raid",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-2;2-0;"
+    }
+  },
+  "before": ";2-14;"
+}

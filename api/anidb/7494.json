@@ -1,0 +1,19 @@
+{
+  "anidbid": "7494",
+  "tvdbid": "72454",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "960611",
+  "imdbid": "",
+  "name": "Meitantei Conan: Kid in Trap Island",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-30;"
+    }
+  }
+}

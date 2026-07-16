@@ -1,0 +1,21 @@
+{
+  "anidbid": "2427",
+  "tvdbid": "265556",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "22311",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Seishun Anime Zenshuu",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "1",
+      "start": "1",
+      "end": "2",
+      "offset": "32"
+    }
+  }
+}

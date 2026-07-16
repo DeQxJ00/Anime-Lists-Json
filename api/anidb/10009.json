@@ -1,0 +1,26 @@
+{
+  "anidbid": "10009",
+  "tvdbid": "262098",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "43967",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Girls und Panzer: Kore ga Hontou no Anzio-sen Desu!",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-35;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-34;"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "40",
+  "tvdbid": "81789",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "24710",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Fushigi no Umi no Nadia",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";11-0;28-12;29-13;30-14;"
+    }
+  }
+}

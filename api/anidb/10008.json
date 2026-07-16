@@ -1,0 +1,26 @@
+{
+  "anidbid": "10008",
+  "tvdbid": "262098",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "43967",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt5284414",
+  "name": "Girls und Panzer Gekijouban",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-37;2-38;3-39;4-40;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-36;"
+      }
+    ]
+  }
+}

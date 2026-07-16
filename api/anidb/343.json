@@ -1,0 +1,19 @@
+{
+  "anidbid": "343",
+  "tvdbid": "72775",
+  "defaulttvdbseason": "4",
+  "episodeoffset": "",
+  "tmdbtv": "42444",
+  "tmdbseason": "4",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Saint Seiya: Meiou Hades Juuni Kyuu Hen",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-9;2-0;"
+    }
+  }
+}

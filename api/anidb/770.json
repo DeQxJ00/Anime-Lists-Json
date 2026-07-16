@@ -1,0 +1,19 @@
+{
+  "anidbid": "770",
+  "tvdbid": "80789",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "10",
+  "tmdbtv": "21738",
+  "tmdbseason": "0",
+  "tmdboffset": "10",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "MiniPato",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-14;"
+    }
+  }
+}

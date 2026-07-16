@@ -1,0 +1,21 @@
+{
+  "anidbid": "508",
+  "tvdbid": "84045",
+  "defaulttvdbseason": "7",
+  "episodeoffset": "",
+  "tmdbtv": "25707",
+  "tmdbseason": "7",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Captain Tsubasa (2001)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "8",
+      "start": "27",
+      "end": "52",
+      "offset": "-26"
+    }
+  }
+}

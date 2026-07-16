@@ -1,0 +1,19 @@
+{
+  "anidbid": "4890",
+  "tvdbid": "209611",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "96688",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Joe and Marilyn",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "1",
+      "text": ";1-4;"
+    }
+  }
+}

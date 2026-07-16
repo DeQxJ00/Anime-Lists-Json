@@ -1,0 +1,19 @@
+{
+  "anidbid": "485",
+  "tvdbid": "100171",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "31709",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0080772",
+  "name": "Ginga Tetsudou 999 (1979)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";2-1;3-1;"
+    }
+  }
+}

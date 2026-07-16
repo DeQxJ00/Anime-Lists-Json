@@ -1,0 +1,19 @@
+{
+  "anidbid": "8694",
+  "tvdbid": "83322",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "4",
+  "tmdbtv": "30980",
+  "tmdbseason": "0",
+  "tmdboffset": "4",
+  "tmdbid": "",
+  "imdbid": "tt3163844",
+  "name": "Gekijouban Toaru Majutsu no Index: Endymion no Kiseki",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-6;"
+    }
+  }
+}

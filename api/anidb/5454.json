@@ -1,0 +1,19 @@
+{
+  "anidbid": "5454",
+  "tvdbid": "79882",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "27244",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Haruka Naru Toki no Naka de 3: Kurenai no Tsuki",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-7;"
+    }
+  }
+}

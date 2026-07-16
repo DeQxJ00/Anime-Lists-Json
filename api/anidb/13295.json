@@ -1,0 +1,21 @@
+{
+  "anidbid": "13295",
+  "tvdbid": "114801",
+  "defaulttvdbseason": "a",
+  "episodeoffset": "277",
+  "tmdbtv": "46261",
+  "tmdbseason": "a",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Fairy Tail (2018)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "8",
+      "start": "1",
+      "end": "51",
+      "offset": "0"
+    }
+  }
+}

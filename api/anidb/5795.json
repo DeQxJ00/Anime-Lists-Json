@@ -1,0 +1,19 @@
+{
+  "anidbid": "5795",
+  "tvdbid": "227501",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "19612",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Shin Mashin Eiyuuden Wataru: Mashinzan Hen",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-0;2-0;"
+    }
+  }
+}

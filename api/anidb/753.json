@@ -1,0 +1,19 @@
+{
+  "anidbid": "753",
+  "tvdbid": "76665",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "30669",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0203237",
+  "name": "Yuu Yuu Hakusho: Meikai Shitou Hen - Honoo no Kizuna",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-2+3;"
+    }
+  }
+}

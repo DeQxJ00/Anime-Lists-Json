@@ -1,0 +1,27 @@
+{
+  "anidbid": "25",
+  "tvdbid": "72462",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "9519",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Heppoko Jikken Animation Excel Saga",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-0;2-0;"
+      },
+      {
+        "anidbseason": "0",
+        "tvdbseason": "1",
+        "text": ";1-26;"
+      }
+    ]
+  },
+  "before": ";1-26;"
+}

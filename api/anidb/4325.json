@@ -1,0 +1,22 @@
+{
+  "anidbid": "4325",
+  "tvdbid": "81144",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "34162",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "True Tears",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "8",
+      "offset": "-1",
+      "text": ";10-0;11-0;12-0;13-8;"
+    }
+  }
+}

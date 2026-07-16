@@ -1,0 +1,21 @@
+{
+  "anidbid": "10947",
+  "tvdbid": "88161",
+  "defaulttvdbseason": "6",
+  "episodeoffset": "",
+  "tmdbtv": "35138",
+  "tmdbseason": "6",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Hetalia: The World Twinkle",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "4",
+      "offset": "10"
+    }
+  }
+}

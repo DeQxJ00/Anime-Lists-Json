@@ -1,0 +1,19 @@
+{
+  "anidbid": "14616",
+  "tvdbid": "71863",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "46",
+  "tmdbtv": "31572",
+  "tmdbseason": "0",
+  "tmdboffset": "46",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Lupin the IIIrd: Mine Fujiko no Uso",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-47;2-47;3-47;"
+    }
+  }
+}

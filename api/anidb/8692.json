@@ -1,0 +1,21 @@
+{
+  "anidbid": "8692",
+  "tvdbid": "259640",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "45782",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Sword Art Online",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "9",
+      "offset": "0"
+    }
+  }
+}

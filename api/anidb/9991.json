@@ -1,0 +1,19 @@
+{
+  "anidbid": "9991",
+  "tvdbid": "257765",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "45783",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kuroko no Baske: Baka ja Katenai no yo!",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-12;"
+    }
+  }
+}

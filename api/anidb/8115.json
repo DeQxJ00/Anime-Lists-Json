@@ -1,0 +1,19 @@
+{
+  "anidbid": "8115",
+  "tvdbid": "79654",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "30623",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt1887784",
+  "name": "Eiga Crayon Shin-chan: Arashi o Yobu Ougon no Spy Daisakusen",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

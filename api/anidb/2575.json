@@ -1,0 +1,19 @@
+{
+  "anidbid": "2575",
+  "tvdbid": "79109",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "35976",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Nurse Witch Komugi-chan Magikarte Z",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "2",
+      "text": ";1-3;"
+    }
+  }
+}

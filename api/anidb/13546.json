@@ -1,0 +1,19 @@
+{
+  "anidbid": "13546",
+  "tvdbid": "267440",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "1429",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt7941892",
+  "name": "Gekijouban Shingeki no Kyojin Season 2: Kakusei no Houkou",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-21;"
+    }
+  }
+}

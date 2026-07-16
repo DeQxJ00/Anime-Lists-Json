@@ -1,0 +1,23 @@
+{
+  "anidbid": "5087",
+  "tvdbid": "72471",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "55881",
+  "imdbid": "",
+  "name": "Kiddy Grade III: Truth Dawn",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-3;"
+    }
+  },
+  "supplemental-info": {
+    "replace": "true",
+    "studio": "Gonzo Digimation"
+  }
+}

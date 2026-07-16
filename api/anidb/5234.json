@@ -1,0 +1,19 @@
+{
+  "anidbid": "5234",
+  "tvdbid": "80054",
+  "defaulttvdbseason": "3",
+  "episodeoffset": "",
+  "tmdbtv": "43032",
+  "tmdbseason": "3",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Taiho Shichau zo: Full Throttle",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-24;"
+    }
+  }
+}

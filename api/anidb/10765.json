@@ -1,0 +1,26 @@
+{
+  "anidbid": "10765",
+  "tvdbid": "186911",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "46440",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Hyakka Ryouran: Samurai After",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-22;2-23;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-20;2-21;"
+      }
+    ]
+  }
+}

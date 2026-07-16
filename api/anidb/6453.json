@@ -1,0 +1,19 @@
+{
+  "anidbid": "6453",
+  "tvdbid": "250317",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "1",
+  "tmdbtv": "34075",
+  "tmdbseason": "0",
+  "tmdboffset": "1",
+  "tmdbid": "",
+  "imdbid": "tt1319629",
+  "name": "Eiga Yes! Precure 5 Go Go! Okashi no Kuni no Happy Birthday",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-3;"
+    }
+  }
+}

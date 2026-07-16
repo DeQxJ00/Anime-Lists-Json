@@ -1,0 +1,19 @@
+{
+  "anidbid": "12483",
+  "tvdbid": "326337",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "71012",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Idolmaster Cinderella Girls Gekijou",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";14-41;15-42;16-43;"
+    }
+  }
+}

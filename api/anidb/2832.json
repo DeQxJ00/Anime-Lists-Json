@@ -1,0 +1,21 @@
+{
+  "anidbid": "2832",
+  "tvdbid": "84187",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "26444",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "D.C.S.S: Da Capo Second Season",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "7",
+      "offset": "13"
+    }
+  }
+}

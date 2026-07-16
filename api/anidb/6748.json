@@ -1,0 +1,19 @@
+{
+  "anidbid": "6748",
+  "tvdbid": "125441",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "60879",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Halo Legends",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "1",
+      "text": ";1-7;2-3;3-8;4-1;5-2;6-4;7-6;8-5;"
+    }
+  }
+}

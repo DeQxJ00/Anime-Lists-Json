@@ -1,0 +1,19 @@
+{
+  "anidbid": "12140",
+  "tvdbid": "70668",
+  "defaulttvdbseason": "4",
+  "episodeoffset": "",
+  "tmdbtv": "35790",
+  "tmdbseason": "4",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Cardcaptor Sakura: Clear Card Hen",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-8;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "5060",
+  "tvdbid": "79103",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "45264",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kyoushoku Soukou Guyver II",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "1",
+      "text": ";1-7;2-8;3-9;4-10;5-11;6-12;"
+    }
+  }
+}

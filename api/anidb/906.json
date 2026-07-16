@@ -1,0 +1,19 @@
+{
+  "anidbid": "906",
+  "tvdbid": "81472",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "17",
+  "tmdbtv": "12971",
+  "tmdbseason": "0",
+  "tmdboffset": "17",
+  "tmdbid": "",
+  "imdbid": "tt0142234",
+  "name": "Dragon Ball Z: Super Senshi Gekiha!! Katsu no wa Ore Da",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";2-11;3-11;"
+    }
+  }
+}

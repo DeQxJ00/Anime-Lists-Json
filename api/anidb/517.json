@@ -1,0 +1,19 @@
+{
+  "anidbid": "517",
+  "tvdbid": "80468",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "252317",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "The Animatrix",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;201-1;"
+    }
+  }
+}

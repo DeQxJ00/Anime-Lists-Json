@@ -1,0 +1,28 @@
+{
+  "anidbid": "984",
+  "tvdbid": "79156",
+  "defaulttvdbseason": "5",
+  "episodeoffset": "",
+  "tmdbtv": "56387",
+  "tmdbseason": "5",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Seikimatsu Kyuuseishu Densetsu: Hokuto no Ken 2",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";6-0;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "6",
+        "start": "14",
+        "end": "43",
+        "offset": "-13"
+      }
+    ]
+  }
+}

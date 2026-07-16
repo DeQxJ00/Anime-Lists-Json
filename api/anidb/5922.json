@@ -1,0 +1,19 @@
+{
+  "anidbid": "5922",
+  "tvdbid": "83314",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "42917",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Koihime Musou",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";2-5;3-0;"
+    }
+  }
+}

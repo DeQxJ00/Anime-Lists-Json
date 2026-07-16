@@ -1,0 +1,19 @@
+{
+  "anidbid": "7109",
+  "tvdbid": "76703",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "36897",
+  "imdbid": "",
+  "name": "Pocket Monsters: Mewtwo! Ware wa Koko ni Ari",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-4;2-4;3-4;4-4;"
+    }
+  }
+}

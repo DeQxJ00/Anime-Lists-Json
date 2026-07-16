@@ -1,0 +1,22 @@
+{
+  "anidbid": "269",
+  "tvdbid": "117871",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "38107",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Sister Princess",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "Zexcs"
+  }
+}

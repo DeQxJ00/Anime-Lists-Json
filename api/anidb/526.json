@@ -1,0 +1,19 @@
+{
+  "anidbid": "526",
+  "tvdbid": "79587",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "29152",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Bannou Bunka Nekomusume (1998)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "2",
+      "text": ";1-13;2-14;"
+    }
+  }
+}

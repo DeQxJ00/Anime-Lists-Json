@@ -1,0 +1,19 @@
+{
+  "anidbid": "5426",
+  "tvdbid": "78920",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "7",
+  "tmdbtv": "912",
+  "tmdbseason": "0",
+  "tmdboffset": "7",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Aa! Megami-sama! Tatakau Tsubasa",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

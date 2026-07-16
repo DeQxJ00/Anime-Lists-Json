@@ -1,0 +1,35 @@
+{
+  "anidbid": "10399",
+  "tvdbid": "280330",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "65332",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Amagi Brilliant Park",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-13;"
+      },
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "start": "1",
+        "end": "1",
+        "offset": "7"
+      },
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "start": "2",
+        "end": "8",
+        "offset": "-1"
+      }
+    ]
+  }
+}

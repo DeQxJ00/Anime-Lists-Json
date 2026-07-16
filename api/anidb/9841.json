@@ -1,0 +1,19 @@
+{
+  "anidbid": "9841",
+  "tvdbid": "72454",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "30983",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt3335192",
+  "name": "Lupin Sansei vs. Meitantei Conan The Movie",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-61;"
+    }
+  }
+}

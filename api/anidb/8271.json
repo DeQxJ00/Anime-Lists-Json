@@ -1,0 +1,19 @@
+{
+  "anidbid": "8271",
+  "tvdbid": "118101",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "37437",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt1974262",
+  "name": "Sora no Otoshimono: Tokeijikake no Angeloid",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-2;"
+    }
+  }
+}

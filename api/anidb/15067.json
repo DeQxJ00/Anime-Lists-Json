@@ -1,0 +1,19 @@
+{
+  "anidbid": "15067",
+  "tvdbid": "76703",
+  "defaulttvdbseason": "19",
+  "episodeoffset": "",
+  "tmdbtv": "60572",
+  "tmdbseason": "19",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Pocket Monsters (2019)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-82;2-0;3-0;"
+    }
+  }
+}

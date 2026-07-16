@@ -1,0 +1,19 @@
+{
+  "anidbid": "13055",
+  "tvdbid": "319997",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "69288",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kemono Friends 2",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

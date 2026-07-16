@@ -1,0 +1,19 @@
+{
+  "anidbid": "4522",
+  "tvdbid": "79975",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "38790",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Red Garden",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;2-0;3-0;"
+    }
+  }
+}

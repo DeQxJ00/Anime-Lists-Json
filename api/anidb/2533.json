@@ -1,0 +1,27 @@
+{
+  "anidbid": "2533",
+  "tvdbid": "78920",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "912",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Aa! Megami-sama! (2005)",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-7;"
+      },
+      {
+        "anidbseason": "0",
+        "tvdbseason": "1",
+        "text": ";2-25;3-26;"
+      }
+    ]
+  },
+  "before": ";2-25;3-26;"
+}

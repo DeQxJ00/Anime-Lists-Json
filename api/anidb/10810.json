@@ -1,0 +1,19 @@
+{
+  "anidbid": "10810",
+  "tvdbid": "173271",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "36697",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Seitokai Yakuindomo * OVA",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-10;"
+    }
+  }
+}

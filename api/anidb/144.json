@@ -1,0 +1,69 @@
+{
+  "anidbid": "144",
+  "tvdbid": "71361",
+  "defaulttvdbseason": "a",
+  "episodeoffset": "",
+  "tmdbtv": "35610",
+  "tmdbseason": "a",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Inuyasha",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-0;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "1",
+        "start": "1",
+        "end": "27"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "2",
+        "start": "28",
+        "end": "54",
+        "offset": "-27"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "3",
+        "start": "55",
+        "end": "82",
+        "offset": "-54"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "4",
+        "start": "83",
+        "end": "110",
+        "offset": "-82"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "5",
+        "start": "111",
+        "end": "138",
+        "offset": "-110"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "6",
+        "start": "139",
+        "end": "159",
+        "offset": "-138"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "7",
+        "start": "160",
+        "end": "167",
+        "offset": "-159"
+      }
+    ]
+  }
+}

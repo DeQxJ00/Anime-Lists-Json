@@ -1,0 +1,22 @@
+{
+  "anidbid": "1659",
+  "tvdbid": "94701",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "68586",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Devilman: Youchou Sirene Hen",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-2;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "Oh! Production"
+  }
+}

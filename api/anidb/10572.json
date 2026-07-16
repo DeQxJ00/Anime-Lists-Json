@@ -1,0 +1,19 @@
+{
+  "anidbid": "10572",
+  "tvdbid": "275633",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "1",
+  "tmdbtv": "75992",
+  "tmdbseason": "0",
+  "tmdboffset": "1",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Mikakunin de Shinkoukei: Kamo Nikutte Midorippoi Aji ga Suru no ne.",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-2;"
+    }
+  }
+}

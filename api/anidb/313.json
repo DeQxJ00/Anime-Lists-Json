@@ -1,0 +1,19 @@
+{
+  "anidbid": "313",
+  "tvdbid": "75534",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "31713",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0114563",
+  "name": "Street Fighter II: The Movie",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-1;2-1;3-1;"
+    }
+  }
+}

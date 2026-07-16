@@ -1,0 +1,24 @@
+{
+  "anidbid": "7945",
+  "tvdbid": "OVA",
+  "defaulttvdbseason": "",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "959964",
+  "imdbid": "",
+  "name": "Prism Mergical: Prism Generations!",
+  "supplemental-info": {
+    "replace": "true",
+    "studio": "Asahi Production",
+    "fanart": {
+      "thumb": {
+        "dim": "1900x1250",
+        "colors": "",
+        "preview": "https://sites.google.com/site/anidblist/pm-499692t.jpg",
+        "text": "https://sites.google.com/site/anidblist/pm-499692b.jpg"
+      }
+    }
+  }
+}

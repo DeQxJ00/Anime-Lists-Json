@@ -1,0 +1,22 @@
+{
+  "anidbid": "6609",
+  "tvdbid": "80096",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "21729",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Tengen Toppa Gurren Lagann Kirameki Youko Box: Pieces of Sweet Stars",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-5;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "Gainax"
+  }
+}

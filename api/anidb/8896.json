@@ -1,0 +1,19 @@
+{
+  "anidbid": "8896",
+  "tvdbid": "195721",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "35447",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kore ga Umi e no Ai ja Naika!",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-7;"
+    }
+  }
+}

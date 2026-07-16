@@ -1,0 +1,20 @@
+{
+  "anidbid": "4585",
+  "tvdbid": "82720",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "36582",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Gift: Eternal Rainbow",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "1",
+      "text": ";1-13;"
+    }
+  },
+  "before": ";1-13;"
+}

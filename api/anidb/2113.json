@@ -1,0 +1,19 @@
+{
+  "anidbid": "2113",
+  "tvdbid": "138691",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Gall Force 3: Stardust War",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "1",
+      "text": ";1-3;"
+    }
+  }
+}

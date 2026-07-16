@@ -1,0 +1,26 @@
+{
+  "anidbid": "8528",
+  "tvdbid": "87491",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "45502",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Queen's Blade",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-20;2-22;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-19;2-21;"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "3598",
+  "tvdbid": "72454",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "1221942",
+  "imdbid": "",
+  "name": "Meitantei Conan: Target wa Kogorou!! Shounen Tanteidan Maruhi Report",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-13;"
+    }
+  }
+}

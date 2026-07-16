@@ -1,0 +1,19 @@
+{
+  "anidbid": "5367",
+  "tvdbid": "71863",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "31572",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt1068848",
+  "name": "Lupin Sansei: Kiri no Elusive",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-29;"
+    }
+  }
+}

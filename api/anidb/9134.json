@@ -1,0 +1,27 @@
+{
+  "anidbid": "9134",
+  "tvdbid": "194961",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "56353",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai.",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";4-22;5-23;6-27;7-28;8-29;9-29;10-29;11-31;12-31;13-0;14-0;15-33;16-0;17-0;18-0;19-0;20-0;"
+      },
+      {
+        "anidbseason": "0",
+        "tvdbseason": "2",
+        "text": ";1-14;2-15;3-16;"
+      }
+    ]
+  },
+  "before": ";1-14;2-15;3-16;"
+}

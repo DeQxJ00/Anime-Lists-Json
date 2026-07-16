@@ -1,0 +1,19 @@
+{
+  "anidbid": "10353",
+  "tvdbid": "255925",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "108906",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Gekijouban Pretty Rhythm All Star Selection: Prism Show Best Ten",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

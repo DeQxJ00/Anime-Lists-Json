@@ -1,0 +1,21 @@
+{
+  "anidbid": "7883",
+  "tvdbid": "79099",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "8",
+  "tmdbtv": "8864",
+  "tmdbseason": "0",
+  "tmdboffset": "8",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": ".hack//Quantum",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "6",
+      "offset": "16"
+    }
+  }
+}

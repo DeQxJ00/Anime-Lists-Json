@@ -1,0 +1,19 @@
+{
+  "anidbid": "8419",
+  "tvdbid": "251908",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "60730",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Boku wa Tomodachi ga Sukunai",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

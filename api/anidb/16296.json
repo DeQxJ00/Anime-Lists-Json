@@ -1,0 +1,21 @@
+{
+  "anidbid": "16296",
+  "tvdbid": "294002",
+  "defaulttvdbseason": "4",
+  "episodeoffset": "",
+  "tmdbtv": "64196",
+  "tmdbseason": "4",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Overlord IV",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "12",
+      "offset": "44"
+    }
+  }
+}

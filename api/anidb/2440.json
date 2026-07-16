@@ -1,0 +1,19 @@
+{
+  "anidbid": "2440",
+  "tvdbid": "71535",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "13674",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0363655",
+  "name": "Gundam Neo Experience: 0087 - Green Divers",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

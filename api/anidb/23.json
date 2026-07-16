@@ -1,0 +1,25 @@
+{
+  "anidbid": "23",
+  "tvdbid": "76885",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "30991",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Cowboy Bebop",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "3",
+      "offset": "1",
+      "text": ";4-0;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "Sunrise"
+  }
+}

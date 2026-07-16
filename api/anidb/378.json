@@ -1,0 +1,22 @@
+{
+  "anidbid": "378",
+  "tvdbid": "75113",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "150023",
+  "imdbid": "tt0086520",
+  "name": "Urusei Yatsura: Only You",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-3;2-3;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "Kitty Film"
+  }
+}

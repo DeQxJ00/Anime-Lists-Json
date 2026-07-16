@@ -1,0 +1,21 @@
+{
+  "anidbid": "9306",
+  "tvdbid": "275039",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "61339",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Bishoujo Senshi Sailor Moon Crystal",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "2",
+      "start": "15",
+      "end": "26",
+      "offset": "-14"
+    }
+  }
+}

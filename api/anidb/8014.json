@@ -1,0 +1,19 @@
+{
+  "anidbid": "8014",
+  "tvdbid": "117801",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "68854",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kimi ni Todoke 2nd Season",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-1;2-2;3-3;4-4;5-4;"
+    }
+  }
+}

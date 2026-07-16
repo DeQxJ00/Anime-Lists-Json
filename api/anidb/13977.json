@@ -1,0 +1,19 @@
+{
+  "anidbid": "13977",
+  "tvdbid": "339278",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "5",
+  "tmdbtv": "76139",
+  "tmdbseason": "0",
+  "tmdboffset": "5",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Pop Team Epic (2019)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-6;2-6;"
+    }
+  }
+}

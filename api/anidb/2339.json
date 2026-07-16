@@ -1,0 +1,20 @@
+{
+  "anidbid": "2339",
+  "tvdbid": "84535",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "37267",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Sweet Valerian",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "1",
+      "text": ";1-19;2-20;3-21;4-22;5-23;6-24;7-25;8-26;"
+    }
+  },
+  "before": ";1-11;2-11;3-14;4-14;5-16;6-16;7-17;8-18;"
+}

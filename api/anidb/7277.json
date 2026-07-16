@@ -1,0 +1,19 @@
+{
+  "anidbid": "7277",
+  "tvdbid": "83314",
+  "defaulttvdbseason": "3",
+  "episodeoffset": "",
+  "tmdbtv": "42917",
+  "tmdbseason": "3",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Shin Koihime Musou: Otome Tairan",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-4;2-7;3-0;"
+    }
+  }
+}

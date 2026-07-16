@@ -1,0 +1,19 @@
+{
+  "anidbid": "2095",
+  "tvdbid": "157001",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "38324",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Dragon Quest Retsuden: Roto no Monshou",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

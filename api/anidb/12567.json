@@ -1,0 +1,18 @@
+{
+  "anidbid": "12567",
+  "tvdbid": "79525",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "477776",
+  "imdbid": "",
+  "name": "Gekijou Soushuuhen Code Geass: Hangyaku no Lelouch",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0"
+    }
+  }
+}

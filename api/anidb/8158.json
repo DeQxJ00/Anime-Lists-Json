@@ -1,0 +1,19 @@
+{
+  "anidbid": "8158",
+  "tvdbid": "87851",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "24392",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Senjou no Valkyria 3: Unrecorded Chronicles - Tagatame no Juusou",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-10;2-11;"
+    }
+  }
+}

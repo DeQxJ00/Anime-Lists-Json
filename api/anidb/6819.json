@@ -1,0 +1,19 @@
+{
+  "anidbid": "6819",
+  "tvdbid": "79035",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "42722",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Mahoromatic: Tadaima Okaeri",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-4;2-5;"
+    }
+  }
+}

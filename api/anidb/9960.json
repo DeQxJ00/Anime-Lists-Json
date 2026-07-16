@@ -1,0 +1,19 @@
+{
+  "anidbid": "9960",
+  "tvdbid": "273004",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "60667",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Gundam Build Fighters",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-2;2-3;3-1;"
+    }
+  }
+}

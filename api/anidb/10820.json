@@ -1,0 +1,42 @@
+{
+  "anidbid": "10820",
+  "tvdbid": "262856",
+  "defaulttvdbseason": "4",
+  "episodeoffset": "",
+  "tmdbtv": "53020",
+  "tmdbseason": "4",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Teekyuu (2015)",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-5;2-6;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "5",
+        "start": "13",
+        "end": "24",
+        "offset": "-12"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "6",
+        "start": "25",
+        "end": "36",
+        "offset": "-24"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "7",
+        "start": "37",
+        "end": "48",
+        "offset": "-36"
+      }
+    ]
+  }
+}

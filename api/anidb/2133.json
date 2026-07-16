@@ -1,0 +1,19 @@
+{
+  "anidbid": "2133",
+  "tvdbid": "250848",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "43231",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0389077",
+  "name": "Kinnikuman (1984)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-2;2-2;3-2;"
+    }
+  }
+}

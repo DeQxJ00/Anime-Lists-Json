@@ -1,0 +1,21 @@
+{
+  "anidbid": "10321",
+  "tvdbid": "254667",
+  "defaulttvdbseason": "3",
+  "episodeoffset": "",
+  "tmdbtv": "63322",
+  "tmdbseason": "3",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Senki Zesshou Symphogear GX",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "4",
+      "offset": "2"
+    }
+  }
+}

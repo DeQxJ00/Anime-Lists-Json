@@ -1,0 +1,19 @@
+{
+  "anidbid": "3379",
+  "tvdbid": "70516",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "35993",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Yoroiden Samurai Troopers Kikoutei Densetsu",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-3;2-4;3-5;4-6;"
+    }
+  }
+}

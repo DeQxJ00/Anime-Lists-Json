@@ -1,0 +1,19 @@
+{
+  "anidbid": "2814",
+  "tvdbid": "85230",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "13339",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0204704",
+  "name": "Uchuu Senkan Yamato (1977)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-1;2-1;3-1;"
+    }
+  }
+}

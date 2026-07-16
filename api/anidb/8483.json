@@ -1,0 +1,19 @@
+{
+  "anidbid": "8483",
+  "tvdbid": "78962",
+  "defaulttvdbseason": "3",
+  "episodeoffset": "",
+  "tmdbtv": "22634",
+  "tmdbseason": "3",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Shakugan no Shana Final",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-19;2-20;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "10326",
+  "tvdbid": "264534",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "48561",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt3413018",
+  "name": "Tamako Love Story",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-7;"
+    }
+  }
+}

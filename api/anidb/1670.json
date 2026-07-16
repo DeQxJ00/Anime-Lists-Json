@@ -1,0 +1,21 @@
+{
+  "anidbid": "1670",
+  "tvdbid": "105441",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "6153",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Tetsujin 28-gou",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "2",
+      "start": "27",
+      "end": "52",
+      "offset": "-26"
+    }
+  }
+}

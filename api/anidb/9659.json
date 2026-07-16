@@ -1,0 +1,21 @@
+{
+  "anidbid": "9659",
+  "tvdbid": "273002",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "71441",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku o Ketsui Shimashita.",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "5",
+      "offset": "1"
+    }
+  }
+}

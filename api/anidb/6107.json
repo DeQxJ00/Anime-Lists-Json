@@ -1,0 +1,22 @@
+{
+  "anidbid": "6107",
+  "tvdbid": "85249",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "31911",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Hagane no Renkinjutsushi (2009)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "2",
+      "end": "21",
+      "offset": "-1",
+      "text": ";1-0;22-22;"
+    }
+  }
+}

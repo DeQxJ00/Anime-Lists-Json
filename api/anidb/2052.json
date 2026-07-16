@@ -1,0 +1,19 @@
+{
+  "anidbid": "2052",
+  "tvdbid": "72454",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "30983",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt1133935",
+  "name": "Meitantei Conan: Meikyuu no Crossroad",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-10;2-10;3-10;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "1431",
+  "tvdbid": "79032",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "34148",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kono Minikuku mo Utsukushii Sekai",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;101-3;102-4;103-5;201-1;401-2;"
+    }
+  }
+}

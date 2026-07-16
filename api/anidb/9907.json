@@ -1,0 +1,19 @@
+{
+  "anidbid": "9907",
+  "tvdbid": "275798",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "45845",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Fate/Zero Cafe",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

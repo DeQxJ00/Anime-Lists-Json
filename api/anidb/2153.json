@@ -1,0 +1,26 @@
+{
+  "anidbid": "2153",
+  "tvdbid": "78500",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "3570",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0112513",
+  "name": "Bishoujo Senshi Sailor Moon Super S: Sailor 9 Senshi Shuuketsu! Black Dream Hole no Kiseki",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-9;2-0;3-0;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-8;"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "2061",
+  "tvdbid": "76894",
+  "defaulttvdbseason": "a",
+  "episodeoffset": "",
+  "tmdbtv": "902",
+  "tmdbseason": "a",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Yuu Gi Ou: Duel Monsters",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;2-0;"
+    }
+  }
+}

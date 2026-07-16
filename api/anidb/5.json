@@ -1,0 +1,22 @@
+{
+  "anidbid": "5",
+  "tvdbid": "72025",
+  "defaulttvdbseason": "3",
+  "episodeoffset": "",
+  "tmdbtv": "26209",
+  "tmdbseason": "3",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Seikai no Senki II",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-4;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "Sunrise"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "16350",
+  "tvdbid": "71863",
+  "defaulttvdbseason": "6",
+  "episodeoffset": "",
+  "tmdbtv": "31572",
+  "tmdbseason": "6",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Lupin Sansei: Part 6",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-50;"
+    }
+  }
+}

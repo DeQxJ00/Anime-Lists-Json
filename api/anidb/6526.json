@@ -1,0 +1,19 @@
+{
+  "anidbid": "6526",
+  "tvdbid": "80900",
+  "defaulttvdbseason": "3",
+  "episodeoffset": "",
+  "tmdbtv": "43249",
+  "tmdbseason": "3",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Aika Zero",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-3;2-4;3-5;"
+    }
+  }
+}

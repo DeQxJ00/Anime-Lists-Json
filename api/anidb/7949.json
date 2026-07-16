@@ -1,0 +1,26 @@
+{
+  "anidbid": "7949",
+  "tvdbid": "221281",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "43926",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Hourou Musuko",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";10-1;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "1",
+        "text": ";11-12;"
+      }
+    ]
+  }
+}

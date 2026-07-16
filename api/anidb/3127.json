@@ -1,0 +1,26 @@
+{
+  "anidbid": "3127",
+  "tvdbid": "76695",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "12634",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Blue Seed 1.5",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-17;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-0;2-0;"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "44",
+  "tvdbid": "94701",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "68586",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0407521",
+  "name": "Amon: Devilman Mokushiroku",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-3;"
+    }
+  }
+}

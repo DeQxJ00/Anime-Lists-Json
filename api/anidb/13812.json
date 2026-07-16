@@ -1,0 +1,19 @@
+{
+  "anidbid": "13812",
+  "tvdbid": "262954",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "45790",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kishibe Rohan wa Ugokanai",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-1;2-2;3-6;4-7;"
+    }
+  }
+}

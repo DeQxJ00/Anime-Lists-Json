@@ -1,0 +1,19 @@
+{
+  "anidbid": "26",
+  "tvdbid": "74125",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "42729",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Juuni Kokuki",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;2-0;"
+    }
+  }
+}

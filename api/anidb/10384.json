@@ -1,0 +1,19 @@
+{
+  "anidbid": "10384",
+  "tvdbid": "79214",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "26867",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Mushishi Zoku Shou",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";11-2;"
+    }
+  }
+}

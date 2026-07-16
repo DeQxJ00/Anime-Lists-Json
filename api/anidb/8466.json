@@ -1,0 +1,19 @@
+{
+  "anidbid": "8466",
+  "tvdbid": "259863",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "161688",
+  "imdbid": "",
+  "name": "Shiranpuri (2012)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "2",
+      "text": ";1-4;"
+    }
+  }
+}

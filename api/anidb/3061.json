@@ -1,0 +1,19 @@
+{
+  "anidbid": "3061",
+  "tvdbid": "83105",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "4",
+  "tmdbtv": "22104",
+  "tmdbseason": "0",
+  "tmdboffset": "4",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Touch: Crossroad - Kaze no Yukue",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-5;"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "anidbid": "13624",
+  "tvdbid": "357019",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "86034",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Arifureta Shokugyou de Sekai Saikyou",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "start": "1",
+        "end": "4",
+        "offset": "0"
+      },
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "start": "5",
+        "end": "16",
+        "offset": "-16"
+      }
+    ]
+  }
+}

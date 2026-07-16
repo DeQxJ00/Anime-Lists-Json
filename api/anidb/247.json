@@ -1,0 +1,22 @@
+{
+  "anidbid": "247",
+  "tvdbid": "73749",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "1095",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Koukaku Kidoutai Stand Alone Complex",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "2",
+      "end": "27",
+      "offset": "5",
+      "text": ";1-0;28-0;29-0;30-0;31-0;32-0;33-0;34-0;35-0;36-0;37-0;38-0;39-0;40-0;41-0;42-0;43-0;44-0;45-0;46-0;47-0;48-0;49-0;50-0;51-0;52-0;53-0;54-0;55-0;56-0;57-0;58-0;59-0;"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "anidbid": "11955",
+  "tvdbid": "254667",
+  "defaulttvdbseason": "4",
+  "episodeoffset": "",
+  "tmdbtv": "63322",
+  "tmdbseason": "4",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Senki Zesshou Symphogear AXZ",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "5",
+      "offset": "6"
+    }
+  }
+}

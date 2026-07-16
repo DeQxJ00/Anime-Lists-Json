@@ -1,0 +1,19 @@
+{
+  "anidbid": "2382",
+  "tvdbid": "77089",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "10797",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Cat Ninden Teyandee",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-2;"
+    }
+  }
+}

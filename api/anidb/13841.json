@@ -1,0 +1,19 @@
+{
+  "anidbid": "13841",
+  "tvdbid": "251982",
+  "defaulttvdbseason": "3",
+  "episodeoffset": "",
+  "tmdbtv": "45247",
+  "tmdbseason": "3",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Chihayafuru 3",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-5;"
+    }
+  }
+}

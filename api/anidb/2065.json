@@ -1,0 +1,22 @@
+{
+  "anidbid": "2065",
+  "tvdbid": "71551",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "19553",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Tatakae! Chou Robot Seimeitai Transformers Victory",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "1",
+      "start": "1",
+      "end": "6",
+      "offset": "38"
+    }
+  },
+  "before": ";1-39;2-40;3-41;4-42;5-43;6-44;"
+}

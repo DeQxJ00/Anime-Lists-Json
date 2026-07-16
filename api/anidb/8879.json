@@ -1,0 +1,19 @@
+{
+  "anidbid": "8879",
+  "tvdbid": "259642",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "45234",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Dakara Boku wa, H ga Dekinai.",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-2;"
+    }
+  }
+}

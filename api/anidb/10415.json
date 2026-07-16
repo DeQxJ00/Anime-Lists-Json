@@ -1,0 +1,19 @@
+{
+  "anidbid": "10415",
+  "tvdbid": "270065",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "61456",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Free! Eternal Summer",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-8;"
+    }
+  }
+}

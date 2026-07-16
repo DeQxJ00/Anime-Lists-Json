@@ -1,0 +1,19 @@
+{
+  "anidbid": "4575",
+  "tvdbid": "80096",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "21729",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Tengen Toppa Gurren Lagann",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-2;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "15772",
+  "tvdbid": "390028",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "111255",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Wonder Egg Priority",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "1",
+      "text": ";1-13;"
+    }
+  }
+}

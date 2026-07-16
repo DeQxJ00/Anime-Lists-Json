@@ -1,0 +1,22 @@
+{
+  "anidbid": "2850",
+  "tvdbid": "76932",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "57706",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0109422",
+  "name": "Ranma 1/2: Chou Musabetsu Kessen! Ranma Team VS Densetsu no Houou",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-11;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "Studio Deen"
+  }
+}

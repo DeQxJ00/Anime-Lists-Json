@@ -1,0 +1,26 @@
+{
+  "anidbid": "9919",
+  "tvdbid": "261862",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "214553",
+  "imdbid": "tt3203996",
+  "name": "Takanashi Rikka Kai: Gekijouban Chuunibyou demo Koi ga Shitai!",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-17;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-3;"
+      }
+    ]
+  }
+}

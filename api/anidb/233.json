@@ -1,0 +1,35 @@
+{
+  "anidbid": "233",
+  "tvdbid": "79275",
+  "defaulttvdbseason": "a",
+  "episodeoffset": "",
+  "tmdbtv": "12697",
+  "tmdbseason": "a",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Dragon Ball GT",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-0;2-1;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "2",
+        "start": "17",
+        "end": "40",
+        "offset": "-16"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "3",
+        "start": "41",
+        "end": "64",
+        "offset": "-40"
+      }
+    ]
+  }
+}

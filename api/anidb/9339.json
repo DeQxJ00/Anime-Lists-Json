@@ -1,0 +1,21 @@
+{
+  "anidbid": "9339",
+  "tvdbid": "88161",
+  "defaulttvdbseason": "5",
+  "episodeoffset": "",
+  "tmdbtv": "35138",
+  "tmdbseason": "5",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Hetalia: The Beautiful World",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "5",
+      "start": "1",
+      "end": "5",
+      "offset": "20"
+    }
+  }
+}

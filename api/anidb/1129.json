@@ -1,0 +1,19 @@
+{
+  "anidbid": "1129",
+  "tvdbid": "76666",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "12609",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0142250",
+  "name": "Dragon Ball: Saikyou e no Michi",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-4;2-4;3-4;"
+    }
+  }
+}

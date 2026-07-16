@@ -1,0 +1,22 @@
+{
+  "anidbid": "717",
+  "tvdbid": "80783",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "72677",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kidou Senshi Gundam 0083: Stardust Memory",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-2;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "Sunrise"
+  }
+}

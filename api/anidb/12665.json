@@ -1,0 +1,22 @@
+{
+  "anidbid": "12665",
+  "tvdbid": "331753",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "73223",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Black Clover (2017)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "2",
+      "end": "16",
+      "offset": "9",
+      "text": ";1-2;"
+    }
+  }
+}

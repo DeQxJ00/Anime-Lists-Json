@@ -1,0 +1,19 @@
+{
+  "anidbid": "7420",
+  "tvdbid": "75414",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "63164",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Chibi Kero: Kero Ball no Himitsu!?",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

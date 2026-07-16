@@ -1,0 +1,19 @@
+{
+  "anidbid": "17634",
+  "tvdbid": "71863",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "51",
+  "tmdbtv": "31572",
+  "tmdbseason": "0",
+  "tmdboffset": "51",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Lupin Sansei vs Cat's Eye",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-52;2-52;3-52;"
+    }
+  }
+}

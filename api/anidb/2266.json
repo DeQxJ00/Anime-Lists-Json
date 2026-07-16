@@ -1,0 +1,19 @@
+{
+  "anidbid": "2266",
+  "tvdbid": "85064",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "27816",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Wind: A Breath of Heart OVA",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-5;2-6;3-7;"
+    }
+  }
+}

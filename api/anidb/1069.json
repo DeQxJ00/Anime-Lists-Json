@@ -1,0 +1,19 @@
+{
+  "anidbid": "1069",
+  "tvdbid": "81472",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "14",
+  "tmdbtv": "12971",
+  "tmdbseason": "0",
+  "tmdboffset": "14",
+  "tmdbid": "",
+  "imdbid": "tt0142238",
+  "name": "Dragon Ball Z: Ginga Girigiri!! Bucchigiri no Sugoi Yatsu",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";2-9;3-9;"
+    }
+  }
+}

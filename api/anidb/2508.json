@@ -1,0 +1,19 @@
+{
+  "anidbid": "2508",
+  "tvdbid": "80009",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "43004",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Tenchi Muyou! Ryououki: Omatsuri Zenjitsu no Yoru!",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "1",
+      "text": ";1-7;2-7;3-7;"
+    }
+  }
+}

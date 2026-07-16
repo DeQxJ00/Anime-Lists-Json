@@ -1,0 +1,22 @@
+{
+  "anidbid": "9241",
+  "tvdbid": "220571",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "38420",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kore wa Zombie Desuka? Of the Dead: Hai, Encore Arigatou Gozaimasu",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-2;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "Studio Deen"
+  }
+}

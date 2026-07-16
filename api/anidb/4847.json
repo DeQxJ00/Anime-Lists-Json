@@ -1,0 +1,19 @@
+{
+  "anidbid": "4847",
+  "tvdbid": "70350",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "2",
+  "tmdbtv": "890",
+  "tmdbseason": "0",
+  "tmdboffset": "2",
+  "tmdbid": "",
+  "imdbid": "tt0923811",
+  "name": "Evangelion Shin Gekijouban: Jo",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

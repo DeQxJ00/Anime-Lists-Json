@@ -1,0 +1,19 @@
+{
+  "anidbid": "2354",
+  "tvdbid": "",
+  "defaulttvdbseason": "",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Madou King Grandzort: Bouken Hen",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-3;2-4;3-5;"
+    }
+  }
+}

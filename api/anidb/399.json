@@ -1,0 +1,22 @@
+{
+  "anidbid": "399",
+  "tvdbid": "80587",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "34660",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Gekijouban Gensou Maden Saiyuuki: Requiem - Erabarezaru Mono e no Chinkonka",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";2-1;3-1;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "Studio Pierrot"
+  }
+}

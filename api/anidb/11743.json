@@ -1,0 +1,25 @@
+{
+  "anidbid": "11743",
+  "tvdbid": "297315",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "63330",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Okusama ga Seitokaichou! Seitokaichou to Ofuro Asobi",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-15;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0"
+      }
+    ]
+  }
+}

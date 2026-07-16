@@ -1,0 +1,19 @@
+{
+  "anidbid": "834",
+  "tvdbid": "80608",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "21897",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Green Green (2003)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-12;2-3;3-6;4-7;5-4;6-8;7-9;8-5;9-10;10-11;"
+    }
+  }
+}

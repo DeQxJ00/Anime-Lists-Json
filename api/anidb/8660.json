@@ -1,0 +1,23 @@
+{
+  "anidbid": "8660",
+  "tvdbid": "254653",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "45950",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "High School DxD",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "tmdbseason": "0",
+      "start": "1",
+      "end": "7",
+      "offset": "1",
+      "text": ";7-1;"
+    }
+  }
+}

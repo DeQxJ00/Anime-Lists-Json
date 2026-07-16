@@ -1,0 +1,19 @@
+{
+  "anidbid": "8606",
+  "tvdbid": "79099",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "14",
+  "tmdbtv": "8864",
+  "tmdbseason": "0",
+  "tmdboffset": "14",
+  "tmdbid": "",
+  "imdbid": "tt2064704",
+  "name": ".hack//Sekai no Mukou ni",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-16;"
+    }
+  }
+}

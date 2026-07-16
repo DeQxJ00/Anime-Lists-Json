@@ -1,0 +1,19 @@
+{
+  "anidbid": "429",
+  "tvdbid": "70865",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "44587",
+  "imdbid": "tt0184041",
+  "name": "X",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";2-1;3-1;"
+    }
+  }
+}

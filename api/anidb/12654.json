@@ -1,0 +1,19 @@
+{
+  "anidbid": "12654",
+  "tvdbid": "305082",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "567006",
+  "imdbid": "tt10253816",
+  "name": "Koutetsujou no Kabaneri: Unato Kessen",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-3;2-3;3-3;4-3;"
+    }
+  }
+}

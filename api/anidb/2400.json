@@ -1,0 +1,29 @@
+{
+  "anidbid": "2400",
+  "tvdbid": "78916",
+  "defaulttvdbseason": "a",
+  "episodeoffset": "",
+  "tmdbtv": "11279",
+  "tmdbseason": "a",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Gantz",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "1",
+        "tvdbseason": "1",
+        "start": "1",
+        "end": "13"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "2",
+        "start": "14",
+        "end": "26",
+        "offset": "-13"
+      }
+    ]
+  }
+}

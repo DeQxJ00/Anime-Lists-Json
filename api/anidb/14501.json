@@ -1,0 +1,19 @@
+{
+  "anidbid": "14501",
+  "tvdbid": "71863",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "45",
+  "tmdbtv": "31572",
+  "tmdbseason": "0",
+  "tmdboffset": "45",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Lupin Sansei: Goodbye Partner",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-46;2-46;3-46;"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "anidbid": "6082",
+  "tvdbid": "80096",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "21729",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Gurren Lagann Parallel Works",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-0;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-6;2-7;3-8;4-9;5-10;6-11;7-12;8-13;"
+      }
+    ]
+  }
+}

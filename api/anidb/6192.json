@@ -1,0 +1,19 @@
+{
+  "anidbid": "6192",
+  "tvdbid": "79283",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "36250",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "xxxHOLiC Shunmuki",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-2;2-3;"
+    }
+  }
+}

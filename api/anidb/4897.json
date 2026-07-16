@@ -1,0 +1,20 @@
+{
+  "anidbid": "4897",
+  "tvdbid": "80421",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "34121",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Baccano!",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "1",
+      "text": ";1-14;2-15;3-16;"
+    }
+  },
+  "before": ";1-14;2-15;3-16;"
+}

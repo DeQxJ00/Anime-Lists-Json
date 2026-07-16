@@ -1,0 +1,19 @@
+{
+  "anidbid": "13795",
+  "tvdbid": "354199",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "83122",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kemurikusa (2019)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;2-8;3-1;4-2;5-3;6-4;7-5;"
+    }
+  }
+}

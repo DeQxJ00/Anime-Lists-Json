@@ -1,0 +1,22 @@
+{
+  "anidbid": "11135",
+  "tvdbid": "289763",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "13",
+  "tmdbtv": "63406",
+  "tmdbseason": "1",
+  "tmdboffset": "13",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "The Idolmaster: Cinderella Girls (2015)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "2",
+      "end": "3",
+      "offset": "0",
+      "text": ";1-4;"
+    }
+  }
+}

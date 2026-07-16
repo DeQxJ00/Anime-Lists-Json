@@ -1,0 +1,26 @@
+{
+  "anidbid": "459",
+  "tvdbid": "81432",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "9642",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Maze Bakunetsu Jikuu (1997)",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-4;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "1",
+        "text": ";7-8;8-9;9-10;10-7;"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "anidbid": "2498",
+  "tvdbid": "72442",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "9161",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Dirty Pair: Lovely Angels yori Ai o Komete",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "1",
+      "text": ";1-25;2-26;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "Sunrise"
+  }
+}

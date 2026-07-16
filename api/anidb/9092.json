@@ -1,0 +1,19 @@
+{
+  "anidbid": "9092",
+  "tvdbid": "252471",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "43125",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Guilty Crown: Lost Christmas - An Episode of Port Town",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-2;"
+    }
+  }
+}

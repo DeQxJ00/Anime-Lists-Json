@@ -1,0 +1,19 @@
+{
+  "anidbid": "7117",
+  "tvdbid": "76703",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "295613",
+  "imdbid": "",
+  "name": "Pocket Monsters Crystal: Raikou Ikazuchi no Densetsu",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-42;2-42;3-42;4-42;5-42;6-42;"
+    }
+  }
+}

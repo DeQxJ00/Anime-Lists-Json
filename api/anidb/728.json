@@ -1,0 +1,19 @@
+{
+  "anidbid": "728",
+  "tvdbid": "79765",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "37392",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0084881",
+  "name": "Waga Seishun no Arcadia",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-1;2-1;3-1;"
+    }
+  }
+}

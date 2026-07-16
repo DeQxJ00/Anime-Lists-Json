@@ -1,0 +1,20 @@
+{
+  "anidbid": "473",
+  "tvdbid": "107441",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "34205",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Nanaka 6/17",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "1",
+      "text": ";1-13;"
+    }
+  },
+  "before": ";1-13;"
+}

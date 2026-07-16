@@ -1,0 +1,19 @@
+{
+  "anidbid": "6031",
+  "tvdbid": "80327",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "42887",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Goku Sayonara Zetsubou-sensei",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-3;2-4;3-5;"
+    }
+  }
+}

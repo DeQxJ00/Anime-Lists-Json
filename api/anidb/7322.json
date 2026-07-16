@@ -1,0 +1,22 @@
+{
+  "anidbid": "7322",
+  "tvdbid": "75113",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "531732",
+  "imdbid": "",
+  "name": "Urusei Yatsura: The Shougaibutsu Suieitaikai",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-20;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "Kitty Film"
+  }
+}

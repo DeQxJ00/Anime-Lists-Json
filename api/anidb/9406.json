@@ -1,0 +1,21 @@
+{
+  "anidbid": "9406",
+  "tvdbid": "252474",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "60732",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Maken-ki! Two",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "5",
+      "offset": "8"
+    }
+  }
+}

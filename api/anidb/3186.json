@@ -1,0 +1,19 @@
+{
+  "anidbid": "3186",
+  "tvdbid": "78960",
+  "defaulttvdbseason": "a",
+  "episodeoffset": "",
+  "tmdbtv": "19849",
+  "tmdbseason": "a",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Blood+",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

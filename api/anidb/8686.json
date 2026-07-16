@@ -1,0 +1,19 @@
+{
+  "anidbid": "8686",
+  "tvdbid": "254654",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "46183",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Papa no Iu Koto o Kikinasai!",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";2-0;3-0;4-0;"
+    }
+  }
+}

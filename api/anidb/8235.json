@@ -1,0 +1,35 @@
+{
+  "anidbid": "8235",
+  "tvdbid": "132961",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "56343",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Baka to Test to Shoukanjuu Ni!",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";16-20;"
+      },
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "start": "1",
+        "end": "9",
+        "offset": "10"
+      },
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "start": "10",
+        "end": "15",
+        "offset": "11"
+      }
+    ]
+  }
+}

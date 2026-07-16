@@ -1,0 +1,19 @@
+{
+  "anidbid": "2132",
+  "tvdbid": "71419",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "9550",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0339256",
+  "name": "Kinnikuman II-sei: Muscle Ninjin Soudatsu! Choujin Daisensou",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-2;"
+    }
+  }
+}

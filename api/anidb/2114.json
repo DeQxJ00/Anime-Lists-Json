@@ -1,0 +1,19 @@
+{
+  "anidbid": "2114",
+  "tvdbid": "138691",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Rhea Gall Force",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "1",
+      "text": ";1-4;"
+    }
+  }
+}

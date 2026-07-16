@@ -1,0 +1,19 @@
+{
+  "anidbid": "12014",
+  "tvdbid": "309530",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "67043",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "91 Days",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-2;2-1;"
+    }
+  }
+}

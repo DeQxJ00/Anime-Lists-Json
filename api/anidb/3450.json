@@ -1,0 +1,20 @@
+{
+  "anidbid": "3450",
+  "tvdbid": "80391",
+  "defaulttvdbseason": "a",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "IGPX: Immortal Grand Prix (2005)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "2",
+      "text": ";1-12;2-13;"
+    }
+  },
+  "before": ";1-25;2-26;"
+}

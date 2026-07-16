@@ -1,0 +1,29 @@
+{
+  "anidbid": "2512",
+  "tvdbid": "75940",
+  "defaulttvdbseason": "a",
+  "episodeoffset": "",
+  "tmdbtv": "34175",
+  "tmdbseason": "a",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Onmyou Taisenki",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "1",
+        "tvdbseason": "1",
+        "start": "1",
+        "end": "26"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "2",
+        "start": "27",
+        "end": "52",
+        "offset": "-26"
+      }
+    ]
+  }
+}

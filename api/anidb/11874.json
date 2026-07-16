@@ -1,0 +1,19 @@
+{
+  "anidbid": "11874",
+  "tvdbid": "305799",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "67534",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kanojo to Kanojo no Neko: Everything Flows",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-2;"
+    }
+  }
+}

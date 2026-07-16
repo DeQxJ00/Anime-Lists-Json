@@ -1,0 +1,19 @@
+{
+  "anidbid": "6400",
+  "tvdbid": "83314",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "42917",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Shin Koihime Musou",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-2;2-6;3-0;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "6141",
+  "tvdbid": "76932",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "57706",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Ranma 1/2: Akumu! Shunmin Kou",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-15;"
+    }
+  }
+}

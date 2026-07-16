@@ -1,0 +1,50 @@
+{
+  "anidbid": "14086",
+  "tvdbid": "347734",
+  "defaulttvdbseason": "a",
+  "episodeoffset": "",
+  "tmdbtv": "80020",
+  "tmdbseason": "a",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Super Dragon Ball Heroes",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "1",
+        "tvdbseason": "2",
+        "start": "7",
+        "end": "19",
+        "offset": "-6"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "3",
+        "start": "20",
+        "end": "30",
+        "offset": "-19"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "4",
+        "start": "31",
+        "end": "38",
+        "offset": "-30"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "5",
+        "start": "39",
+        "end": "48",
+        "offset": "-38"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "6",
+        "start": "49",
+        "offset": "-48"
+      }
+    ]
+  }
+}

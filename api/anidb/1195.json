@@ -1,0 +1,19 @@
+{
+  "anidbid": "1195",
+  "tvdbid": "80789",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "21738",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kidou Keisatsu Patlabor (1990)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "2",
+      "text": ";2-5;3-2;4-6;5-3;6-7;7-4;"
+    }
+  }
+}

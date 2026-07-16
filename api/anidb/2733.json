@@ -1,0 +1,19 @@
+{
+  "anidbid": "2733",
+  "tvdbid": "76023",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "37565",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Tsubasa Chronicle",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

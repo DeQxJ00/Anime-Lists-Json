@@ -1,0 +1,21 @@
+{
+  "anidbid": "11009",
+  "tvdbid": "281949",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "61422",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Grisaia no Rakuen",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "5",
+      "offset": "8"
+    }
+  }
+}

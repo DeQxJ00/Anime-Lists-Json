@@ -1,0 +1,19 @@
+{
+  "anidbid": "9014",
+  "tvdbid": "167921",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "56389",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt2329968",
+  "name": "Sore Ike! Anpanman: Yomigaere Bananajima",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-51;"
+    }
+  }
+}

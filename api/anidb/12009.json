@@ -1,0 +1,19 @@
+{
+  "anidbid": "12009",
+  "tvdbid": "82788",
+  "defaulttvdbseason": "5",
+  "episodeoffset": "",
+  "tmdbtv": "69500",
+  "tmdbseason": "5",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Natsume Yuujinchou Go",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";2-3;3-4;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "7321",
+  "tvdbid": "75534",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "74616",
+  "imdbid": "",
+  "name": "Super Street Fighter IV",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-5;"
+    }
+  }
+}

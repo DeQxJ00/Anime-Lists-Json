@@ -1,0 +1,19 @@
+{
+  "anidbid": "18280",
+  "tvdbid": "376144",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "1220441",
+  "imdbid": "tt30827040",
+  "name": "Great Pretender: Razbliuto",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-1;2-1;3-1;4-1;"
+    }
+  }
+}

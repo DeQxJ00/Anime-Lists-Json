@@ -1,0 +1,19 @@
+{
+  "anidbid": "1091",
+  "tvdbid": "82971",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "8880",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Space Cobra",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "2",
+      "tvdbseason": "0",
+      "text": ";1-0;2-0;"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "anidbid": "4170",
+  "tvdbid": "254931",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "20111",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kidou Senshi Gundam SEED Destiny Final Plus: Erabareta Mirai",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-18;2-18;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-18;"
+      }
+    ]
+  }
+}

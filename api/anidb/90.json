@@ -1,0 +1,47 @@
+{
+  "anidbid": "90",
+  "tvdbid": "70863",
+  "defaulttvdbseason": "a",
+  "episodeoffset": "",
+  "tmdbtv": "28136",
+  "tmdbseason": "a",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Rurouni Kenshin: Meiji Kenkaku Romantan",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-0;2-0;3-0;5-0;6-0;"
+      },
+      {
+        "anidbseason": "0",
+        "tvdbseason": "3",
+        "text": ";4-33;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "1",
+        "start": "1",
+        "end": "27"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "2",
+        "start": "28",
+        "end": "62",
+        "offset": "-27"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "3",
+        "start": "63",
+        "end": "94",
+        "offset": "-62"
+      }
+    ]
+  },
+  "before": ";4-95;"
+}

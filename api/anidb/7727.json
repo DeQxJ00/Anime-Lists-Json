@@ -1,0 +1,19 @@
+{
+  "anidbid": "7727",
+  "tvdbid": "219131",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "46025",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "IS: Infinite Stratos",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

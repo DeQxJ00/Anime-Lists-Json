@@ -1,0 +1,19 @@
+{
+  "anidbid": "8243",
+  "tvdbid": "173261",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "93845",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Shukufuku no Campanella (2011)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-7;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "4388",
+  "tvdbid": "78962",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "3",
+  "tmdbtv": "22634",
+  "tmdbseason": "0",
+  "tmdboffset": "3",
+  "tmdbid": "",
+  "imdbid": "tt0994794",
+  "name": "Gekijouban Shakugan no Shana",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-6;2-0;3-0;4-0;5-0;6-0;7-0;205-5;206-5;"
+    }
+  }
+}

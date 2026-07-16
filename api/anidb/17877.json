@@ -1,0 +1,30 @@
+{
+  "anidbid": "17877",
+  "tvdbid": "407520",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "119495",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "start": "1",
+        "end": "4",
+        "offset": "17"
+      },
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "start": "5",
+        "end": "12",
+        "offset": "18"
+      }
+    ]
+  }
+}

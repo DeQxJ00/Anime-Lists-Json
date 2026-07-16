@@ -1,0 +1,19 @@
+{
+  "anidbid": "9216",
+  "tvdbid": "76703",
+  "defaulttvdbseason": "15",
+  "episodeoffset": "",
+  "tmdbtv": "60572",
+  "tmdbseason": "15",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Pocket Monsters: Best Wishes! Season 2",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;2-0;3-0;"
+    }
+  }
+}

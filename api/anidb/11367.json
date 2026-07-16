@@ -1,0 +1,19 @@
+{
+  "anidbid": "11367",
+  "tvdbid": "79460",
+  "defaulttvdbseason": "3",
+  "episodeoffset": "",
+  "tmdbtv": "23587",
+  "tmdbseason": "3",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kindaichi Shounen no Jikenbo Returns (2015)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-8;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "575",
+  "tvdbid": "79179",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "34166",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kino no Tabi: The Beautiful World",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;2-0;3-0;"
+    }
+  }
+}

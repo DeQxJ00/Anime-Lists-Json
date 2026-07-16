@@ -1,0 +1,19 @@
+{
+  "anidbid": "2481",
+  "tvdbid": "79454",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "37534",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Uta Kata",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";401-4;"
+    }
+  }
+}

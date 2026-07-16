@@ -1,0 +1,26 @@
+{
+  "anidbid": "9513",
+  "tvdbid": "87491",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "45502",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Vanquished Queens",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-33;2-34;3-35;4-36;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-29;2-30;3-31;4-32;"
+      }
+    ]
+  }
+}

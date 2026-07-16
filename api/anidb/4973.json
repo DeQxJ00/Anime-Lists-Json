@@ -1,0 +1,19 @@
+{
+  "anidbid": "4973",
+  "tvdbid": "80587",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "34660",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Gensou Maden Saiyuuki: Kibou no Zaika",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-2;"
+    }
+  }
+}

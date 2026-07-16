@@ -1,0 +1,19 @@
+{
+  "anidbid": "10760",
+  "tvdbid": "278626",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "12",
+  "tmdbtv": "61415",
+  "tmdbseason": "1",
+  "tmdboffset": "12",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Fate/Stay Night: Unlimited Blade Works (2015)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-2;"
+    }
+  }
+}

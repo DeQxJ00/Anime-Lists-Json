@@ -1,0 +1,22 @@
+{
+  "anidbid": "1174",
+  "tvdbid": "72442",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "68367",
+  "imdbid": "",
+  "name": "Dirty Pair: Bouryaku no 005-bin",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-13;2-13;3-13;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "Sunrise"
+  }
+}

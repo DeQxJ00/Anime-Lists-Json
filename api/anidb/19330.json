@@ -1,0 +1,19 @@
+{
+  "anidbid": "19330",
+  "tvdbid": "463638",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "291414",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Android wa Keiken Ninzuu ni Hairimasuka??",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tmdbseason": "1",
+      "text": ";1-9;"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "anidbid": "3321",
+  "tvdbid": "78987",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "34065",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Black Cat",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "1",
+        "text": ";1-15;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "1",
+        "start": "15",
+        "end": "23",
+        "offset": "1"
+      }
+    ]
+  },
+  "before": ";1-15;"
+}

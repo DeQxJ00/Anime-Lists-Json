@@ -1,0 +1,29 @@
+{
+  "anidbid": "2996",
+  "tvdbid": "76932",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "57706",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Ranma 1/2 Super",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-0;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-12;2-13;3-14;"
+      }
+    ]
+  },
+  "supplemental-info": {
+    "studio": "Studio Deen"
+  }
+}

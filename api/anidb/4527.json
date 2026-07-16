@@ -1,0 +1,22 @@
+{
+  "anidbid": "4527",
+  "tvdbid": "81073",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "66931",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Top o Nerae 2! Gekijouban",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-11;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "Gainax"
+  }
+}

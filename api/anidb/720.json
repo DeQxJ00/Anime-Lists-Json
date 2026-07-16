@@ -1,0 +1,22 @@
+{
+  "anidbid": "720",
+  "tvdbid": "76547",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "21731",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0095262",
+  "name": "Kidou Senshi Gundam: Gyakushuu no Char",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-4;2-4;3-4;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "Sunrise"
+  }
+}

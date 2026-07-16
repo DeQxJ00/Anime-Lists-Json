@@ -1,0 +1,19 @@
+{
+  "anidbid": "2308",
+  "tvdbid": "250848",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "43231",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0390164",
+  "name": "Kinnikuman: New York Kikiippatsu!",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-7;"
+    }
+  }
+}

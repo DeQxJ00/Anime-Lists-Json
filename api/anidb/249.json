@@ -1,0 +1,19 @@
+{
+  "anidbid": "249",
+  "tvdbid": "349691",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "116741",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Pia Carrot e Youkoso!!",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;2-0;3-0;"
+    }
+  }
+}

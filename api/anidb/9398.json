@@ -1,0 +1,21 @@
+{
+  "anidbid": "9398",
+  "tvdbid": "186911",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "46440",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Hyakka Ryouran: Samurai Bride",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "6",
+      "offset": "13"
+    }
+  }
+}

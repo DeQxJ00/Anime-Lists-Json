@@ -1,0 +1,19 @@
+{
+  "anidbid": "13",
+  "tvdbid": "78947",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "1041",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Noir",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;2-0;3-0;4-0;"
+    }
+  }
+}

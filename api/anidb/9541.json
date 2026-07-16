@@ -1,0 +1,19 @@
+{
+  "anidbid": "9541",
+  "tvdbid": "267440",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "1429",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Shingeki no Kyojin",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-1;2-2;3-3;4-4;5-5;6-6;7-8;8-9;9-10;10-11;11-0;12-0;13-0;14-0;15-0;"
+    }
+  }
+}

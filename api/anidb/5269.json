@@ -1,0 +1,21 @@
+{
+  "anidbid": "5269",
+  "tvdbid": "81428",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "46092",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Sky Girls (2007)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "9",
+      "offset": "1"
+    }
+  }
+}

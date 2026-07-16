@@ -1,0 +1,22 @@
+{
+  "anidbid": "201",
+  "tvdbid": "79035",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "42722",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Mahoromatic: Automatic Maiden - Motto Utsukushii Mono",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "2",
+      "offset": "1",
+      "text": ";3-0;4-0;"
+    }
+  }
+}

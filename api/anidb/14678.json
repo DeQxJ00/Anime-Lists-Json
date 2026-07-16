@@ -1,0 +1,22 @@
+{
+  "anidbid": "14678",
+  "tvdbid": "318893",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "69291",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kobayashi-san Chi no Maidragon S",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "22",
+      "offset": "7",
+      "text": ";1-30;"
+    }
+  }
+}

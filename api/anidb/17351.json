@@ -1,0 +1,19 @@
+{
+  "anidbid": "17351",
+  "tvdbid": "344220",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "5",
+  "tmdbtv": "77694",
+  "tmdbseason": "0",
+  "tmdboffset": "5",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Uma Musume: Pretty Derby - Road to the Top",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";401-11;"
+    }
+  }
+}

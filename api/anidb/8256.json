@@ -1,0 +1,19 @@
+{
+  "anidbid": "8256",
+  "tvdbid": "259863",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Ojii-san no Lamp",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "1",
+      "text": ";1-2;"
+    }
+  }
+}

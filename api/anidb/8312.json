@@ -1,0 +1,19 @@
+{
+  "anidbid": "8312",
+  "tvdbid": "79824",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "31910",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt1999167",
+  "name": "Gekijouban Naruto: Blood Prison",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-7;"
+    }
+  }
+}

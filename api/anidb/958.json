@@ -1,0 +1,19 @@
+{
+  "anidbid": "958",
+  "tvdbid": "81115",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "5",
+  "tmdbtv": "19836",
+  "tmdbseason": "0",
+  "tmdboffset": "5",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Triangle Heart: Sweet Songs Forever",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;2-0;3-0;"
+    }
+  }
+}

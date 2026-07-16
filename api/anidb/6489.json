@@ -1,0 +1,26 @@
+{
+  "anidbid": "6489",
+  "tvdbid": "305488",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "16950",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Mahou Sensei Negima! Mou Hitotsu no Sekai",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-10;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-6;2-7;3-8;4-9;"
+      }
+    ]
+  }
+}

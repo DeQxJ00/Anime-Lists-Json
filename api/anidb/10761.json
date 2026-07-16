@@ -1,0 +1,22 @@
+{
+  "anidbid": "10761",
+  "tvdbid": "173271",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "36697",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Seitokai Yakuindomo * OAD",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "start": "2",
+      "end": "9",
+      "offset": "9",
+      "text": ";1-9;"
+    }
+  }
+}

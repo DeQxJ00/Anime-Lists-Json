@@ -1,0 +1,26 @@
+{
+  "anidbid": "202",
+  "tvdbid": "70350",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "1",
+  "tmdbtv": "890",
+  "tmdbseason": "0",
+  "tmdboffset": "1",
+  "tmdbid": "",
+  "imdbid": "tt0169858",
+  "name": "Shinseiki Evangelion Gekijouban: Air / Magokoro o, Kimi ni",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-0;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";2-2;3-2;"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "1111",
+  "tvdbid": "81477",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "34149",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "UFO Princess Valkyrie: Juunigatsu no Yasoukyoku",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;2-0;"
+    }
+  }
+}

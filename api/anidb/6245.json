@@ -1,0 +1,19 @@
+{
+  "anidbid": "6245",
+  "tvdbid": "72454",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "30983",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt1343046",
+  "name": "Meitantei Conan: Shikkoku no Chaser",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-25;2-25;3-25;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "17709",
+  "tvdbid": "352408",
+  "defaulttvdbseason": "3",
+  "episodeoffset": "",
+  "tmdbtv": "82684",
+  "tmdbseason": "3",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Tensei Shitara Slime Datta Ken (2024)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-13;2-14;"
+    }
+  }
+}

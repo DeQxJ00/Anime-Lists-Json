@@ -1,0 +1,19 @@
+{
+  "anidbid": "12809",
+  "tvdbid": "339076",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "67667",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Beyblade Burst God",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

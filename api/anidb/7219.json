@@ -1,0 +1,22 @@
+{
+  "anidbid": "7219",
+  "tvdbid": "80158",
+  "defaulttvdbseason": "4",
+  "episodeoffset": "",
+  "tmdbtv": "37584",
+  "tmdbseason": "4",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Ikkitousen: Xtreme Xecutor",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "6",
+      "offset": "12",
+      "text": ";7-0;"
+    }
+  }
+}

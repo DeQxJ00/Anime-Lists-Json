@@ -1,0 +1,19 @@
+{
+  "anidbid": "4862",
+  "tvdbid": "81232",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "25117",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt1690442",
+  "name": "Ashita no Joe 2 (1981)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-4;2-4;3-4;"
+    }
+  }
+}

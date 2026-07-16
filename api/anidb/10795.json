@@ -1,0 +1,19 @@
+{
+  "anidbid": "10795",
+  "tvdbid": "81115",
+  "defaulttvdbseason": "4",
+  "episodeoffset": "",
+  "tmdbtv": "19836",
+  "tmdbseason": "4",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Mahou Shoujo Lyrical Nanoha Vivid",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-12;"
+    }
+  }
+}

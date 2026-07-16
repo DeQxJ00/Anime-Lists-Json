@@ -1,0 +1,19 @@
+{
+  "anidbid": "185",
+  "tvdbid": "81073",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "66931",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Top o Nerae!",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";7-0;8-0;9-7;10-8;11-9;"
+    }
+  }
+}

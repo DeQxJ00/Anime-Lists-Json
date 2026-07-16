@@ -1,0 +1,19 @@
+{
+  "anidbid": "7686",
+  "tvdbid": "78232",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "87054",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0159677",
+  "name": "Project A-Ko: Final",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "1",
+      "text": ";1-4;"
+    }
+  }
+}

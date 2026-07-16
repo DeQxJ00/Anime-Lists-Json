@@ -1,0 +1,43 @@
+{
+  "anidbid": "241",
+  "tvdbid": "83105",
+  "defaulttvdbseason": "a",
+  "episodeoffset": "",
+  "tmdbtv": "22104",
+  "tmdbseason": "a",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Touch",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "1",
+        "tvdbseason": "1",
+        "start": "1",
+        "end": "27"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "2",
+        "start": "28",
+        "end": "56",
+        "offset": "-27"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "3",
+        "start": "57",
+        "end": "79",
+        "offset": "-56"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "4",
+        "start": "80",
+        "end": "101",
+        "offset": "-79"
+      }
+    ]
+  }
+}

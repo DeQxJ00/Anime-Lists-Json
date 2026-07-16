@@ -1,0 +1,19 @@
+{
+  "anidbid": "7127",
+  "tvdbid": "79525",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "31724",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Code Geass: Hangyaku no Lelouch R2 Special Edition - Zero Requiem",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-6;"
+    }
+  }
+}

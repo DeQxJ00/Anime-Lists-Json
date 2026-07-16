@@ -1,0 +1,26 @@
+{
+  "anidbid": "14085",
+  "tvdbid": "338455",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "76757",
+  "tmdbseason": "0",
+  "tmdboffset": "23",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Golden Kamuy OAD",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "1",
+        "tmdbseason": "0",
+        "text": ";1-13;5-58;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";5-42;"
+      }
+    ]
+  }
+}

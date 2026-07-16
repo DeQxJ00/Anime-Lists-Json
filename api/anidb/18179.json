@@ -1,0 +1,19 @@
+{
+  "anidbid": "18179",
+  "tvdbid": "117801",
+  "defaulttvdbseason": "3",
+  "episodeoffset": "",
+  "tmdbtv": "68854",
+  "tmdbseason": "3",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kimi ni Todoke 3rd Season",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-5;"
+    }
+  }
+}

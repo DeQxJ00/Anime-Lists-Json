@@ -1,0 +1,22 @@
+{
+  "anidbid": "35",
+  "tvdbid": "70861",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "30992",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Love Hina",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-8;2-0;3-7;4-0;5-6;6-0;7-0;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "XEBEC"
+  }
+}

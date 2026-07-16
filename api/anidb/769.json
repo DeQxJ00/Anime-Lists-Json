@@ -1,0 +1,26 @@
+{
+  "anidbid": "769",
+  "tvdbid": "73501",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "178335",
+  "imdbid": "",
+  "name": "Gekijouban Di Gi Charat: Hoshi no Tabi",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-15;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-14;"
+      }
+    ]
+  }
+}

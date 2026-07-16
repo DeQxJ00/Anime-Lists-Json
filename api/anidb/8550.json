@@ -1,0 +1,36 @@
+{
+  "anidbid": "8550",
+  "tvdbid": "252322",
+  "defaulttvdbseason": "a",
+  "episodeoffset": "",
+  "tmdbtv": "46298",
+  "tmdbseason": "a",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Hunter x Hunter (2011)",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "1",
+        "tvdbseason": "1",
+        "start": "1",
+        "end": "58"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "2",
+        "start": "59",
+        "end": "136",
+        "offset": "-58"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "3",
+        "start": "137",
+        "end": "148",
+        "offset": "-136"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "anidbid": "12952",
+  "tvdbid": "294002",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "64196",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Overlord II",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "13",
+      "offset": "15",
+      "text": ";14-59;15-58;"
+    }
+  }
+}

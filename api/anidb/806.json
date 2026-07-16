@@ -1,0 +1,19 @@
+{
+  "anidbid": "806",
+  "tvdbid": "143471",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "30395",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Yawara! A Fashionable Judo Girl",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-3;"
+    }
+  }
+}

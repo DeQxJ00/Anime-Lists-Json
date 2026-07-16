@@ -1,0 +1,19 @@
+{
+  "anidbid": "11040",
+  "tvdbid": "278157",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "347183,347186",
+  "imdbid": "",
+  "name": "Gekijouban Haikyuu!!",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-2;2-4;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "5750",
+  "tvdbid": "73532",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "29",
+  "tmdbtv": "27845",
+  "tmdbseason": "0",
+  "tmdboffset": "29",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Tennis no Ouji-sama: Zenkoku Taikai Hen - Final",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-29;"
+    }
+  }
+}

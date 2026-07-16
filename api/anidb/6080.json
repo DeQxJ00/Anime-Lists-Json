@@ -1,0 +1,21 @@
+{
+  "anidbid": "6080",
+  "tvdbid": "87491",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "45502",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Queen's Blade: Rurou no Senshi",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "6",
+      "offset": "0"
+    }
+  }
+}

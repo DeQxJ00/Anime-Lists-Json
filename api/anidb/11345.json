@@ -1,0 +1,19 @@
+{
+  "anidbid": "11345",
+  "tvdbid": "299963",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "65712",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Dimension W",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-1;2-2;3-3;4-5;5-6;6-4;"
+    }
+  }
+}

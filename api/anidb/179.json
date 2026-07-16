@@ -1,0 +1,19 @@
+{
+  "anidbid": "179",
+  "tvdbid": "71742",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "34152",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Boogiepop wa Warawanai: Boogiepop Phantom",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

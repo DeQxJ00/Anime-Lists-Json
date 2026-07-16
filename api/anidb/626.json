@@ -1,0 +1,22 @@
+{
+  "anidbid": "626",
+  "tvdbid": "76547",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "21731",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0159568",
+  "name": "Kidou Senshi Gundam F91",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-5;2-5;3-5;4-5;5-5;6-5;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "Sunrise"
+  }
+}

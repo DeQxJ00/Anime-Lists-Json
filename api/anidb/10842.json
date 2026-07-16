@@ -1,0 +1,21 @@
+{
+  "anidbid": "10842",
+  "tvdbid": "295224",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "62773",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "God Eater",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "4",
+      "offset": "2"
+    }
+  }
+}

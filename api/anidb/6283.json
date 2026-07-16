@@ -1,0 +1,19 @@
+{
+  "anidbid": "6283",
+  "tvdbid": "75534",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "16257",
+  "imdbid": "tt1394259",
+  "name": "Street Fighter IV: Aratanaru Kizuna",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-5;"
+    }
+  }
+}

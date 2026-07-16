@@ -1,0 +1,19 @@
+{
+  "anidbid": "5868",
+  "tvdbid": "305488",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "16950",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Mahou Sensei Negima! Shiroki Tsubasa Ala Alba",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-3;2-4;3-5;"
+    }
+  }
+}

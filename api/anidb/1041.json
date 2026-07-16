@@ -1,0 +1,42 @@
+{
+  "anidbid": "1041",
+  "tvdbid": "76703",
+  "defaulttvdbseason": "6",
+  "episodeoffset": "",
+  "tmdbtv": "60572",
+  "tmdbseason": "6",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Pocket Monsters Advanced Generation",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-11;2-10;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "7",
+        "start": "41",
+        "end": "92",
+        "offset": "-40"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "8",
+        "start": "93",
+        "end": "146",
+        "offset": "-92"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "9",
+        "start": "147",
+        "end": "193",
+        "offset": "-146"
+      }
+    ]
+  }
+}

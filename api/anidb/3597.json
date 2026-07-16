@@ -1,0 +1,19 @@
+{
+  "anidbid": "3597",
+  "tvdbid": "72454",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "1084338",
+  "imdbid": "",
+  "name": "Meitantei Conan: Conan to Kid to Crystal Mother",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-11;"
+    }
+  }
+}

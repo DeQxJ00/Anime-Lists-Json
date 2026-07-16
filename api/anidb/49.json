@@ -1,0 +1,22 @@
+{
+  "anidbid": "49",
+  "tvdbid": "70861",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "2",
+  "tmdbtv": "30992",
+  "tmdbseason": "0",
+  "tmdboffset": "2",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Love Hina Again",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "XEBEC"
+  }
+}

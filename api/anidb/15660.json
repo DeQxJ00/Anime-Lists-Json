@@ -1,0 +1,28 @@
+{
+  "anidbid": "15660",
+  "tvdbid": "398106",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "106611",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Yakunara Mug Cup mo",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-0;"
+      },
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "start": "2",
+        "end": "13",
+        "offset": "-1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "anidbid": "8148",
+  "tvdbid": "248035",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "38464",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Ao no Exorcist",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "2",
+      "end": "11",
+      "offset": "-1",
+      "text": ";1-11;12-0;"
+    }
+  }
+}

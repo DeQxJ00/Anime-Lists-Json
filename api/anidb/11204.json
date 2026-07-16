@@ -1,0 +1,26 @@
+{
+  "anidbid": "11204",
+  "tvdbid": "321690",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "-1",
+  "tmdbtv": "74087",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Dies Irae",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-0;2-0;3-0;4-0;5-0;6-0;7-0;8-0;9-0;10-2;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-1;"
+      }
+    ]
+  }
+}

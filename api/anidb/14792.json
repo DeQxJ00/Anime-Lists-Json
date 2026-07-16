@@ -1,0 +1,21 @@
+{
+  "anidbid": "14792",
+  "tvdbid": "305089",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "65942",
+  "tmdbseason": "1",
+  "tmdboffset": "26",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Re:Zero kara Hajimeru Isekai Seikatsu (2020)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "13",
+      "offset": "29"
+    }
+  }
+}

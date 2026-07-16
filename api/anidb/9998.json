@@ -1,0 +1,19 @@
+{
+  "anidbid": "9998",
+  "tvdbid": "278155",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "60808",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "No Game No Life",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";7-0;8-0;9-0;"
+    }
+  }
+}

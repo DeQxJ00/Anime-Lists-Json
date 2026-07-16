@@ -1,0 +1,19 @@
+{
+  "anidbid": "9685",
+  "tvdbid": "78857",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "46260",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Naruto Narutimate Hero 3: Tsui ni Gekitotsu! Jounin tai Genin!! Musabetsu Dairansen Taikai Kaisai!!",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-6;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "3386",
+  "tvdbid": "74908",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "45392",
+  "imdbid": "",
+  "name": "Bakuretsu Tenshi: Infinity",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-2;2-3;3-0;"
+    }
+  }
+}

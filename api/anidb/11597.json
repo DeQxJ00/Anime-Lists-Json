@@ -1,0 +1,26 @@
+{
+  "anidbid": "11597",
+  "tvdbid": "319981",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "69820",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Granblue Fantasy The Animation",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-2;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";13-1;"
+      }
+    ]
+  }
+}

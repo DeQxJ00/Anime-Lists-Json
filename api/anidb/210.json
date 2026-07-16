@@ -1,0 +1,19 @@
+{
+  "anidbid": "210",
+  "tvdbid": "75534",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "31713",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Street Fighter Zero The Animation",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-2;2-2;"
+    }
+  }
+}

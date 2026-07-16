@@ -1,0 +1,19 @@
+{
+  "anidbid": "9181",
+  "tvdbid": "72454",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "1084315",
+  "imdbid": "",
+  "name": "Meitantei Conan Bonus File: Fantasista no Hana",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-52;"
+    }
+  }
+}

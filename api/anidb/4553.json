@@ -1,0 +1,19 @@
+{
+  "anidbid": "4553",
+  "tvdbid": "76703",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "665578",
+  "imdbid": "",
+  "name": "Pikachu no Obake Carnival",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-33;"
+    }
+  }
+}

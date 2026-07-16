@@ -1,0 +1,19 @@
+{
+  "anidbid": "4267",
+  "tvdbid": "143471",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "30395",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Yawara! Special: Zutto Kimi no Koto ga...",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";2-1;3-1;"
+    }
+  }
+}

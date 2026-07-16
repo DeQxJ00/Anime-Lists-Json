@@ -1,0 +1,26 @@
+{
+  "anidbid": "6285",
+  "tvdbid": "79880",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "46412",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "OVA Utawarerumono",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-6;2-7;3-8;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-9;2-10;3-11;"
+      }
+    ]
+  }
+}

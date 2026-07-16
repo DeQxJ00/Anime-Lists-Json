@@ -1,0 +1,27 @@
+{
+  "anidbid": "6327",
+  "tvdbid": "102261",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "46195",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Bakemonogatari",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";4-1;"
+      },
+      {
+        "anidbseason": "0",
+        "tvdbseason": "1",
+        "text": ";1-13;2-14;3-15;"
+      }
+    ]
+  },
+  "before": ";1-13;2-14;3-15;"
+}

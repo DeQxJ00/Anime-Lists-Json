@@ -1,0 +1,19 @@
+{
+  "anidbid": "13241",
+  "tvdbid": "267440",
+  "defaulttvdbseason": "3",
+  "episodeoffset": "",
+  "tmdbtv": "1429",
+  "tmdbseason": "3",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Shingeki no Kyojin Season 3",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;2-0;3-0;4-0;5-0;"
+    }
+  }
+}

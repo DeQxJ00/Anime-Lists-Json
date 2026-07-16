@@ -1,0 +1,258 @@
+{
+  "anidbid": "266",
+  "tvdbid": "72454",
+  "defaulttvdbseason": "a",
+  "episodeoffset": "",
+  "tmdbtv": "30983",
+  "tmdbseason": "a",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Meitantei Conan",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-0;2-0;3-0;4-73;5-75;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "1",
+        "start": "1",
+        "end": "28",
+        "offset": "0"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "2",
+        "start": "29",
+        "end": "54",
+        "offset": "-28"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "3",
+        "start": "55",
+        "end": "82",
+        "offset": "-54"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "4",
+        "start": "83",
+        "end": "106",
+        "offset": "-82"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "5",
+        "start": "107",
+        "end": "134",
+        "offset": "-106"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "6",
+        "start": "135",
+        "end": "162",
+        "offset": "-134"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "7",
+        "start": "163",
+        "end": "193",
+        "offset": "-162"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "8",
+        "start": "194",
+        "end": "219",
+        "offset": "-193"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "9",
+        "start": "220",
+        "end": "254",
+        "offset": "-219"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "10",
+        "start": "255",
+        "end": "285",
+        "offset": "-254"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "11",
+        "start": "286",
+        "end": "315",
+        "offset": "-285"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "12",
+        "start": "316",
+        "end": "353",
+        "offset": "-315"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "13",
+        "start": "354",
+        "end": "389",
+        "offset": "-353"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "14",
+        "start": "390",
+        "end": "426",
+        "offset": "-389"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "15",
+        "start": "427",
+        "end": "465",
+        "offset": "-426"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "16",
+        "start": "466",
+        "end": "490",
+        "offset": "-465"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "17",
+        "start": "491",
+        "end": "523",
+        "offset": "-490"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "18",
+        "start": "524",
+        "end": "565",
+        "offset": "-523"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "19",
+        "start": "566",
+        "end": "605",
+        "offset": "-565"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "20",
+        "start": "606",
+        "end": "645",
+        "offset": "-605"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "21",
+        "start": "646",
+        "end": "680",
+        "offset": "-645"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "22",
+        "start": "681",
+        "end": "723",
+        "offset": "-680"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "23",
+        "start": "724",
+        "end": "762",
+        "offset": "-723"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "24",
+        "start": "763",
+        "end": "803",
+        "offset": "-762"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "25",
+        "start": "804",
+        "end": "886",
+        "offset": "-803"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "26",
+        "start": "887",
+        "end": "926",
+        "offset": "-886"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "27",
+        "start": "927",
+        "end": "964",
+        "offset": "-926"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "28",
+        "start": "965",
+        "end": "992",
+        "offset": "-964"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "29",
+        "start": "993",
+        "end": "1032",
+        "offset": "-992"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "30",
+        "start": "1033",
+        "end": "1067",
+        "offset": "-1032"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "31",
+        "start": "1068",
+        "end": "1108",
+        "offset": "-1067"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "32",
+        "start": "1109",
+        "end": "1147",
+        "offset": "-1108"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "33",
+        "start": "1148",
+        "end": "1186",
+        "offset": "-1147"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "34",
+        "start": "1187",
+        "offset": "-1186"
+      }
+    ]
+  }
+}

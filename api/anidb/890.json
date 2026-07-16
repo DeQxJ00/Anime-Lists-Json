@@ -1,0 +1,26 @@
+{
+  "anidbid": "890",
+  "tvdbid": "73749",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "1095",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0347246",
+  "name": "Innocence",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-0;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-2;2-2;3-2;4-2;5-2;6-2;"
+      }
+    ]
+  }
+}

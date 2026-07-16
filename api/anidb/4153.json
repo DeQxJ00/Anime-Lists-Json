@@ -1,0 +1,19 @@
+{
+  "anidbid": "4153",
+  "tvdbid": "78920",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "912",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Aa! Megami-sama! Sorezore no Tsubasa",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "2",
+      "text": ";1-23;2-24;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "7728",
+  "tvdbid": "80587",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "5",
+  "tmdbtv": "34660",
+  "tmdbseason": "0",
+  "tmdboffset": "5",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Saiyuuki Gaiden",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

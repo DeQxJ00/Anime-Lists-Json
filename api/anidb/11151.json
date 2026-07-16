@@ -1,0 +1,19 @@
+{
+  "anidbid": "11151",
+  "tvdbid": "79886",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "8872",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Sousei no Aquarion Evol",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-4;"
+    }
+  }
+}

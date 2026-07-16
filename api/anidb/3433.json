@@ -1,0 +1,19 @@
+{
+  "anidbid": "3433",
+  "tvdbid": "79214",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "26867",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Mushishi",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-5;2-0;3-0;4-0;5-0;6-0;7-0;8-0;9-0;10-0;11-0;"
+    }
+  }
+}

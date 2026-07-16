@@ -1,0 +1,19 @@
+{
+  "anidbid": "3030",
+  "tvdbid": "78857",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "46260",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0791188",
+  "name": "Gekijouban Naruto: Dai Gekitotsu! Maboroshi no Chitei Iseki Datte ba yo!",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-5;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "8806",
+  "tvdbid": "72454",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "122583",
+  "imdbid": "tt2369099",
+  "name": "Meitantei Conan: 11-ninme no Striker",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-51;"
+    }
+  }
+}

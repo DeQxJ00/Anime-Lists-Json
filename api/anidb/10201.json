@@ -1,0 +1,19 @@
+{
+  "anidbid": "10201",
+  "tvdbid": "259863",
+  "defaulttvdbseason": "4",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "256768",
+  "imdbid": "",
+  "name": "Chronus",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "4",
+      "text": ";1-2;"
+    }
+  }
+}

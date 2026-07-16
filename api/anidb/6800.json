@@ -1,0 +1,19 @@
+{
+  "anidbid": "6800",
+  "tvdbid": "76703",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "211814",
+  "imdbid": "",
+  "name": "Pika Pika Hoshizora Camp",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-26;"
+    }
+  }
+}

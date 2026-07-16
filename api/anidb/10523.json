@@ -1,0 +1,19 @@
+{
+  "anidbid": "10523",
+  "tvdbid": "133341",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "42410",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Durarara!!x2 Shou",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;2-0;"
+    }
+  }
+}

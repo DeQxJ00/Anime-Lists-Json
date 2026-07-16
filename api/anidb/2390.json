@@ -1,0 +1,19 @@
+{
+  "anidbid": "2390",
+  "tvdbid": "72241",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "31654",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt1415872",
+  "name": "Digital Monster X-evolution",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-8;"
+    }
+  }
+}

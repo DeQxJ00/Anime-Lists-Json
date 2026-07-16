@@ -1,0 +1,19 @@
+{
+  "anidbid": "1654",
+  "tvdbid": "75001",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "11284",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Madlax",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";2-5;3-6;4-0;5-0;6-0;101-3;201-2;202-4;203-7;204-8;205-9;206-10;207-11;"
+    }
+  }
+}

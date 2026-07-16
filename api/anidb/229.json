@@ -1,0 +1,19 @@
+{
+  "anidbid": "229",
+  "tvdbid": "79327",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "21730",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Shin Kidou Senki Gundam Wing",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-9;"
+    }
+  }
+}

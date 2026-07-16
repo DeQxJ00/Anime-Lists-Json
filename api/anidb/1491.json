@@ -1,0 +1,19 @@
+{
+  "anidbid": "1491",
+  "tvdbid": "232511",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "125902",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Ryuuseiki Gakusaver",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "1",
+      "text": ";1-1+2;2-3+4;3-5+6;"
+    }
+  }
+}

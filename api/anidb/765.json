@@ -1,0 +1,19 @@
+{
+  "anidbid": "765",
+  "tvdbid": "100171",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "31709",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0184881",
+  "name": "Sayonara Ginga Tetsudou 999: Andromeda Shuuchakueki",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-6;2-6;3-6;"
+    }
+  }
+}

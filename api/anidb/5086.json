@@ -1,0 +1,23 @@
+{
+  "anidbid": "5086",
+  "tvdbid": "72471",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "55880",
+  "imdbid": "",
+  "name": "Kiddy Grade II: Maelstrom",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-2;"
+    }
+  },
+  "supplemental-info": {
+    "replace": "true",
+    "studio": "Gonzo Digimation"
+  }
+}

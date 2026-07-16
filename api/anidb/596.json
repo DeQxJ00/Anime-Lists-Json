@@ -1,0 +1,19 @@
+{
+  "anidbid": "596",
+  "tvdbid": "157211",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "9157",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kidou Senshi SD Gundam",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-3;"
+    }
+  }
+}

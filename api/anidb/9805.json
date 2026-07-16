@@ -1,0 +1,28 @@
+{
+  "anidbid": "9805",
+  "tvdbid": "262856",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "53020",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Teekyuu (2013)",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";5-0;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "3",
+        "start": "13",
+        "end": "24",
+        "offset": "-12"
+      }
+    ]
+  }
+}

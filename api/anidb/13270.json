@@ -1,0 +1,19 @@
+{
+  "anidbid": "13270",
+  "tvdbid": "337936",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "75865",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Karakai Jouzu no Takagi-san",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

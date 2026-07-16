@@ -1,0 +1,20 @@
+{
+  "anidbid": "207",
+  "tvdbid": "152531",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "138118",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Ijigen no Sekai El-Hazard",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "1",
+      "text": ";1-13;"
+    }
+  },
+  "before": ";1-13;"
+}

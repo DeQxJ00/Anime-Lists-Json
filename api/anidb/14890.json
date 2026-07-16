@@ -1,0 +1,19 @@
+{
+  "anidbid": "14890",
+  "tvdbid": "284131",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "62104",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Nanatsu no Taizai: Imashime no Fukkatsu (2018)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-10;"
+    }
+  }
+}
