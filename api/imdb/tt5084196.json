@@ -1,0 +1,19 @@
+{
+  "anidbid": "8357",
+  "tvdbid": "102261",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "357786,362584,362585",
+  "imdbid": "tt3138698,tt5084196,tt5084198",
+  "name": "Kizumonogatari",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-2;2-19;3-20;"
+    }
+  }
+}

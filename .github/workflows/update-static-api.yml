@@ -65,6 +65,7 @@ jobs:
           git pull --rebase --autostash origin "${GITHUB_REF_NAME:-main}"
           git add .source/anime-list-master.commit
           git add api/anidb
+          git add api/imdb
           if [ -f duplicate-anidbids.json ]; then
             git add duplicate-anidbids.json
           fi

@@ -49,6 +49,16 @@ def element_to_json(element: ET.Element) -> Any:
     return result
 
 
+def imdb_ids(value: str | None) -> list[str]:
+    if not value:
+        return []
+    return [
+        part
+        for part in (item.strip() for item in value.split(","))
+        if part.startswith("tt") and part[2:].isdigit()
+    ]
+
+
 def build_api(xml_path: Path, output_dir: Path) -> dict[str, Any]:
     tree = ET.parse(xml_path)
     root = tree.getroot()
@@ -83,8 +93,7 @@ def build_api(xml_path: Path, output_dir: Path) -> dict[str, Any]:
         ids_seen.add(anidbid)
         index["ids"].append(anidbid)
 
-        imdbid = item.get("imdbid")
-        if imdbid:
+        for imdbid in imdb_ids(item.get("imdbid")):
             imdb_items[imdbid].append(item)
 
         output_file = anidb_dir / f"{anidbid}.json"

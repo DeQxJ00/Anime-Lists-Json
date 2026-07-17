@@ -1,0 +1,22 @@
+{
+  "anidbid": "9658",
+  "tvdbid": "293491",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "1",
+  "tmdbtv": "62070",
+  "tmdbseason": "0",
+  "tmdboffset": "1",
+  "tmdbid": "",
+  "imdbid": "tt2636124,tt3017864,tt3579524,tt4016942",
+  "name": "Koukaku Kidoutai Arise: Ghost in the Shell",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "4",
+      "offset": "6",
+      "text": ";5-0;6-0;206-11;"
+    }
+  }
+}
