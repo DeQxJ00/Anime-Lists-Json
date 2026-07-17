@@ -1,0 +1,19 @@
+{
+  "anidbid": "4622",
+  "tvdbid": "79654",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "30623",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0831848",
+  "name": "Crayon Shin-chan: Arashi o Yobu Mouretsu! Otona Teikoku no Gyakushuu",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-9;"
+    }
+  }
+}

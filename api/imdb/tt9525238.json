@@ -1,0 +1,19 @@
+{
+  "anidbid": "14238",
+  "tvdbid": "353666",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "90677",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt9525238",
+  "name": "Fate/Grand Order: Zettai Majuu Sensen Babylonia",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-5;2-10;3-11;4-12;5-0;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "2768",
+  "tvdbid": "143471",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "30395",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0161107",
+  "name": "Yawara! Sore Yuke Koshinuke Kids!!",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-2;"
+    }
+  }
+}

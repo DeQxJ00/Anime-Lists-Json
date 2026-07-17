@@ -1,0 +1,19 @@
+{
+  "anidbid": "8374",
+  "tvdbid": "73532",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "259169",
+  "imdbid": "tt1920939",
+  "name": "Gekijouban Tennis no Ouji-sama: Eikoku Shiki Teikyuu Shiro Kessen!",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-6;"
+    }
+  }
+}

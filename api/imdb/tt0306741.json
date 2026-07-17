@@ -1,0 +1,19 @@
+{
+  "anidbid": "4967",
+  "tvdbid": "252696",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "57911",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0306741",
+  "name": "Doraemon: Nobita to Tsubasa no Yuusha-tachi",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

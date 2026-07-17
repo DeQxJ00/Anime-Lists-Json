@@ -1,0 +1,19 @@
+{
+  "anidbid": "2643",
+  "tvdbid": "81472",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "16",
+  "tmdbtv": "12971",
+  "tmdbseason": "0",
+  "tmdboffset": "16",
+  "tmdbid": "",
+  "imdbid": "tt1286785",
+  "name": "Dragon Ball Z Gaiden: Saiya-jin Zetsumetsu Keikaku",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";401-17;402-18;403-18;"
+    }
+  }
+}

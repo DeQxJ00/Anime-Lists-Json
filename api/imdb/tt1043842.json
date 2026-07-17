@@ -1,0 +1,22 @@
+{
+  "anidbid": "5080",
+  "tvdbid": "245451",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "2",
+  "tmdbtv": "45348",
+  "tmdbseason": "0",
+  "tmdboffset": "2",
+  "tmdbid": "",
+  "imdbid": "tt1043842",
+  "name": "Appleseed Saga Ex Machina",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;2-0;3-0;4-0;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "Digital Frontier"
+  }
+}

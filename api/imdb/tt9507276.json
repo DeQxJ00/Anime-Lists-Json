@@ -1,0 +1,19 @@
+{
+  "anidbid": "13717",
+  "tvdbid": "315500",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "553839",
+  "imdbid": "tt9507276",
+  "name": "Youjo Senki (2019)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-15;"
+    }
+  }
+}

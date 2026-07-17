@@ -1,0 +1,26 @@
+{
+  "anidbid": "8940",
+  "tvdbid": "81797",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "176983",
+  "imdbid": "tt2375379",
+  "name": "One Piece Film: Z",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-25;2-25;3-25;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-26;"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "anidbid": "1253",
+  "tvdbid": "81797",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "44725",
+  "imdbid": "tt0997084",
+  "name": "One Piece: Chinjuujima no Chopper Oukoku",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-7;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-6;"
+      }
+    ]
+  }
+}

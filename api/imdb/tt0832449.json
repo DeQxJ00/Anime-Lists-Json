@@ -1,0 +1,26 @@
+{
+  "anidbid": "893",
+  "tvdbid": "81797",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "23446",
+  "imdbid": "tt0832449",
+  "name": "One Piece: Nejimakijima no Bouken",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-5;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-4;"
+      }
+    ]
+  }
+}

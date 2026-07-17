@@ -1,0 +1,19 @@
+{
+  "anidbid": "1490",
+  "tvdbid": "81341",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "8853",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0119406",
+  "name": "Jungle Taitei (1997)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-1;2-1;3-1;"
+    }
+  }
+}

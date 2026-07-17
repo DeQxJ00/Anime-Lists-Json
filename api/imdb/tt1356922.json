@@ -1,0 +1,22 @@
+{
+  "anidbid": "2181",
+  "tvdbid": "84932",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "109291",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt1356922",
+  "name": "Munto: Toki no Kabe o Koete",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-2;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "Kyoto Animation"
+  }
+}

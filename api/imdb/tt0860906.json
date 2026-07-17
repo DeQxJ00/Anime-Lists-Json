@@ -1,0 +1,26 @@
+{
+  "anidbid": "6171",
+  "tvdbid": "70350",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "3",
+  "tmdbtv": "890",
+  "tmdbseason": "0",
+  "tmdboffset": "3",
+  "tmdbid": "",
+  "imdbid": "tt0860906",
+  "name": "Evangelion Shin Gekijouban: Ha",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-0;2-0;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";2-4;3-4;"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "9971",
+  "tvdbid": "318161",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "1",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "347413",
+  "imdbid": "tt4831682",
+  "name": "Little Witch Academia: The Enchanted Parade",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-4;"
+    }
+  }
+}

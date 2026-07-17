@@ -1,0 +1,19 @@
+{
+  "anidbid": "2761",
+  "tvdbid": "76894",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "902",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0403703",
+  "name": "Yuu Gi Ou: Duel Monsters - Hikari no Pyramid",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-1;2-1;3-1;"
+    }
+  }
+}

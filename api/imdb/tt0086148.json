@@ -1,0 +1,19 @@
+{
+  "anidbid": "1076",
+  "tvdbid": "81849",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "42395",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0086148",
+  "name": "Golgo 13",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-1;2-1;3-1;"
+    }
+  }
+}

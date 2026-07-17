@@ -1,0 +1,26 @@
+{
+  "anidbid": "1456",
+  "tvdbid": "78857",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "46260",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0476680",
+  "name": "Gekijouban Naruto: Dai Katsugeki! Yuki Hime Ninpou Chou Datte ba yo!",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-3;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-4;2-4;3-4;"
+      }
+    ]
+  }
+}

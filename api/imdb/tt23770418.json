@@ -1,0 +1,21 @@
+{
+  "anidbid": "17477",
+  "tvdbid": "354198",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "8",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "997317",
+  "imdbid": "tt23770418",
+  "name": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "401",
+      "end": "404",
+      "offset": "-396"
+    }
+  }
+}

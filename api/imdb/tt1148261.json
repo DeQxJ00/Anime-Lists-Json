@@ -1,0 +1,19 @@
+{
+  "anidbid": "5352",
+  "tvdbid": "74796",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "17101",
+  "imdbid": "tt1148261",
+  "name": "Gekijouban Bleach: The DiamondDust Rebellion Mou Hitotsu no Hyourinmaru",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-4;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "705",
+  "tvdbid": "71863",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "31572",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0449641",
+  "name": "Lupin Sansei: Harimao no Zaihou o Oe!!",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-15;2-15;3-15;4-15;5-15;6-15;7-15;"
+    }
+  }
+}

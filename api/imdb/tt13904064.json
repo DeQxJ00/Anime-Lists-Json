@@ -1,0 +1,19 @@
+{
+  "anidbid": "3120",
+  "tvdbid": "74739",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "12501",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt13904064",
+  "name": "Kaleido Star: Good Da yo! Goood!!",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-3;"
+    }
+  }
+}

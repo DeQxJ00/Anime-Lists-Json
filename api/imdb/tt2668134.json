@@ -1,0 +1,19 @@
+{
+  "anidbid": "9687",
+  "tvdbid": "100151",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt2668134",
+  "name": "Space Pirate Captain Harlock",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-4;"
+    }
+  }
+}

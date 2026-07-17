@@ -1,0 +1,26 @@
+{
+  "anidbid": "12276",
+  "tvdbid": "278155",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "60808",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt5914996",
+  "name": "No Game No Life Zero",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-7;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-8;"
+      }
+    ]
+  }
+}

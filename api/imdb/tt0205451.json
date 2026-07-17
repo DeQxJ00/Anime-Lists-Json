@@ -1,0 +1,22 @@
+{
+  "anidbid": "376",
+  "tvdbid": "80009",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "43004",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0205451",
+  "name": "Tenchi Muyou! in Love 2 - Haruka Naru Omoi",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-4;2-4;3-4;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "AIC"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "1421",
+  "tvdbid": "71863",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "31572",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0461571",
+  "name": "Lupin Sansei: Ai no da capo - Fujiko's Unlucky Days",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-20;2-20;3-20;"
+    }
+  }
+}

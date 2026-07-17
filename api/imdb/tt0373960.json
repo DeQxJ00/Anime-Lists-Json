@@ -1,0 +1,19 @@
+{
+  "anidbid": "461",
+  "tvdbid": "305799",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "67534",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0373960",
+  "name": "Kanojo to Kanojo no Neko",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;2-0;"
+    }
+  }
+}

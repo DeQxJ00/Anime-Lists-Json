@@ -1,0 +1,19 @@
+{
+  "anidbid": "905",
+  "tvdbid": "81472",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "11",
+  "tmdbtv": "12971",
+  "tmdbseason": "0",
+  "tmdboffset": "11",
+  "tmdbid": "",
+  "imdbid": "tt0142242",
+  "name": "Dragon Ball Z: Moetsukiro!! Nessen, Ressen, Chougekisen",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";2-8;3-8;"
+    }
+  }
+}

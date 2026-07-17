@@ -1,0 +1,19 @@
+{
+  "anidbid": "4937",
+  "tvdbid": "72454",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "30983",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt1146290",
+  "name": "Meitantei Conan: Konpeki no Jolly Roger",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-19;2-19;3-19;"
+    }
+  }
+}

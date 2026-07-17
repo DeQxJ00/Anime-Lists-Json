@@ -1,0 +1,19 @@
+{
+  "anidbid": "1254",
+  "tvdbid": "81797",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "44727",
+  "imdbid": "tt1006926",
+  "name": "One Piece The Movie: Dead End no Bouken",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-8;2-8;3-8;"
+    }
+  }
+}

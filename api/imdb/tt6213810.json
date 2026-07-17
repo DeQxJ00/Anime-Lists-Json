@@ -1,0 +1,19 @@
+{
+  "anidbid": "12519",
+  "tvdbid": "353666",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "90677",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt6213810",
+  "name": "Fate/Grand Order: First Order",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "6325",
+  "tvdbid": "80096",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "21729",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt1422651",
+  "name": "Gekijouban Tengen Toppa Gurren Lagann: Lagann Hen",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-4;"
+    }
+  }
+}

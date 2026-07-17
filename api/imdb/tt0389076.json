@@ -1,0 +1,19 @@
+{
+  "anidbid": "2285",
+  "tvdbid": "250848",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "43231",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0389076",
+  "name": "Kinnikuman: Seigi Choujin vs Kodai Choujin",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-4;"
+    }
+  }
+}

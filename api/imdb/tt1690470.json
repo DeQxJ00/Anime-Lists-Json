@@ -1,0 +1,26 @@
+{
+  "anidbid": "7257",
+  "tvdbid": "76703",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "60572",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt1690470",
+  "name": "Gekijouban Pocket Monsters Diamond & Pearl: Gen'ei no Hasha Zoroark",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-0;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-21;"
+      }
+    ]
+  }
+}

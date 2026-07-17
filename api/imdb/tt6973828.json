@@ -1,0 +1,19 @@
+{
+  "anidbid": "12962",
+  "tvdbid": "289884",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "62564",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt6973828",
+  "name": "Gekijouban Hibike! Euphonium: Todoketai Melody",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-17;"
+    }
+  }
+}

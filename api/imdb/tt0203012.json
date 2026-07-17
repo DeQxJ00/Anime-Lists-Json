@@ -1,0 +1,19 @@
+{
+  "anidbid": "3344",
+  "tvdbid": "157211",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "24",
+  "tmdbtv": "9157",
+  "tmdbseason": "0",
+  "tmdboffset": "24",
+  "tmdbid": "",
+  "imdbid": "tt0203012",
+  "name": "Musha Knight Commando: SD Gundam Scramble",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-26;"
+    }
+  }
+}

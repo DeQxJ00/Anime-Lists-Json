@@ -1,0 +1,22 @@
+{
+  "anidbid": "552",
+  "tvdbid": "movie",
+  "defaulttvdbseason": "",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0264837",
+  "name": "Gekijouban Marco: Haha o Tazunete Sanzenri",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-3;2-3;3-3;4-3;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "Nippon Animation"
+  }
+}

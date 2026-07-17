@@ -1,0 +1,19 @@
+{
+  "anidbid": "10742",
+  "tvdbid": "81472",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "26",
+  "tmdbtv": "12971",
+  "tmdbseason": "0",
+  "tmdboffset": "26",
+  "tmdbid": "",
+  "imdbid": "tt3819668",
+  "name": "Dragon Ball Z: Fukkatsu no \"F\"",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;2-0;3-0;4-0;"
+    }
+  }
+}

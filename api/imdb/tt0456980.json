@@ -1,0 +1,26 @@
+{
+  "anidbid": "3038",
+  "tvdbid": "79156",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "56387",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0456980",
+  "name": "Shin Kyuuseishu Densetsu Hokuto no Ken Raou-den Jun'ai no Shou",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-0;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-5;"
+      }
+    ]
+  }
+}

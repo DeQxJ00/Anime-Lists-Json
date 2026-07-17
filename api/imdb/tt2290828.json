@@ -1,0 +1,19 @@
+{
+  "anidbid": "9023",
+  "tvdbid": "79824",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "31910",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt2290828",
+  "name": "Road to Ninja: Naruto the Movie",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-10;"
+    }
+  }
+}

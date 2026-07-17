@@ -1,0 +1,26 @@
+{
+  "anidbid": "3431",
+  "tvdbid": "73749",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "1095",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt1024215",
+  "name": "Koukaku Kidoutai Stand Alone Complex: The Laughing Man",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-0;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-3;"
+      }
+    ]
+  }
+}

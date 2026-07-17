@@ -1,0 +1,19 @@
+{
+  "anidbid": "320",
+  "tvdbid": "71863",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "3",
+  "tmdbtv": "31572",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0079833",
+  "name": "Lupin Sansei: Cagliostro no Shiro",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-4;2-4;3-4;"
+    }
+  }
+}

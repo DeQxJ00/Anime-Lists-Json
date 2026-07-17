@@ -1,0 +1,26 @@
+{
+  "anidbid": "4515",
+  "tvdbid": "74796",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "2",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "15575",
+  "imdbid": "tt1105263",
+  "name": "Gekijouban Bleach: Memories of Nobody",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-0;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";2-3;3-3;4-3;"
+      }
+    ]
+  }
+}

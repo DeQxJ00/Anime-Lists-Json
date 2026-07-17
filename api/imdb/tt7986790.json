@@ -1,0 +1,19 @@
+{
+  "anidbid": "13360",
+  "tvdbid": "304475",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "66111",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt7986790",
+  "name": "Gekijouban Macross Delta: Gekijou no Walkure",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-12;"
+    }
+  }
+}

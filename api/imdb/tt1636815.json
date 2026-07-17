@@ -1,0 +1,19 @@
+{
+  "anidbid": "7250",
+  "tvdbid": "72454",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "30983",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt1636815",
+  "name": "Meitantei Conan: Tenkuu no Lost Ship",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-28;2-28;3-28;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "2151",
+  "tvdbid": "78500",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "3570",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0109277",
+  "name": "Bishoujo Senshi Sailor Moon S: Kaguya-hime no Koibito",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-4;2-4;3-4;"
+    }
+  }
+}

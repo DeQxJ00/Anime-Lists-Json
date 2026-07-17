@@ -1,0 +1,19 @@
+{
+  "anidbid": "12566",
+  "tvdbid": "79525",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "553837",
+  "imdbid": "tt6344664",
+  "name": "Code Geass: Fukkatsu no Lelouch",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-4;"
+    }
+  }
+}

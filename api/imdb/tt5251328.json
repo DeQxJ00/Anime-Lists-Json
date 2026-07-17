@@ -1,0 +1,26 @@
+{
+  "anidbid": "11529",
+  "tvdbid": "81797",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "374205",
+  "imdbid": "tt5251328",
+  "name": "One Piece Film: Gold",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-35;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-33;"
+      }
+    ]
+  }
+}

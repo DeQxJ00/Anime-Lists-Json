@@ -1,0 +1,19 @@
+{
+  "anidbid": "3995",
+  "tvdbid": "251941",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0203074",
+  "name": "Riki-Ou 2: Horobi no Ko",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-2;"
+    }
+  }
+}

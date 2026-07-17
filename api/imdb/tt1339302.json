@@ -1,0 +1,19 @@
+{
+  "anidbid": "6041",
+  "tvdbid": "74796",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "17165",
+  "imdbid": "tt1339302",
+  "name": "Gekijouban Bleach: Fade to Black Kimi no Na o Yobu",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-5;"
+    }
+  }
+}

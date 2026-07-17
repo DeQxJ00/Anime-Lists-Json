@@ -1,0 +1,19 @@
+{
+  "anidbid": "9125",
+  "tvdbid": "movie",
+  "defaulttvdbseason": "",
+  "episodeoffset": "",
+  "tmdbtv": "240745",
+  "tmdbseason": "1",
+  "tmdboffset": "1",
+  "tmdbid": "",
+  "imdbid": "tt3392330",
+  "name": "Short Peace",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tmdbseason": "1",
+      "text": ";301-1;"
+    }
+  }
+}

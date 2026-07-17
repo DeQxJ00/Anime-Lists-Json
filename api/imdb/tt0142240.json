@@ -1,0 +1,22 @@
+{
+  "anidbid": "1044",
+  "tvdbid": "81472",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "1",
+  "tmdbtv": "12971",
+  "tmdbseason": "0",
+  "tmdboffset": "1",
+  "tmdbid": "",
+  "imdbid": "tt0142240",
+  "name": "Dragon Ball Z: Kono Yo de Ichiban Tsuyoi Yatsu",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";2-2;3-2;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "Toei Animation"
+  }
+}

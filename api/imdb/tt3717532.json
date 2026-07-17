@@ -1,0 +1,19 @@
+{
+  "anidbid": "9588",
+  "tvdbid": "79824",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "11",
+  "tmdbtv": "31910",
+  "tmdbseason": "0",
+  "tmdboffset": "11",
+  "tmdbid": "",
+  "imdbid": "tt3717532",
+  "name": "The Last: Naruto the Movie",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-12;"
+    }
+  }
+}

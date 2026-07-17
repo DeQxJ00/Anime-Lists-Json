@@ -1,0 +1,19 @@
+{
+  "anidbid": "3658",
+  "tvdbid": "75534",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "31713",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0495900",
+  "name": "Street Fighter Alpha: Generations",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-3;"
+    }
+  }
+}

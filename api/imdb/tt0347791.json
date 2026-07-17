@@ -1,0 +1,19 @@
+{
+  "anidbid": "921",
+  "tvdbid": "76703",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "60572",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0347791",
+  "name": "Gekijouban Pocket Monsters: Mizu no Miyako no Mamorigami Latias to Latios",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-6;2-6;3-6;"
+    }
+  }
+}

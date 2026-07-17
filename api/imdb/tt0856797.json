@@ -1,0 +1,26 @@
+{
+  "anidbid": "4414",
+  "tvdbid": "73749",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "1095",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0856797",
+  "name": "Koukaku Kidoutai Stand Alone Complex: Solid State Society",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-0;2-33;3-0;4-0;5-0;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-5;"
+      }
+    ]
+  }
+}

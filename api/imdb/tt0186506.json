@@ -1,0 +1,19 @@
+{
+  "anidbid": "986",
+  "tvdbid": "71863",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "31572",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0186506",
+  "name": "Lupin Sansei: Lupin Ansatsu Shirei",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-12;2-12;3-12;4-12;5-12;6-12;7-12;"
+    }
+  }
+}

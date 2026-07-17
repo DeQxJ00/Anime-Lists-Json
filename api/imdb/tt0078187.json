@@ -1,0 +1,19 @@
+{
+  "anidbid": "823",
+  "tvdbid": "71863",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "2",
+  "tmdbtv": "31572",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0078187",
+  "name": "Lupin Sansei: Lupin vs Clone",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-3;2-3;3-3;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "9250",
+  "tvdbid": "318161",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "182131",
+  "imdbid": "tt2704454",
+  "name": "Little Witch Academia",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-3;"
+    }
+  }
+}

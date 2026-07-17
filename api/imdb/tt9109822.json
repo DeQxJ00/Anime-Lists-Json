@@ -1,0 +1,19 @@
+{
+  "anidbid": "14108",
+  "tvdbid": "301920",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "550085",
+  "imdbid": "tt9109822",
+  "name": "Monster Strike the Movie: Sora no Kanata",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-8;"
+    }
+  }
+}

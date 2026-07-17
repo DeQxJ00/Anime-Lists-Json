@@ -1,0 +1,19 @@
+{
+  "anidbid": "4058",
+  "tvdbid": "79882",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "27244",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt1174992",
+  "name": "Gekijouban Haruka Naru Toki no Naka de: Maihitoyo",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-6;2-6;3-6;"
+    }
+  }
+}

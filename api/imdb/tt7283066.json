@@ -1,0 +1,19 @@
+{
+  "anidbid": "12420",
+  "tvdbid": "269319",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "23",
+  "tmdbtv": "63576",
+  "tmdbseason": "0",
+  "tmdboffset": "23",
+  "tmdbid": "",
+  "imdbid": "tt7283066",
+  "name": "Gekijouban Fate/Kaleid Liner Prisma Illya: Sekka no Chikai",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-25;"
+    }
+  }
+}

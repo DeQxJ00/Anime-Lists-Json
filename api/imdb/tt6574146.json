@@ -1,0 +1,19 @@
+{
+  "anidbid": "11782",
+  "tvdbid": "80304",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "94936",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt6574146",
+  "name": "Blame! (2017)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-3;"
+    }
+  }
+}

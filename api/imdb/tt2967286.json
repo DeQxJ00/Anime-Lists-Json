@@ -1,0 +1,19 @@
+{
+  "anidbid": "8655",
+  "tvdbid": "244061",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "225745",
+  "imdbid": "tt2967286",
+  "name": "Steins;Gate: Fuka Ryouiki no Deja vu",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-2;2-0;3-0;"
+    }
+  }
+}

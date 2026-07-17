@@ -1,0 +1,19 @@
+{
+  "anidbid": "4676",
+  "tvdbid": "80294",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "19239",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0462699",
+  "name": "Mirai Shounen Conan: Tokubetsu Hen - Kyodaiki Gigant no Fukkatsu",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "1",
+      "text": ";1-0;"
+    }
+  }
+}

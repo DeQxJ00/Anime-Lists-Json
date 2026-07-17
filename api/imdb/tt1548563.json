@@ -1,0 +1,19 @@
+{
+  "anidbid": "6655",
+  "tvdbid": "81086",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "5857",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt1548563",
+  "name": "Gekijouban Macross F: Itsuwari no Utahime",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-4;"
+    }
+  }
+}

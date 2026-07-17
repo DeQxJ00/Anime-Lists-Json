@@ -1,0 +1,19 @@
+{
+  "anidbid": "8788",
+  "tvdbid": "114801",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "3",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "135531",
+  "imdbid": "tt2085795",
+  "name": "Gekijouban Fairy Tail: Houou no Miko",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-6;"
+    }
+  }
+}

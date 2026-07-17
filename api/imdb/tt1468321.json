@@ -1,0 +1,19 @@
+{
+  "anidbid": "6637",
+  "tvdbid": "88721",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "21750",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt1468321",
+  "name": "Higashi no Eden: Gekijouban II - Paradise Lost",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-3;"
+    }
+  }
+}

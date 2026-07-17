@@ -1,0 +1,19 @@
+{
+  "anidbid": "815",
+  "tvdbid": "71863",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "31572",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0450493",
+  "name": "Lupin Sansei: Moeyo Zantetsuken",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-13;2-13;3-13;4-13;5-13;6-13;7-13;"
+    }
+  }
+}

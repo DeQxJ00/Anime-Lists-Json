@@ -1,0 +1,19 @@
+{
+  "anidbid": "359",
+  "tvdbid": "80009",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "43004",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0117876",
+  "name": "Tenchi Muyou! in Love",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-2;3-2;"
+    }
+  }
+}

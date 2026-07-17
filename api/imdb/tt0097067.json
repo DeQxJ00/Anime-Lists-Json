@@ -1,0 +1,19 @@
+{
+  "anidbid": "1566",
+  "tvdbid": "72877",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "36046",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0097067",
+  "name": "City Hunter: Ai to Shukumei no Magnum",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";2-1;3-1;"
+    }
+  }
+}

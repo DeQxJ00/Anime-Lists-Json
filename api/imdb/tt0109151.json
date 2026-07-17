@@ -1,0 +1,22 @@
+{
+  "anidbid": "236",
+  "tvdbid": "81997",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "69980",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0109151",
+  "name": "Armitage III: Poly Matrix",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-1;2-1;3-1;4-1;5-1;6-1;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "AIC"
+  }
+}

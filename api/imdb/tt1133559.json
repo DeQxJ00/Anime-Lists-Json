@@ -1,0 +1,19 @@
+{
+  "anidbid": "2328",
+  "tvdbid": "72454",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "30983",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt1133559",
+  "name": "Meitantei Conan: Gin'yoku no Magician",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-12;2-12;3-12;"
+    }
+  }
+}
