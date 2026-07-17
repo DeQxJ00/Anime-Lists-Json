@@ -1,0 +1,22 @@
+{
+  "anidbid": "9046",
+  "tvdbid": "195721",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "35447",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Shinryaku!! Ika Musume",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-3;2-4;3-5;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "Diomedea"
+  }
+}

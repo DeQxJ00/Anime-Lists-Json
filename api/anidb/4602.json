@@ -1,0 +1,26 @@
+{
+  "anidbid": "4602",
+  "tvdbid": "195161",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "35529",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Mahou no Tenshi Creamy Mami: Long Goodbye",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-0;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-3;"
+      }
+    ]
+  }
+}

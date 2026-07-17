@@ -1,0 +1,22 @@
+{
+  "anidbid": "1554",
+  "tvdbid": "83020",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "12599",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Mai-HiME",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";21-23;22-21;23-22;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "Sunrise"
+  }
+}

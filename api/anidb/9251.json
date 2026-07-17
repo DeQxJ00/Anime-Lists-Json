@@ -1,0 +1,19 @@
+{
+  "anidbid": "9251",
+  "tvdbid": "259863",
+  "defaulttvdbseason": "3",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Ryo",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "3",
+      "text": ";1-3;"
+    }
+  }
+}

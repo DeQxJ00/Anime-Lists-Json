@@ -1,0 +1,22 @@
+{
+  "anidbid": "7891",
+  "tvdbid": "76703",
+  "defaulttvdbseason": "14",
+  "episodeoffset": "",
+  "tmdbtv": "60572",
+  "tmdbseason": "14",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Pocket Monsters: Best Wishes!",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "OLM"
+  }
+}

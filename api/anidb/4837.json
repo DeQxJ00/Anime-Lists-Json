@@ -1,0 +1,19 @@
+{
+  "anidbid": "4837",
+  "tvdbid": "138841",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "37514",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Nanami-chan 3rd Series",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "1",
+      "text": ";1-29;2-30;3-31;4-32;5-33;6-34;7-35;8-36;9-37;10-38;11-39;12-40;13-41;14-42;15-43;16-44;"
+    }
+  }
+}

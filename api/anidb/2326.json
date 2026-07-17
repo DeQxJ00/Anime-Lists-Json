@@ -1,0 +1,22 @@
+{
+  "anidbid": "2326",
+  "tvdbid": "79132",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "24722",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Grenadier: Hohoemi no Senshi",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "4",
+      "end": "8",
+      "offset": "-3",
+      "text": ";1-0;2-0;3-0;"
+    }
+  }
+}

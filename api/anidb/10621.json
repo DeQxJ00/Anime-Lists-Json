@@ -1,0 +1,19 @@
+{
+  "anidbid": "10621",
+  "tvdbid": "252808",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "42140",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Gekijouban Gudaguda Fairiestte Iu Eiga wa Dou kana...?",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-4;"
+    }
+  }
+}

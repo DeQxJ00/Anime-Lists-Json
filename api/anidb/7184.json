@@ -1,0 +1,22 @@
+{
+  "anidbid": "7184",
+  "tvdbid": "80675",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "27837",
+  "imdbid": "",
+  "name": "Kidou Senshi Gundam Double O Special Edition II: End of World",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-5;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "Sunrise"
+  }
+}

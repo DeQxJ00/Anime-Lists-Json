@@ -1,0 +1,26 @@
+{
+  "anidbid": "2359",
+  "tvdbid": "75579",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "3",
+  "tmdbtv": "37863",
+  "tmdbseason": "0",
+  "tmdboffset": "3",
+  "tmdbid": "",
+  "imdbid": "tt0485323",
+  "name": "Gekijouban Hagane no Renkinjutsushi: Shambala o Yuku Mono",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-0;2-0;3-0;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";2-4;3-4;"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "4889",
+  "tvdbid": "209611",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "96688",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Tatoe Kimi ga Sekaijuu no Teki ni Natte mo",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "1",
+      "text": ";1-3;"
+    }
+  }
+}

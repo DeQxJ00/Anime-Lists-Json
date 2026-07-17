@@ -1,0 +1,19 @@
+{
+  "anidbid": "9485",
+  "tvdbid": "249869",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "45953",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Rou Kyuu Bu! SS",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-2;"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "anidbid": "1312",
+  "tvdbid": "245451",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "45348",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0401233",
+  "name": "Appleseed (2004)",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-0;2-0;3-0;4-0;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-2;3-2;4-2;5-2;6-2;"
+      }
+    ]
+  },
+  "supplemental-info": {
+    "studio": "Digital Frontier"
+  }
+}

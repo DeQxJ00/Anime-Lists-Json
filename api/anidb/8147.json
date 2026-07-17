@@ -1,0 +1,19 @@
+{
+  "anidbid": "8147",
+  "tvdbid": "79481",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "68555",
+  "imdbid": "tt3355698",
+  "name": "Death Note: R2 - L o Tsugu Mono",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-2;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "1457",
+  "tvdbid": "81232",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "25117",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Ashita no Joe",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-2;2-3;"
+    }
+  }
+}

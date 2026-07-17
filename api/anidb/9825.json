@@ -1,0 +1,19 @@
+{
+  "anidbid": "9825",
+  "tvdbid": "195711",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "56351",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kami nomi zo Shiru Sekai: Magical Star Kanon 100%",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-5;"
+    }
+  }
+}

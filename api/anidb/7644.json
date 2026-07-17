@@ -1,0 +1,19 @@
+{
+  "anidbid": "7644",
+  "tvdbid": "82380",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "46348",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Attack No.1: Namida no Sekai Senshuken",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-3;"
+    }
+  }
+}

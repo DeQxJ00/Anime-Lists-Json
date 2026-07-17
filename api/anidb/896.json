@@ -1,0 +1,21 @@
+{
+  "anidbid": "896",
+  "tvdbid": "79108",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "42855",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kimi ga Nozomu Eien",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "7",
+      "offset": "3"
+    }
+  }
+}

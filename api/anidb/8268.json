@@ -1,0 +1,19 @@
+{
+  "anidbid": "8268",
+  "tvdbid": "151281",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "44318",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Hakuouki: Sekka-roku - Shinsengumi Kitan",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-0;2-0;3-0;4-0;5-0;"
+    }
+  }
+}

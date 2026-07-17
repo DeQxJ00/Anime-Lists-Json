@@ -1,0 +1,19 @@
+{
+  "anidbid": "3330",
+  "tvdbid": "70817",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "5622",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Ham-chans no Mezase! Ham-Ham Kin Medal: Hashire! Hashire! Daisakusen!",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "2",
+      "text": ";1-54;"
+    }
+  }
+}

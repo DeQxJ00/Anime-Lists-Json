@@ -1,0 +1,20 @@
+{
+  "anidbid": "6227",
+  "tvdbid": "83363",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "31721",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Shikabane Hime: Kuro",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "1",
+      "text": ";1-13;2-14;"
+    }
+  },
+  "before": ";1-13;2-14;"
+}

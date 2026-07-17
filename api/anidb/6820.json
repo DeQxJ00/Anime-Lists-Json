@@ -1,0 +1,19 @@
+{
+  "anidbid": "6820",
+  "tvdbid": "162711",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "58107",
+  "imdbid": "",
+  "name": "Black Rock Shooter",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-4;"
+    }
+  }
+}

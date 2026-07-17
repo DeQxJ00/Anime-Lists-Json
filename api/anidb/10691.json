@@ -1,0 +1,44 @@
+{
+  "anidbid": "10691",
+  "tvdbid": "254653",
+  "defaulttvdbseason": "3",
+  "episodeoffset": "",
+  "tmdbtv": "45950",
+  "tmdbseason": "3",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "High School DxD Born",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tmdbseason": "0",
+        "start": "1",
+        "end": "4",
+        "offset": "11"
+      },
+      {
+        "anidbseason": "0",
+        "tmdbseason": "0",
+        "start": "5",
+        "end": "6",
+        "offset": "12"
+      },
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "start": "1",
+        "end": "4",
+        "offset": "10"
+      },
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "start": "5",
+        "end": "6",
+        "offset": "11"
+      }
+    ]
+  }
+}

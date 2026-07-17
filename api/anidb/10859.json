@@ -1,0 +1,19 @@
+{
+  "anidbid": "10859",
+  "tvdbid": "275670",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "62640",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Nisekoi:",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-4;"
+    }
+  }
+}

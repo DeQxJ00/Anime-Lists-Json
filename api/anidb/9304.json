@@ -1,0 +1,19 @@
+{
+  "anidbid": "9304",
+  "tvdbid": "262954",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "45790",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "JoJo no Kimyou na Bouken (2012)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "offset": "7"
+    }
+  }
+}

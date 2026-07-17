@@ -1,0 +1,19 @@
+{
+  "anidbid": "11350",
+  "tvdbid": "102261",
+  "defaulttvdbseason": "4",
+  "episodeoffset": "",
+  "tmdbtv": "46195",
+  "tmdbseason": "4",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Owarimonogatari",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "4",
+      "text": ";401-1;402-1;"
+    }
+  }
+}

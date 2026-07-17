@@ -1,0 +1,19 @@
+{
+  "anidbid": "11746",
+  "tvdbid": "289884",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "62564",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Hibike! Euphonium 2",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-10;2-11;3-12;4-13;5-14;6-15;7-16;"
+    }
+  }
+}

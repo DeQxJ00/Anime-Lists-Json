@@ -1,0 +1,19 @@
+{
+  "anidbid": "5210",
+  "tvdbid": "78919",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "34708",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Genshiken 2",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-4;"
+    }
+  }
+}

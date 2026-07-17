@@ -1,0 +1,31 @@
+{
+  "anidbid": "8883",
+  "tvdbid": "261862",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "45501",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Chuunibyou demo Koi ga Shitai!",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "start": "2",
+        "end": "7",
+        "offset": "3",
+        "text": ";1-1;"
+      },
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "start": "8",
+        "end": "14",
+        "offset": "13"
+      }
+    ]
+  }
+}

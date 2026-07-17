@@ -1,0 +1,19 @@
+{
+  "anidbid": "4243",
+  "tvdbid": "79839",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "53787",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Aria the Natural",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";204-1;"
+    }
+  }
+}

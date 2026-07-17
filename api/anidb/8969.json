@@ -1,0 +1,19 @@
+{
+  "anidbid": "8969",
+  "tvdbid": "257518",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "62742",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Sankarea (2012)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";2-3;"
+    }
+  }
+}

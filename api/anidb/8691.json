@@ -1,0 +1,21 @@
+{
+  "anidbid": "8691",
+  "tvdbid": "257516",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "43167",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Accel World",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "8",
+      "offset": "1"
+    }
+  }
+}

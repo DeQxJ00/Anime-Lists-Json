@@ -1,0 +1,19 @@
+{
+  "anidbid": "17547",
+  "tvdbid": "422981",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "207250",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Boku no Kokoro no Yabai Yatsu",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;2-0;"
+    }
+  }
+}

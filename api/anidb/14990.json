@@ -1,0 +1,21 @@
+{
+  "anidbid": "14990",
+  "tvdbid": "376144",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "93816",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Great Pretender",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "2",
+      "start": "15",
+      "end": "23",
+      "offset": "-14"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "2404",
+  "tvdbid": "81766",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "27346",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "To Heart: Remember My Memories",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-7;2-8;3-9;4-10;5-11;6-12;7-13;"
+    }
+  }
+}

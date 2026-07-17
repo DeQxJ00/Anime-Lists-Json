@@ -1,0 +1,19 @@
+{
+  "anidbid": "7445",
+  "tvdbid": "339733",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "39980",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Digimon Savers 3D: Digital World Kiki Ippatsu!",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

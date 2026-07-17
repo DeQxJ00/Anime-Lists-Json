@@ -1,0 +1,30 @@
+{
+  "anidbid": "557",
+  "tvdbid": "70817",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "5622",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Tottoko Hamtarou",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "1",
+        "tvdbseason": "2",
+        "start": "53",
+        "end": "82",
+        "offset": "-52"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "2",
+        "start": "84",
+        "end": "105",
+        "offset": "-53"
+      }
+    ]
+  }
+}

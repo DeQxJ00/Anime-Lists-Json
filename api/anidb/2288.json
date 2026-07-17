@@ -1,0 +1,27 @@
+{
+  "anidbid": "2288",
+  "tvdbid": "258999",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "34160",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Nanatsu no Umi no Tico",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "1",
+        "text": ";1-31;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "1",
+        "text": ";31-32;32-33;33-34;34-35;35-36;36-37;37-38;38-39;"
+      }
+    ]
+  },
+  "before": ";1-31;"
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "1320",
+  "tvdbid": "71361",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "35610",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0396659",
+  "name": "Eiga Inuyasha: Tenka Hadou no Ken",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-3;2-3;3-3;"
+    }
+  }
+}

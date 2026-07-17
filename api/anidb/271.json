@@ -1,0 +1,19 @@
+{
+  "anidbid": "271",
+  "tvdbid": "79105",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "34164",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Haibane Renmei",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-2;2-3;101-1;"
+    }
+  }
+}

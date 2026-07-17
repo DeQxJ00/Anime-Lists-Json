@@ -1,0 +1,19 @@
+{
+  "anidbid": "10583",
+  "tvdbid": "267440",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "1429",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt3646944,tt3646946",
+  "name": "Gekijouban Shingeki no Kyojin",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-14;2-18;"
+    }
+  }
+}

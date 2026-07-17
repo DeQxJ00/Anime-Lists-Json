@@ -1,0 +1,19 @@
+{
+  "anidbid": "12574",
+  "tvdbid": "248035",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "38464",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Ao no Exorcist: Kyoto Fujouou Hen OVA",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-13;2-14;"
+    }
+  }
+}

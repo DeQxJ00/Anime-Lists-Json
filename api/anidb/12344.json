@@ -1,0 +1,19 @@
+{
+  "anidbid": "12344",
+  "tvdbid": "305074",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "65930",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Boku no Hero Academia (2016)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";2-3;"
+    }
+  }
+}

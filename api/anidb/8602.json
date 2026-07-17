@@ -1,0 +1,19 @@
+{
+  "anidbid": "8602",
+  "tvdbid": "301205",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "358682",
+  "imdbid": "",
+  "name": "Yuri Seijin Naoko-san (2012)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "1",
+      "text": ";1-2;"
+    }
+  }
+}

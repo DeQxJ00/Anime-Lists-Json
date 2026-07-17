@@ -1,0 +1,19 @@
+{
+  "anidbid": "6394",
+  "tvdbid": "72459",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "10926",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt1380954",
+  "name": "Sonic: Night of the WereHog - Sonic & Chip Kyoufu no Kan",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

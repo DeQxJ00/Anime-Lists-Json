@@ -1,0 +1,19 @@
+{
+  "anidbid": "2581",
+  "tvdbid": "79882",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "27244",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Haruka Naru Toki no Naka de 2: Shiroki Ryuu no Miko",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-3;2-4;3-5;"
+    }
+  }
+}

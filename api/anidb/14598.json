@@ -1,0 +1,29 @@
+{
+  "anidbid": "14598",
+  "tvdbid": "373360",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "91643",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Shaonu Qianxian: Renxing Xiao Juchang",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "1",
+        "tvdbseason": "1",
+        "start": "1",
+        "end": "12"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "2",
+        "start": "13",
+        "end": "24",
+        "offset": "-12"
+      }
+    ]
+  }
+}

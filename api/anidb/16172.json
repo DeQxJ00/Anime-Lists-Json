@@ -1,0 +1,21 @@
+{
+  "anidbid": "16172",
+  "tvdbid": "378609",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "11",
+  "tmdbtv": "100565",
+  "tmdbseason": "1",
+  "tmdboffset": "11",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "86 (2021)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "3",
+      "offset": "1"
+    }
+  }
+}

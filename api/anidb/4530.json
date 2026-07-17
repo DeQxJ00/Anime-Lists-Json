@@ -1,0 +1,26 @@
+{
+  "anidbid": "4530",
+  "tvdbid": "82484",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "35464",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Strike Witches",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-8;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-8+6;"
+      }
+    ]
+  }
+}

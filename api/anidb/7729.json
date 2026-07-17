@@ -1,0 +1,20 @@
+{
+  "anidbid": "7729",
+  "tvdbid": "244061",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "42509",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Steins;Gate",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-1;2-7;"
+    }
+  },
+  "before": ";1-25;"
+}

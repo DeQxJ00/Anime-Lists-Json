@@ -1,0 +1,19 @@
+{
+  "anidbid": "9754",
+  "tvdbid": "256705",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "45209",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Uchuu Kyoudai: Itten no Hikari",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-2;"
+    }
+  }
+}

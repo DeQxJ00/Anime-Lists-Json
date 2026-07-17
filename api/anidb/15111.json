@@ -1,0 +1,19 @@
+{
+  "anidbid": "15111",
+  "tvdbid": "289882",
+  "defaulttvdbseason": "3",
+  "episodeoffset": "",
+  "tmdbtv": "62745",
+  "tmdbseason": "3",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth III",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-5;"
+    }
+  }
+}

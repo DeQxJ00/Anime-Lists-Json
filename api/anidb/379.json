@@ -1,0 +1,22 @@
+{
+  "anidbid": "379",
+  "tvdbid": "75113",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "43967",
+  "imdbid": "tt0088334",
+  "name": "Urusei Yatsura 2: Beautiful Dreamer",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-4;2-4;3-4;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "Kitty Film"
+  }
+}

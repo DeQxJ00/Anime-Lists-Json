@@ -1,0 +1,20 @@
+{
+  "anidbid": "1957",
+  "tvdbid": "87251",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "2",
+  "tmdbtv": "44907",
+  "tmdbseason": "1",
+  "tmdboffset": "2",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Spirit of Wonder: Shounen Kagaku Club",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "1",
+      "text": ";1-2;2-5;3-6;4-0;"
+    }
+  },
+  "before": ";1-1;2-3;3-4;"
+}

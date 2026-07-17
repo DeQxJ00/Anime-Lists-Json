@@ -1,0 +1,19 @@
+{
+  "anidbid": "7599",
+  "tvdbid": "83322",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "30980",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Toaru Majutsu no Index II",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-3;2-4;3-0;4-0;"
+    }
+  }
+}

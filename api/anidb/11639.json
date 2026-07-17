@@ -1,0 +1,21 @@
+{
+  "anidbid": "11639",
+  "tvdbid": "269319",
+  "defaulttvdbseason": "4",
+  "episodeoffset": "",
+  "tmdbtv": "63576",
+  "tmdbseason": "4",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Fate/Kaleid Liner Prisma Illya Drei!!",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "6",
+      "offset": "17"
+    }
+  }
+}

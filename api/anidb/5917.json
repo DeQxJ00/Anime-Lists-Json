@@ -1,0 +1,43 @@
+{
+  "anidbid": "5917",
+  "tvdbid": "137951",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "13961",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Usavich",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "1",
+        "tvdbseason": "1",
+        "text": ";1-1;2-2;3-3;4-4;5-5;6-6;7-7;8-8;9-9;10-10;11-11;12-12;13-13;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "2",
+        "text": ";14-1;15-2;16-3;17-4;18-5;19-6;20-7;21-8;22-9;23-10;24-11;25-12;26-13;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "3",
+        "text": ";27-1;28-2;29-3;30-4;31-5;32-6;33-7;34-8;35-9;36-10;37-11;38-12;39-13;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "4",
+        "text": ";40-1;41-2;42-3;43-4;44-5;45-6;46-7;47-8;48-9;49-10;50-11;51-12;52-13;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "5",
+        "start": "53",
+        "end": "65",
+        "offset": "-52"
+      }
+    ]
+  }
+}

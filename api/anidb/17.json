@@ -1,0 +1,19 @@
+{
+  "anidbid": "17",
+  "tvdbid": "78914",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "39379",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Fullmetal Panic!",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;2-0;3-0;4-0;5-0;"
+    }
+  }
+}

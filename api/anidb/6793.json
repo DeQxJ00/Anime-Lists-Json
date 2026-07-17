@@ -1,0 +1,19 @@
+{
+  "anidbid": "6793",
+  "tvdbid": "82807",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "34805",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Sekirei: Pure Engagement",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-2;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "11154",
+  "tvdbid": "272309",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "334372",
+  "imdbid": "",
+  "name": "Gekijouban Yowamushi Pedal",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-4;"
+    }
+  }
+}

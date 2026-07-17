@@ -1,0 +1,19 @@
+{
+  "anidbid": "10803",
+  "tvdbid": "257521",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "45254",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Haiyore! Nyaruko-san F",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-3;"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "anidbid": "10529",
+  "tvdbid": "284719",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "64163",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Shinmai Maou no Testament",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "6",
+      "offset": "2",
+      "text": ";7-0;8-0;"
+    }
+  }
+}

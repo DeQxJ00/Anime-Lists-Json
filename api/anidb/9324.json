@@ -1,0 +1,19 @@
+{
+  "anidbid": "9324",
+  "tvdbid": "195711",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "56351",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kami nomi zo Shiru Sekai: Tenri Hen",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-3;2-4;"
+    }
+  }
+}

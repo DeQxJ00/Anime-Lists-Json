@@ -1,0 +1,19 @@
+{
+  "anidbid": "1570",
+  "tvdbid": "72877",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "36046",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0159361",
+  "name": "City Hunter Special: Goodbye My Sweetheart",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-5;2-5;3-5;"
+    }
+  }
+}

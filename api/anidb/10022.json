@@ -1,0 +1,19 @@
+{
+  "anidbid": "10022",
+  "tvdbid": "259640",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "9",
+  "tmdbtv": "45782",
+  "tmdbseason": "0",
+  "tmdboffset": "9",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Sword Art Online: Extra Edition",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-11;"
+    }
+  }
+}

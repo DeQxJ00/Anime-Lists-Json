@@ -1,0 +1,19 @@
+{
+  "anidbid": "989",
+  "tvdbid": "71863",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "4",
+  "tmdbtv": "31572",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0089943",
+  "name": "Lupin Sansei: Babylon no Ougon Densetsu",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-5;2-5;3-5;"
+    }
+  }
+}

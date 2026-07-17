@@ -1,0 +1,19 @@
+{
+  "anidbid": "4123",
+  "tvdbid": "74739",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "12501",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt10674772",
+  "name": "Kaleido Star: Legend of Phoenix - Layla Hamilton Monogatari",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-2;"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "anidbid": "16390",
+  "tvdbid": "398106",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "106611",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Yakunara Mug Cup mo Nibangama",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "12",
+      "offset": "12"
+    }
+  }
+}

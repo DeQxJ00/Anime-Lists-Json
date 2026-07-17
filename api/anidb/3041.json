@@ -1,0 +1,19 @@
+{
+  "anidbid": "3041",
+  "tvdbid": "79156",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "56387",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0456981",
+  "name": "Shin Kyuuseishu Densetsu Hokuto no Ken Toki-den",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-8;"
+    }
+  }
+}

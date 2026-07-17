@@ -1,0 +1,19 @@
+{
+  "anidbid": "8274",
+  "tvdbid": "305488",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "102070",
+  "imdbid": "",
+  "name": "Mahou Sensei Negima! Anime Final Gekijouban",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-11;"
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "anidbid": "193",
+  "tvdbid": "76932",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "57706",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Ranma 1/2 Nettou Hen",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-0;2-0;3-0;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "3",
+        "start": "23",
+        "end": "44",
+        "offset": "-22",
+        "text": ";45-24;51-23;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "4",
+        "start": "46",
+        "end": "50",
+        "offset": "-45"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "4",
+        "start": "52",
+        "end": "69",
+        "offset": "-46",
+        "text": ";72-24;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "5",
+        "start": "73",
+        "end": "94",
+        "offset": "-70",
+        "text": ";70-1;71-2;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "6",
+        "start": "95",
+        "end": "118",
+        "offset": "-94",
+        "text": ";103-10;104-11;105-13;106-14;107-16;108-9;109-17;110-19;111-20;112-12;113-15;114-18;115-22;116-23;117-21;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "7",
+        "start": "119",
+        "end": "143",
+        "offset": "-118",
+        "text": ";136-19;137-20;138-18;"
+      }
+    ]
+  },
+  "supplemental-info": {
+    "studio": "Studio Deen"
+  }
+}

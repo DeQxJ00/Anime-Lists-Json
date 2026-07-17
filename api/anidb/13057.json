@@ -1,0 +1,19 @@
+{
+  "anidbid": "13057",
+  "tvdbid": "320459",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "479248",
+  "imdbid": "",
+  "name": "Chaos;Child: Silent Sky",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-2;2-2;3-3;"
+    }
+  }
+}

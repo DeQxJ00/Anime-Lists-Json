@@ -1,0 +1,19 @@
+{
+  "anidbid": "19402",
+  "tvdbid": "354198",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "14",
+  "tmdbtv": "83121",
+  "tmdbseason": "0",
+  "tmdboffset": "4",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-15+16;401-15;402-16;"
+    }
+  }
+}

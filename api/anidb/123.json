@@ -1,0 +1,19 @@
+{
+  "anidbid": "123",
+  "tvdbid": "77681",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "26318",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0462717",
+  "name": "Slayers Premium",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-12;"
+    }
+  }
+}

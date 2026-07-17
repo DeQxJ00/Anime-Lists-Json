@@ -1,0 +1,19 @@
+{
+  "anidbid": "2731",
+  "tvdbid": "72845",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "19697",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Akihabara Dennou-gumi: 2011-nen no Natsuyasumi",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

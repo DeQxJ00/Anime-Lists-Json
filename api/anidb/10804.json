@@ -1,0 +1,19 @@
+{
+  "anidbid": "10804",
+  "tvdbid": "269319",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "63576",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Fate/Kaleid Liner Prisma Illya Zwei! (2015)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-12;"
+    }
+  }
+}

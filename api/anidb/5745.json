@@ -1,0 +1,19 @@
+{
+  "anidbid": "5745",
+  "tvdbid": "79194",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "2",
+  "tmdbtv": "31665",
+  "tmdbseason": "0",
+  "tmdboffset": "2",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "School Rumble San Gakki",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;2-0;"
+    }
+  }
+}

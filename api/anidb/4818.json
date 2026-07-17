@@ -1,0 +1,19 @@
+{
+  "anidbid": "4818",
+  "tvdbid": "75414",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "63164",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt1207645",
+  "name": "Chou Gekijouban Keroro Gunsou 2: Shinkai no Princess de Arimasu!",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-2;"
+    }
+  }
+}

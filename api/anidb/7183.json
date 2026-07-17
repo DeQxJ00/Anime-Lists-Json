@@ -1,0 +1,22 @@
+{
+  "anidbid": "7183",
+  "tvdbid": "80675",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "25446",
+  "imdbid": "",
+  "name": "Kidou Senshi Gundam Double O Special Edition I: Celestial Being",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-4;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "Sunrise"
+  }
+}

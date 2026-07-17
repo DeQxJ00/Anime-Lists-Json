@@ -1,0 +1,21 @@
+{
+  "anidbid": "11731",
+  "tvdbid": "78914",
+  "defaulttvdbseason": "4",
+  "episodeoffset": "",
+  "tmdbtv": "39379",
+  "tmdbseason": "4",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Fullmetal Panic! Invisible Victory",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "2",
+      "offset": "3"
+    }
+  }
+}

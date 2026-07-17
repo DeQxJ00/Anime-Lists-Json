@@ -1,0 +1,19 @@
+{
+  "anidbid": "2812",
+  "tvdbid": "71585",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "75177",
+  "imdbid": "tt4130788",
+  "name": "Turn A Gundam II: Gekkou Chou",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-2;"
+    }
+  }
+}

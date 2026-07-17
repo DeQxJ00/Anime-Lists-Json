@@ -1,0 +1,19 @@
+{
+  "anidbid": "10891",
+  "tvdbid": "102261",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "46195",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Tsukimonogatari: Yotsugi Doll",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-0;2-15;3-16;4-17;5-18;"
+    }
+  }
+}

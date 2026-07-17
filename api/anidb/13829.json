@@ -1,0 +1,21 @@
+{
+  "anidbid": "13829",
+  "tvdbid": "289882",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "62745",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth II",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "2",
+      "offset": "2"
+    }
+  }
+}

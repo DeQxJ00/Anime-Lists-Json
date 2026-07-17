@@ -1,0 +1,19 @@
+{
+  "anidbid": "8886",
+  "tvdbid": "252345",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "57528",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kyoukaisen-jou no Horizon II",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-6;2-7;9-8;"
+    }
+  }
+}

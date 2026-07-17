@@ -1,0 +1,19 @@
+{
+  "anidbid": "11143",
+  "tvdbid": "283942",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "61461",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Akatsuki no Yona (2015)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-4;"
+    }
+  }
+}

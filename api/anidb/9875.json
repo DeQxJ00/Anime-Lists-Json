@@ -1,0 +1,19 @@
+{
+  "anidbid": "9875",
+  "tvdbid": "272074",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "60728",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kill la Kill",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-1;5-2;2-3;3-4;4-5;"
+    }
+  }
+}

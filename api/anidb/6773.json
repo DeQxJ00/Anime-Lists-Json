@@ -1,0 +1,19 @@
+{
+  "anidbid": "6773",
+  "tvdbid": "128171",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "37183",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Dance in the Vampire Bund",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";13-1;"
+    }
+  }
+}

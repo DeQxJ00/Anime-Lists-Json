@@ -1,0 +1,28 @@
+{
+  "anidbid": "516",
+  "tvdbid": "76045",
+  "defaulttvdbseason": "a",
+  "episodeoffset": "",
+  "tmdbtv": "34132",
+  "tmdbseason": "a",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Princess Tutu",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";4-0;5-0;6-0;7-0;8-0;9-0;10-0;11-0;12-5;13-6;14-7;15-8;16-9;17-10;18-11;19-12;20-13;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "2",
+        "start": "14",
+        "end": "38",
+        "offset": "-13"
+      }
+    ]
+  }
+}

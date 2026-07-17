@@ -1,0 +1,21 @@
+{
+  "anidbid": "6653",
+  "tvdbid": "87491",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "45502",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Queen's Blade: Gyokuza o Tsugu Mono",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "6",
+      "offset": "6"
+    }
+  }
+}

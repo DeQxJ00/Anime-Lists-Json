@@ -1,0 +1,19 @@
+{
+  "anidbid": "835",
+  "tvdbid": "74544",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "12427",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Happy Lesson Advance",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-7;"
+    }
+  }
+}

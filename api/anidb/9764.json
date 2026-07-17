@@ -1,0 +1,19 @@
+{
+  "anidbid": "9764",
+  "tvdbid": "76703",
+  "defaulttvdbseason": "15",
+  "episodeoffset": "38",
+  "tmdbtv": "60572",
+  "tmdbseason": "15",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Pocket Monsters: Best Wishes! Season 2 - Decolora Adventure",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-47;2-64;"
+    }
+  }
+}

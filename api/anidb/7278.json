@@ -1,0 +1,20 @@
+{
+  "anidbid": "7278",
+  "tvdbid": "140741",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "44316",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Senkou no Night Raid",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-2;2-1;4-5;5-4;"
+    }
+  },
+  "before": ";5-14;4-15;"
+}

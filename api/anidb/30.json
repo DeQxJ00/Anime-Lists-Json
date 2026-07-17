@@ -1,0 +1,19 @@
+{
+  "anidbid": "30",
+  "tvdbid": "70865",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "3251",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "X (2001)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

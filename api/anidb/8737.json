@@ -1,0 +1,22 @@
+{
+  "anidbid": "8737",
+  "tvdbid": "87491",
+  "defaulttvdbseason": "3",
+  "episodeoffset": "",
+  "tmdbtv": "45502",
+  "tmdbseason": "3",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Queen's Blade: Rebellion",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "7",
+      "end": "12",
+      "offset": "16",
+      "text": ";1-0;2-0;3-0;4-0;5-0;6-0;"
+    }
+  }
+}

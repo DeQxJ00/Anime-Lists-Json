@@ -1,0 +1,19 @@
+{
+  "anidbid": "13493",
+  "tvdbid": "259640",
+  "defaulttvdbseason": "3",
+  "episodeoffset": "",
+  "tmdbtv": "45782",
+  "tmdbseason": "3",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Sword Art Online: Alicization",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-24;2-25;"
+    }
+  }
+}

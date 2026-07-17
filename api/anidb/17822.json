@@ -1,0 +1,44 @@
+{
+  "anidbid": "17822",
+  "tvdbid": "469571",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "290837",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Heart Cocktail: Colorful",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "1",
+        "tmdbseason": "2",
+        "start": "6",
+        "end": "10",
+        "offset": "-5"
+      },
+      {
+        "anidbseason": "1",
+        "tmdbseason": "3",
+        "start": "11",
+        "end": "15",
+        "offset": "-10"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "2",
+        "start": "6",
+        "end": "10",
+        "offset": "-5"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "3",
+        "start": "11",
+        "end": "15",
+        "offset": "-10"
+      }
+    ]
+  }
+}

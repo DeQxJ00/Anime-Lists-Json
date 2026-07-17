@@ -1,0 +1,19 @@
+{
+  "anidbid": "2977",
+  "tvdbid": "72412",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "42673",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Shadow Skill: Kuruda-ryuu Kousatsu-hou no Himitsu",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-5;"
+    }
+  }
+}

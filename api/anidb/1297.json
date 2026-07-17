@@ -1,0 +1,22 @@
+{
+  "anidbid": "1297",
+  "tvdbid": "84025",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "42468",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Maria-sama ga Miteru",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";8-0;9-0;10-0;11-0;12-0;13-0;14-0;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "Studio Deen"
+  }
+}

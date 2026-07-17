@@ -1,0 +1,48 @@
+{
+  "anidbid": "288",
+  "tvdbid": "71776",
+  "defaulttvdbseason": "a",
+  "episodeoffset": "",
+  "tmdbtv": "43018",
+  "tmdbseason": "a",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Maison Ikkoku",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-0;2-4;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "1",
+        "start": "1",
+        "end": "26"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "2",
+        "start": "27",
+        "end": "52",
+        "offset": "-26"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "3",
+        "start": "53",
+        "end": "76",
+        "offset": "-52"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "4",
+        "start": "77",
+        "end": "96",
+        "offset": "-76"
+      }
+    ]
+  }
+}

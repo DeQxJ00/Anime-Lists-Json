@@ -1,0 +1,19 @@
+{
+  "anidbid": "4771",
+  "tvdbid": "339733",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "36197",
+  "imdbid": "",
+  "name": "Digimon Savers The Movie: Kyuukyoku Power! Burst Mode Hatsudou!!",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-9;"
+    }
+  }
+}

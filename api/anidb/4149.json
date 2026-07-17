@@ -1,0 +1,19 @@
+{
+  "anidbid": "4149",
+  "tvdbid": "80082",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "45286",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Dai Mahou Touge",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "1",
+      "text": ";1-1+2;2-3+4;3-5+6;4-7+8;"
+    }
+  }
+}

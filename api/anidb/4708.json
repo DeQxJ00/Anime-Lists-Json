@@ -1,0 +1,22 @@
+{
+  "anidbid": "4708",
+  "tvdbid": "79878",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "60424",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Freedom",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-2;2-1;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "Sunrise"
+  }
+}

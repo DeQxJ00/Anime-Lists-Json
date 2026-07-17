@@ -1,0 +1,19 @@
+{
+  "anidbid": "891",
+  "tvdbid": "71459",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "46275",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Ai Tenshi Densetsu Wedding Peach",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";2-0;3-2;4-0;5-3;"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "anidbid": "5749",
+  "tvdbid": "80158",
+  "defaulttvdbseason": "3",
+  "episodeoffset": "",
+  "tmdbtv": "37584",
+  "tmdbseason": "3",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Ikkitousen: Great Guardians",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "6",
+      "offset": "6",
+      "text": ";7-0;"
+    }
+  }
+}

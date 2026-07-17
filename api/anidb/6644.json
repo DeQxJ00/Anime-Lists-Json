@@ -1,0 +1,19 @@
+{
+  "anidbid": "6644",
+  "tvdbid": "80042",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "31718",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Darker Than Black: Ryuusei no Gemini",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-2;2-3;3-4;4-5;"
+    }
+  }
+}

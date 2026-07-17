@@ -1,0 +1,26 @@
+{
+  "anidbid": "5841",
+  "tvdbid": "80644",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "24835",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Clannad: After Story",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";3-3;"
+      },
+      {
+        "anidbseason": "0",
+        "tvdbseason": "2",
+        "text": ";1-23;2-24;"
+      }
+    ]
+  }
+}

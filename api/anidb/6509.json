@@ -1,0 +1,19 @@
+{
+  "anidbid": "6509",
+  "tvdbid": "80327",
+  "defaulttvdbseason": "3",
+  "episodeoffset": "",
+  "tmdbtv": "42887",
+  "tmdbseason": "3",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Zan Sayonara Zetsubou-sensei",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-8;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "3296",
+  "tvdbid": "263688",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "61752",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Hellsing (2006)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;2-0;3-0;4-0;5-0;6-0;7-0;8-0;9-0;10-0;11-0;12-0;13-0;14-0;15-1;16-2;17-3;"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "anidbid": "12264",
+  "tvdbid": "81115",
+  "defaulttvdbseason": "5",
+  "episodeoffset": "",
+  "tmdbtv": "19836",
+  "tmdbseason": "5",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "ViVid Strike!",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "4",
+      "offset": "14"
+    }
+  }
+}

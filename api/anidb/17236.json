@@ -1,0 +1,19 @@
+{
+  "anidbid": "17236",
+  "tvdbid": "371310",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "94664",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-2;2-0;"
+    }
+  }
+}

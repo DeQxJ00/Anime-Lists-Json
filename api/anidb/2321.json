@@ -1,0 +1,29 @@
+{
+  "anidbid": "2321",
+  "tvdbid": "71361",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "35610",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0473658",
+  "name": "Eiga Inuyasha: Guren no Houraijima",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-0;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-4;2-4;3-4;"
+      }
+    ]
+  },
+  "supplemental-info": {
+    "studio": "Sunrise"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "17151",
+  "tvdbid": "415119",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "207567",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt21970564",
+  "name": "Pocket Monsters: Kami to Yobareshi Arceus",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";401-1;"
+    }
+  }
+}

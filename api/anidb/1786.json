@@ -1,0 +1,57 @@
+{
+  "anidbid": "1786",
+  "tvdbid": "414408",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Tabako Ippon no Story: Heart Cocktail",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "1",
+        "tvdbseason": "1",
+        "start": "1",
+        "end": "13"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "2",
+        "start": "14",
+        "end": "27",
+        "offset": "-13"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "3",
+        "start": "28",
+        "end": "40",
+        "offset": "-27"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "4",
+        "start": "41",
+        "end": "52",
+        "offset": "-40"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "5",
+        "start": "53",
+        "end": "65",
+        "offset": "-52"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "6",
+        "start": "66",
+        "end": "78",
+        "offset": "-65"
+      }
+    ]
+  }
+}

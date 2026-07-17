@@ -1,0 +1,19 @@
+{
+  "anidbid": "11681",
+  "tvdbid": "259640",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "21",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "413594",
+  "imdbid": "tt5544384",
+  "name": "Gekijouban Sword Art Online: Ordinal Scale",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-23;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "6804",
+  "tvdbid": "76703",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "665581",
+  "imdbid": "",
+  "name": "Pikachu no Kirakira Daisousaku!",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-35;"
+    }
+  }
+}

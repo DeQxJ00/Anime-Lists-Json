@@ -1,0 +1,20 @@
+{
+  "anidbid": "12430",
+  "tvdbid": "293088",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "63926",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "One Punch Man (2019)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-8;2-9;3-10;4-11;5-12;6-13;7-14;"
+    }
+  },
+  "before": ";1-1;2-3;"
+}

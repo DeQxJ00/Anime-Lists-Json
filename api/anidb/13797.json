@@ -1,0 +1,26 @@
+{
+  "anidbid": "13797",
+  "tvdbid": "354199",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "5",
+  "tmdbtv": "83122",
+  "tmdbseason": "0",
+  "tmdboffset": "5",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kemurikusa",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-0;2-0;3-0;4-0;5-0;6-0;7-0;8-0;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";3-0;"
+      }
+    ]
+  }
+}

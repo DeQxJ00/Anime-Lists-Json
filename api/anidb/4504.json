@@ -1,0 +1,19 @@
+{
+  "anidbid": "4504",
+  "tvdbid": "72454",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "1041790",
+  "imdbid": "",
+  "name": "Meitantei Conan: Kieta Dia o Oe! Conan & Heiji VS Kid!",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-15;"
+    }
+  }
+}

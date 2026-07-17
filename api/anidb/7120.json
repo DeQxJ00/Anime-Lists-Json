@@ -1,0 +1,26 @@
+{
+  "anidbid": "7120",
+  "tvdbid": "82311",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "67256",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kyou no Go no Ni (2009)",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-0;2-0;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-6;2-6;3-6;4-6;"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "11585",
+  "tvdbid": "76703",
+  "defaulttvdbseason": "17",
+  "episodeoffset": "",
+  "tmdbtv": "60572",
+  "tmdbseason": "17",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Pocket Monsters XY&Z",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-61;2-62;3-0;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "8898",
+  "tvdbid": "79840",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "81426",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Otome wa Boku ni Koi Shiteru: Futari no Elder The Animation",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-2;"
+    }
+  }
+}

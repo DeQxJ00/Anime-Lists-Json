@@ -1,0 +1,19 @@
+{
+  "anidbid": "16",
+  "tvdbid": "79062",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "19780",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Onegai Teacher",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";3-4;4-0;5-3;14-5;15-5;16-5;17-5;18-5;19-5;20-5;21-5;"
+    }
+  }
+}

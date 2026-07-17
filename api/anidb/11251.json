@@ -1,0 +1,20 @@
+{
+  "anidbid": "11251",
+  "tvdbid": "295897",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "70716",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Bikini Warriors",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-13;"
+    }
+  },
+  "before": ";2-3;"
+}

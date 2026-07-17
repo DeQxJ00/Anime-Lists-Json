@@ -1,0 +1,19 @@
+{
+  "anidbid": "10046",
+  "tvdbid": "102261",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "46195",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Hanamonogatari: Suruga Devil",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-0;2-10;3-11;4-12;5-13;6-14;"
+    }
+  }
+}

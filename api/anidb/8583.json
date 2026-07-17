@@ -1,0 +1,19 @@
+{
+  "anidbid": "8583",
+  "tvdbid": "254662",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "42972",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Rinne no Lagrange: Flower Declaration of Your Heart",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";7-15;8-16;9-17;10-18;11-19;12-20;"
+    }
+  }
+}

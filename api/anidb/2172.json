@@ -1,0 +1,19 @@
+{
+  "anidbid": "2172",
+  "tvdbid": "81780",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "1065",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Honoo no Mirage: Minagiwa no Hangyakusha",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;2-0;3-0;"
+    }
+  }
+}

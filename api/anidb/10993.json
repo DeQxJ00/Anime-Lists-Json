@@ -1,0 +1,19 @@
+{
+  "anidbid": "10993",
+  "tvdbid": "79895",
+  "defaulttvdbseason": "7",
+  "episodeoffset": "",
+  "tmdbtv": "57041",
+  "tmdbseason": "7",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Gintama (2015)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-12;2-0;"
+    }
+  }
+}

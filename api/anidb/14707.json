@@ -1,0 +1,19 @@
+{
+  "anidbid": "14707",
+  "tvdbid": "371444",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "91585",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Koi Suru Asteroid",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-13;"
+    }
+  }
+}

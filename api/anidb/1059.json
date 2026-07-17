@@ -1,0 +1,19 @@
+{
+  "anidbid": "1059",
+  "tvdbid": "79267",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "42567",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Ai yori Aoshi: Enishi",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-2;2-0;"
+    }
+  }
+}

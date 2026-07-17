@@ -1,0 +1,19 @@
+{
+  "anidbid": "373",
+  "tvdbid": "77681",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "26318",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt1796619",
+  "name": "Slayers Gorgeous",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-0;2-10;3-11;"
+    }
+  }
+}

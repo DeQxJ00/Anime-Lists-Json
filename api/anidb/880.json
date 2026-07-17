@@ -1,0 +1,19 @@
+{
+  "anidbid": "880",
+  "tvdbid": "79237",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "56425",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Grappler Baki: Saidai Tournament Hen",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-3;"
+    }
+  }
+}

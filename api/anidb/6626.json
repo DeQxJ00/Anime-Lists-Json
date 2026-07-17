@@ -1,0 +1,19 @@
+{
+  "anidbid": "6626",
+  "tvdbid": "75112",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "37567",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Dr. Slump: Arale-chan Hoyoyo!! Tasuketa Same ni Tsurerarete...",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

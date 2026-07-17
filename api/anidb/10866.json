@@ -1,0 +1,19 @@
+{
+  "anidbid": "10866",
+  "tvdbid": "133341",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "12",
+  "tmdbtv": "42410",
+  "tmdbseason": "2",
+  "tmdboffset": "12",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Durarara!!x2 Ten",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-4;"
+    }
+  }
+}

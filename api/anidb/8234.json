@@ -1,0 +1,19 @@
+{
+  "anidbid": "8234",
+  "tvdbid": "195571",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "45088",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Tamayura: Hitotose",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-5;"
+    }
+  }
+}

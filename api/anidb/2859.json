@@ -1,0 +1,29 @@
+{
+  "anidbid": "2859",
+  "tvdbid": "163721",
+  "defaulttvdbseason": "a",
+  "episodeoffset": "",
+  "tmdbtv": "34212",
+  "tmdbseason": "a",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Otogi-Juushi Akazukin (2006)",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "1",
+        "tvdbseason": "1",
+        "start": "1",
+        "end": "24"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "2",
+        "start": "25",
+        "end": "39",
+        "offset": "-24"
+      }
+    ]
+  }
+}

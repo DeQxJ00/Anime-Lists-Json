@@ -1,0 +1,19 @@
+{
+  "anidbid": "4741",
+  "tvdbid": "76547",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "21731",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Gundam: Mission to the Rise",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "1536",
+  "tvdbid": "74908",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "31701",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Bakuretsu Tenshi",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;2-0;3-0;"
+    }
+  }
+}

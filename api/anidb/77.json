@@ -1,0 +1,22 @@
+{
+  "anidbid": "77",
+  "tvdbid": "73038",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "21734",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Choujikuu Yousai Macross",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;2-0;3-0;4-0;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "Anime Friend"
+  }
+}

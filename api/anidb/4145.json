@@ -1,0 +1,20 @@
+{
+  "anidbid": "4145",
+  "tvdbid": "80075",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "42786",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Amaenaide yo!! Katsu!!",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "1",
+      "text": ";1-13;"
+    }
+  },
+  "before": ";1-13;"
+}

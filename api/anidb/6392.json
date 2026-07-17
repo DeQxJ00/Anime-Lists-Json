@@ -1,0 +1,19 @@
+{
+  "anidbid": "6392",
+  "tvdbid": "137151",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "35460",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Cobra The Animation: Time Drive",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-5;2-6;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "14189",
+  "tvdbid": "313435",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "67676",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Saiki Kusuo no Sainan: Kanketsuhen",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-96;2-96;3-96;"
+    }
+  }
+}

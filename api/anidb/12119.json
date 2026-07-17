@@ -1,0 +1,71 @@
+{
+  "anidbid": "12119",
+  "tvdbid": "310311",
+  "defaulttvdbseason": "a",
+  "episodeoffset": "",
+  "tmdbtv": "75787",
+  "tmdbseason": "a",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Hu Yao Xiao Hongniang",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "1",
+        "tvdbseason": "1",
+        "start": "1",
+        "end": "13"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "2",
+        "start": "14",
+        "end": "27",
+        "offset": "-13"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "3",
+        "start": "28",
+        "end": "48",
+        "offset": "-27"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "4",
+        "start": "49",
+        "end": "63",
+        "offset": "-48"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "5",
+        "start": "64",
+        "end": "89",
+        "offset": "-63"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "6",
+        "start": "90",
+        "end": "101",
+        "offset": "-89"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "7",
+        "start": "102",
+        "end": "111",
+        "offset": "-101"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "8",
+        "start": "112",
+        "end": "121",
+        "offset": "-111"
+      }
+    ]
+  }
+}

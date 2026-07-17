@@ -1,0 +1,21 @@
+{
+  "anidbid": "4011",
+  "tvdbid": "74504",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "35871",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Mahou no Princess Minky Momo: Yume o Dakishimete",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "3",
+      "offset": "5"
+    }
+  }
+}

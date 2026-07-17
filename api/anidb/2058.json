@@ -1,0 +1,19 @@
+{
+  "anidbid": "2058",
+  "tvdbid": "82965",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "111271",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0158568",
+  "name": "Crusher Joe",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";2-1;3-1;"
+    }
+  }
+}

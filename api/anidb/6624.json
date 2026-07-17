@@ -1,0 +1,19 @@
+{
+  "anidbid": "6624",
+  "tvdbid": "75112",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "37567",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Dr. Slump: Arale-chan Ncha! Penguin Mura yori Ai o Komete",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "4888",
+  "tvdbid": "209611",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "96688",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Glass Eye",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "1",
+      "text": ";1-2;"
+    }
+  }
+}

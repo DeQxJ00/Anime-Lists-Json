@@ -1,0 +1,19 @@
+{
+  "anidbid": "7009",
+  "tvdbid": "131471",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "37867",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Ladies versus Butlers!",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";3-2;4-3;5-4;6-5;7-6;2-0;"
+    }
+  }
+}

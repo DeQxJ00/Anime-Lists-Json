@@ -1,0 +1,19 @@
+{
+  "anidbid": "3121",
+  "tvdbid": "78974",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "174815",
+  "imdbid": "",
+  "name": "Tenjou Tenge: The Past Chapter",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-3;"
+    }
+  }
+}

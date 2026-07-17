@@ -1,0 +1,26 @@
+{
+  "anidbid": "8701",
+  "tvdbid": "87841",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "29884",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Saki: Achiga Hen - Episode of Side-A",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";5-8;"
+      },
+      {
+        "anidbseason": "0",
+        "tvdbseason": "2",
+        "text": ";1-13;2-14;3-15;4-16;"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "1101",
+  "tvdbid": "157211",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "12",
+  "tmdbtv": "9157",
+  "tmdbseason": "0",
+  "tmdboffset": "12",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kidou Senshi SD Gundam Mk-IV",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-15;"
+    }
+  }
+}

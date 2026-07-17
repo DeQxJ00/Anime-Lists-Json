@@ -1,0 +1,19 @@
+{
+  "anidbid": "3972",
+  "tvdbid": "84045",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "25707",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Captain Tsubasa: Saikyou no Teki! Holanda Youth",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-23;"
+    }
+  }
+}

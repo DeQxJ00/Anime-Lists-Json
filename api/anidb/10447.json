@@ -1,0 +1,19 @@
+{
+  "anidbid": "10447",
+  "tvdbid": "82788",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "69500",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Natsume Yuujinchou: Itsuka Yuki no Hi ni",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-2;"
+    }
+  }
+}

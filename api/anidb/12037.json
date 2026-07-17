@@ -1,0 +1,19 @@
+{
+  "anidbid": "12037",
+  "tvdbid": "269872",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "445475",
+  "imdbid": "tt5988680",
+  "name": "Kin'iro Mosaic: Pretty Days",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

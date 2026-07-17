@@ -1,0 +1,19 @@
+{
+  "anidbid": "12500",
+  "tvdbid": "284263",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "6",
+  "tmdbtv": "71493",
+  "tmdbseason": "2",
+  "tmdboffset": "6",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-7;"
+    }
+  }
+}

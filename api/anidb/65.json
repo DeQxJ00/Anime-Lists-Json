@@ -1,0 +1,19 @@
+{
+  "anidbid": "65",
+  "tvdbid": "79714",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "34688",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Puni Puni Poemi",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";2-3;3-2;101-4;102-5;"
+    }
+  }
+}

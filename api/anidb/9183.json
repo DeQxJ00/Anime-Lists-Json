@@ -1,0 +1,26 @@
+{
+  "anidbid": "9183",
+  "tvdbid": "102261",
+  "defaulttvdbseason": "3",
+  "episodeoffset": "",
+  "tmdbtv": "46195",
+  "tmdbseason": "3",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Monogatari Series: Second Season",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";6-7;11-8;16-9;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "3",
+        "text": ";1-1;2-2;3-3;4-4;5-5;7-6;8-7;9-8;10-9;12-10;13-11;14-12;15-13;17-14;18-15;19-16;20-17;21-18;22-19;23-20;24-21;25-22;26-23;"
+      }
+    ]
+  }
+}

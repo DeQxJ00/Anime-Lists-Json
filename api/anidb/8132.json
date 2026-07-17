@@ -1,0 +1,19 @@
+{
+  "anidbid": "8132",
+  "tvdbid": "114801",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "46261",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Fairy Tail (2011)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";4-5;5-7;6-8;7-9;8-10;9-11;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "618",
+  "tvdbid": "80158",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "37584",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Ikkitousen",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;2-0;3-0;"
+    }
+  }
+}

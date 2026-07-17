@@ -1,0 +1,20 @@
+{
+  "anidbid": "480",
+  "tvdbid": "112661",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "34764",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "G-on Riders",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "1",
+      "text": ";1-14;"
+    }
+  },
+  "before": ";1-14;"
+}

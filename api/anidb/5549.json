@@ -1,0 +1,29 @@
+{
+  "anidbid": "5549",
+  "tvdbid": "81807",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "89664",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Shigofumi",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "start": "2",
+        "end": "8",
+        "offset": "-1"
+      },
+      {
+        "anidbseason": "0",
+        "tvdbseason": "1",
+        "text": ";1-13;"
+      }
+    ]
+  },
+  "before": ";1-13;"
+}

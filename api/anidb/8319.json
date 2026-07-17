@@ -1,0 +1,19 @@
+{
+  "anidbid": "8319",
+  "tvdbid": "252477",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "53726",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Mashiro-iro Symphony: The Color of Lovers",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";2-4;3-5;4-0;5-0;6-0;7-0;"
+    }
+  }
+}

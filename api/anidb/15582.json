@@ -1,0 +1,19 @@
+{
+  "anidbid": "15582",
+  "tvdbid": "267440",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "714194",
+  "imdbid": "tt12415546",
+  "name": "Shingeki no Kyojin: Chronicle",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-31;"
+    }
+  }
+}

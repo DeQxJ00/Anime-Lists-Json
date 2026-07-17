@@ -1,0 +1,28 @@
+{
+  "anidbid": "931",
+  "tvdbid": "80054",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "43032",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Taiho Shichau zo Special",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-12;2-21;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "1",
+        "start": "12",
+        "end": "19",
+        "offset": "1"
+      }
+    ]
+  }
+}

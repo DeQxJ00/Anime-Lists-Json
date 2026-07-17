@@ -1,0 +1,26 @@
+{
+  "anidbid": "6470",
+  "tvdbid": "72775",
+  "defaulttvdbseason": "7",
+  "episodeoffset": "",
+  "tmdbtv": "42444",
+  "tmdbseason": "7",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Saint Seiya: The Lost Canvas - Meiou Shinwa",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "1",
+        "tvdbseason": "7",
+        "text": ";1-1;2-2;3-3;4-4;5-5;6-6;7-7;8-8;9-9;10-10;11-11;12-12;13-13;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "8",
+        "text": ";14-1;15-2;16-3;17-4;18-5;19-6;20-7;21-8;22-9;23-10;24-11;25-12;26-13;"
+      }
+    ]
+  }
+}

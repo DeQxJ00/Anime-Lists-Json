@@ -1,0 +1,19 @@
+{
+  "anidbid": "8595",
+  "tvdbid": "70863",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "7",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "145675,210227",
+  "imdbid": "",
+  "name": "Rurouni Kenshin: Meiji Kenkaku Romantan - Shin Kyoto Hen",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

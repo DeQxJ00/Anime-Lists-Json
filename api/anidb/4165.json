@@ -1,0 +1,19 @@
+{
+  "anidbid": "4165",
+  "tvdbid": "254931",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "20111",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt5914194",
+  "name": "Kidou Senshi Gundam SEED: Meidou no Sora",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-4;2-4;3-4;"
+    }
+  }
+}

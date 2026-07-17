@@ -1,0 +1,21 @@
+{
+  "anidbid": "7508",
+  "tvdbid": "79525",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "31724",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Code Geass: Boukoku no Akito",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "5",
+      "offset": "6"
+    }
+  }
+}

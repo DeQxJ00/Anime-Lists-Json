@@ -1,0 +1,21 @@
+{
+  "anidbid": "17676",
+  "tvdbid": "330692",
+  "defaulttvdbseason": "3",
+  "episodeoffset": "",
+  "tmdbtv": "76075",
+  "tmdbseason": "3",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Yuru Camp Season 3",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "3",
+      "offset": "19"
+    }
+  }
+}

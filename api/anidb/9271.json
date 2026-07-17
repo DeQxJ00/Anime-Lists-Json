@@ -1,0 +1,19 @@
+{
+  "anidbid": "9271",
+  "tvdbid": "264533",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "53721",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Love Live! School Idol Project",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;2-7;3-0;4-0;5-0;6-0;7-0;8-0;9-0;10-0;11-0;"
+    }
+  }
+}

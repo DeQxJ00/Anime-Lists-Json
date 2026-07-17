@@ -1,0 +1,41 @@
+{
+  "anidbid": "127",
+  "tvdbid": "71634",
+  "defaulttvdbseason": "a",
+  "episodeoffset": "",
+  "tmdbtv": "34158",
+  "tmdbseason": "a",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Magic Knight Rayearth",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "start": "1",
+        "end": "4",
+        "offset": "4",
+        "text": ";5-0;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "1",
+        "start": "1",
+        "end": "20"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "2",
+        "start": "21",
+        "end": "49",
+        "offset": "-20"
+      }
+    ]
+  },
+  "supplemental-info": {
+    "replace": "true",
+    "studio": "TMS Entertainment"
+  }
+}

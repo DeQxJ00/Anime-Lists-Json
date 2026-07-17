@@ -1,0 +1,19 @@
+{
+  "anidbid": "10726",
+  "tvdbid": "272697",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "61695",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Gekijouban Kyoukai no Kanata: I'll Be Here",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-14;2-15;"
+    }
+  }
+}

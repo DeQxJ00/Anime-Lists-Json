@@ -1,0 +1,21 @@
+{
+  "anidbid": "6970",
+  "tvdbid": "84553",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "28502",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "White Album (2009)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "1",
+      "start": "1",
+      "end": "13",
+      "offset": "13"
+    }
+  }
+}

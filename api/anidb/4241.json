@@ -1,0 +1,19 @@
+{
+  "anidbid": "4241",
+  "tvdbid": "82311",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "67256",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kyou no Go no Ni",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";4-5;"
+    }
+  }
+}

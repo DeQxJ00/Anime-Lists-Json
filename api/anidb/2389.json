@@ -1,0 +1,35 @@
+{
+  "anidbid": "2389",
+  "tvdbid": "81092",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "35868",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Black Jack (2004)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-6;2-8;3-0;"
+    }
+  },
+  "supplemental-info": [
+    {
+      "studio": "Tezuka Productions"
+    },
+    {
+      "replace": "true",
+      "fanart": {
+        "thumb": {
+          "dim": "1280x720",
+          "colors": "",
+          "preview": "http://cache.thetvdb.com/banners/_cache/fanart/original/81093-1.jpg",
+          "text": "http://cache.thetvdb.com/banners/fanart/original/81093-1.jpg"
+        }
+      }
+    }
+  ]
+}

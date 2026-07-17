@@ -1,0 +1,19 @@
+{
+  "anidbid": "6465",
+  "tvdbid": "81178",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "26707",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-4;"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "anidbid": "13033",
+  "tvdbid": "102261",
+  "defaulttvdbseason": "5",
+  "episodeoffset": "",
+  "tmdbtv": "46195",
+  "tmdbseason": "5",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Owarimonogatari (2017)",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "5",
+        "text": ";1-0;2-0;402-1;403-2;405-3;406-4;407-5;408-6;409-7;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "5",
+        "text": ";1-0;2-0;"
+      }
+    ]
+  }
+}

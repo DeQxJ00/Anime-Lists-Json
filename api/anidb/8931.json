@@ -1,0 +1,19 @@
+{
+  "anidbid": "8931",
+  "tvdbid": "118101",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "37437",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt3438514",
+  "name": "Sora no Otoshimono Final: Eternal My Master",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-3;"
+    }
+  }
+}

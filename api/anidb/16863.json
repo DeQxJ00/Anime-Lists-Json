@@ -1,0 +1,28 @@
+{
+  "anidbid": "16863",
+  "tvdbid": "343237",
+  "defaulttvdbseason": "4",
+  "episodeoffset": "",
+  "tmdbtv": "74018",
+  "tmdbseason": "4",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Ginga Eiyuu Densetsu: Die Neue These - Sakubou",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "4",
+        "start": "401",
+        "end": "412",
+        "offset": "-400"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "4",
+        "text": ";1-1+2+3;2-4+5+6;3-7+8+9;4-10+11+12;"
+      }
+    ]
+  }
+}

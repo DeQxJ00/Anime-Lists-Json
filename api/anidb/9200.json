@@ -1,0 +1,19 @@
+{
+  "anidbid": "9200",
+  "tvdbid": "70350",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "890",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Evangelion 3D",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "anidbid": "13176",
+  "tvdbid": "261862",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "460399",
+  "imdbid": "tt6915208",
+  "name": "Eiga Chuunibyou demo Koi ga Shitai! Take on Me",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "start": "25",
+        "end": "27",
+        "offset": "-7"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-4;"
+      }
+    ]
+  }
+}

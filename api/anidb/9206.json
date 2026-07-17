@@ -1,0 +1,19 @@
+{
+  "anidbid": "9206",
+  "tvdbid": "251908",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "1",
+  "tmdbtv": "60730",
+  "tmdbseason": "0",
+  "tmdboffset": "1",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Boku wa Tomodachi ga Sukunai: Relay Shousetsu wa Ketsumatsu ga Hanpanai",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

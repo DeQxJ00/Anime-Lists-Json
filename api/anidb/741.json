@@ -1,0 +1,30 @@
+{
+  "anidbid": "741",
+  "tvdbid": "71283",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "34689",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Mahou Shoujo Pretty Sammy (1996)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";2-4;3-6;4-3;5-2;6-5;"
+    }
+  },
+  "supplemental-info": {
+    "replace": "true",
+    "fanart": {
+      "thumb": {
+        "dim": "1280x720",
+        "colors": "",
+        "preview": "http://www.thetvdb.com/banners/_cache/fanart/original/191221-1.jpg",
+        "text": "http://www.thetvdb.com/banners/fanart/original/191221-1.jpg"
+      }
+    }
+  }
+}

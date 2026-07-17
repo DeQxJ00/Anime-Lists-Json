@@ -1,0 +1,42 @@
+{
+  "anidbid": "312",
+  "tvdbid": "76665",
+  "defaulttvdbseason": "a",
+  "episodeoffset": "",
+  "tmdbtv": "30669",
+  "tmdbseason": "a",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Yuu Yuu Hakusho",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-4;2-0;3-0;4-0;5-0;6-0;7-0;8-0;9-0;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "2",
+        "start": "26",
+        "end": "66",
+        "offset": "-25"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "3",
+        "start": "67",
+        "end": "94",
+        "offset": "-66"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "4",
+        "start": "95",
+        "end": "112",
+        "offset": "-94"
+      }
+    ]
+  }
+}

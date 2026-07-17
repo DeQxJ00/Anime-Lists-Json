@@ -1,0 +1,21 @@
+{
+  "anidbid": "9162",
+  "tvdbid": "81831",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "34742",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "To Love-Ru: Trouble - Darkness OAD",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "9",
+      "offset": "6"
+    }
+  }
+}

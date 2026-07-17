@@ -1,0 +1,19 @@
+{
+  "anidbid": "11878",
+  "tvdbid": "306407",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "65383",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Love Live! Sunshine!!",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;2-0;3-0;4-0;5-0;6-0;"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "anidbid": "2510",
+  "tvdbid": "80009",
+  "defaulttvdbseason": "3",
+  "episodeoffset": "",
+  "tmdbtv": "43004",
+  "tmdbseason": "3",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Tenchi Muyou! Ryououki (2003)",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";2-0;3-0;4-0;5-0;5-0;"
+      },
+      {
+        "anidbseason": "0",
+        "tvdbseason": "3",
+        "text": ";1-7;"
+      }
+    ]
+  }
+}

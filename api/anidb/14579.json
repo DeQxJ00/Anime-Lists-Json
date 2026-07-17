@@ -1,0 +1,19 @@
+{
+  "anidbid": "14579",
+  "tvdbid": "353666",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "3",
+  "tmdbtv": "90677",
+  "tmdbseason": "0",
+  "tmdboffset": "3",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Manga de Wakaru! Fate/Grand Order",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-4;2-4;3-4;"
+    }
+  }
+}

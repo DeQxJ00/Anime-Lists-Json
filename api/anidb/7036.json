@@ -1,0 +1,19 @@
+{
+  "anidbid": "7036",
+  "tvdbid": "76894",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "902",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt1587157",
+  "name": "Gekijouban Yuu Gi Ou: Chou Yuugou! Toki o Koeta Kizuna",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-14;"
+    }
+  }
+}

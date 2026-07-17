@@ -1,0 +1,19 @@
+{
+  "anidbid": "3510",
+  "tvdbid": "76703",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "504309",
+  "imdbid": "",
+  "name": "Pikachu no Natsumatsuri",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-34;"
+    }
+  }
+}

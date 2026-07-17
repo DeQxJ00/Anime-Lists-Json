@@ -1,0 +1,19 @@
+{
+  "anidbid": "7540",
+  "tvdbid": "184211",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "66251",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kaibutsu-kun: Demon no Ken",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-26;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "12703",
+  "tvdbid": "301920",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "69084",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Monster Strike Anime",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-5;2-3;"
+    }
+  }
+}

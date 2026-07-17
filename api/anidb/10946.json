@@ -1,0 +1,21 @@
+{
+  "anidbid": "10946",
+  "tvdbid": "270781",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "44593",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Pac-World",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "2",
+      "start": "27",
+      "end": "52",
+      "offset": "-26"
+    }
+  }
+}

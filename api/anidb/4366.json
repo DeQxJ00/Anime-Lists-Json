@@ -1,0 +1,19 @@
+{
+  "anidbid": "4366",
+  "tvdbid": "254931",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "20111",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kidou Senshi Gundam SEED C.E. 73 Stargazer",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-15;2-16;3-17;"
+    }
+  }
+}

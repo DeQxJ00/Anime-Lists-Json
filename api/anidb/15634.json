@@ -1,0 +1,21 @@
+{
+  "anidbid": "15634",
+  "tvdbid": "366263",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "26",
+  "tmdbtv": "91768",
+  "tmdbseason": "1",
+  "tmdboffset": "26",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen (2022)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "2",
+      "offset": "2"
+    }
+  }
+}

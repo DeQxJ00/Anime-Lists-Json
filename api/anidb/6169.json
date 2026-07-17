@@ -1,0 +1,19 @@
+{
+  "anidbid": "6169",
+  "tvdbid": "81178",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "26707",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Ookami to Koushinryou II",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-2;2-3;3-0;4-0;"
+    }
+  }
+}

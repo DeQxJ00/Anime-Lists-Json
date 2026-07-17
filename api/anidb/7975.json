@@ -1,0 +1,19 @@
+{
+  "anidbid": "7975",
+  "tvdbid": "114921",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "30977",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Toaru Kagaku no Railgun: Misaka-san wa Ima Chuumoku no Mato Desu kara",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-4;"
+    }
+  }
+}

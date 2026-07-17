@@ -1,0 +1,19 @@
+{
+  "anidbid": "11890",
+  "tvdbid": "284719",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "64163",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Shinmai Maou no Testament Burst: Toujou Basara no Shigoku Heiwa na Nichijou",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-2;"
+    }
+  }
+}

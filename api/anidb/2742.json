@@ -1,0 +1,19 @@
+{
+  "anidbid": "2742",
+  "tvdbid": "80819",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "24856",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Jinki:Extend",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "1",
+      "text": ";1-13;"
+    }
+  }
+}

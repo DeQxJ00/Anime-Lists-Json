@@ -1,0 +1,19 @@
+{
+  "anidbid": "903",
+  "tvdbid": "71361",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "35610",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0366621",
+  "name": "Eiga Inuyasha: Kagami no Naka no Mugenjou",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-2;2-2;3-2;4-2;5-2;6-2;"
+    }
+  }
+}

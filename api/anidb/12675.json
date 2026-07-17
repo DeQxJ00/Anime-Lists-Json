@@ -1,0 +1,19 @@
+{
+  "anidbid": "12675",
+  "tvdbid": "82788",
+  "defaulttvdbseason": "6",
+  "episodeoffset": "",
+  "tmdbtv": "69500",
+  "tmdbseason": "6",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Natsume Yuujinchou Roku",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-5;2-6;3-0;"
+    }
+  }
+}

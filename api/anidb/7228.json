@@ -1,0 +1,19 @@
+{
+  "anidbid": "7228",
+  "tvdbid": "78857",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "46260",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Naruto: The Cross Roads",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

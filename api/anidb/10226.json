@@ -1,0 +1,19 @@
+{
+  "anidbid": "10226",
+  "tvdbid": "269873",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "61527",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Gatchaman Crowds Insight",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-2;"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "anidbid": "6234",
+  "tvdbid": "88161",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "35138",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Hetalia: Axis Powers",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "2",
+      "start": "27",
+      "end": "52",
+      "offset": "-26"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "9000",
+  "tvdbid": "151281",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "44318",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Gekijouban Hakuouki",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-8;"
+    }
+  }
+}

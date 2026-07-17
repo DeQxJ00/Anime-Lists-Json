@@ -1,0 +1,26 @@
+{
+  "anidbid": "326",
+  "tvdbid": "70350",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "890",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0169880",
+  "name": "Shinseiki Evangelion Gekijouban: Shi to Shinsei",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-0;2-0;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-1;2-1;"
+      }
+    ]
+  }
+}

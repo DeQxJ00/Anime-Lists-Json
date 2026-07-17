@@ -1,0 +1,19 @@
+{
+  "anidbid": "2116",
+  "tvdbid": "138691",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Gall Force: Shin Seiki Hen",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "1",
+      "text": ";1-8;2-9;"
+    }
+  }
+}

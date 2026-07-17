@@ -1,0 +1,19 @@
+{
+  "anidbid": "7754",
+  "tvdbid": "167921",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "56389",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Anpanman to Yukai na Nakama-tachi",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-12;"
+    }
+  }
+}

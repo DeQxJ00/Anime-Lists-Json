@@ -1,0 +1,22 @@
+{
+  "anidbid": "3200",
+  "tvdbid": "98161",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "23674",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Hi no Tori: Yamato Hen",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-2;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "Tezuka Productions"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "163",
+  "tvdbid": "71444",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "23374",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Fushigi Yuugi (1996)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;2-0;3-0;"
+    }
+  }
+}

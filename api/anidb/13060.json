@@ -1,0 +1,19 @@
+{
+  "anidbid": "13060",
+  "tvdbid": "70668",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "35790",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Cardcaptor Sakura: Clear Card Hen - Prologue - Sakura to Futatsu no Kuma",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-7;"
+    }
+  }
+}

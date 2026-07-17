@@ -1,0 +1,19 @@
+{
+  "anidbid": "8880",
+  "tvdbid": "275798",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "13",
+  "tmdbtv": "45845",
+  "tmdbseason": "1",
+  "tmdboffset": "13",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Fate/Zero (2012)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;2-6;3-7;4-8;"
+    }
+  }
+}

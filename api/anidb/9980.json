@@ -1,0 +1,37 @@
+{
+  "anidbid": "9980",
+  "tvdbid": "114801",
+  "defaulttvdbseason": "a",
+  "episodeoffset": "175",
+  "tmdbtv": "46261",
+  "tmdbseason": "a",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Fairy Tail (2014)",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "1",
+        "tvdbseason": "5",
+        "start": "1",
+        "end": "51",
+        "offset": "0"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "6",
+        "start": "52",
+        "end": "90",
+        "offset": "-51"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "7",
+        "start": "91",
+        "end": "102",
+        "offset": "-90"
+      }
+    ]
+  }
+}

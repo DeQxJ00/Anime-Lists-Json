@@ -1,0 +1,28 @@
+{
+  "anidbid": "13612",
+  "tvdbid": "326109",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "573730",
+  "imdbid": "tt10068916",
+  "name": "Gekijouban Made in Abyss: Fukaki Tamashii no Reimei",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "start": "1",
+        "end": "4",
+        "offset": "3"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-3;"
+      }
+    ]
+  }
+}

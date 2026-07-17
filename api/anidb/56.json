@@ -1,0 +1,69 @@
+{
+  "anidbid": "56",
+  "tvdbid": "73532",
+  "defaulttvdbseason": "a",
+  "episodeoffset": "",
+  "tmdbtv": "27845",
+  "tmdbseason": "a",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Tennis no Ouji-sama",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";3-0;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "1",
+        "start": "1",
+        "end": "26"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "2",
+        "start": "27",
+        "end": "53",
+        "offset": "-26"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "3",
+        "start": "54",
+        "end": "75",
+        "offset": "-53"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "4",
+        "start": "76",
+        "end": "101",
+        "offset": "-75"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "5",
+        "start": "102",
+        "end": "128",
+        "offset": "-101"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "6",
+        "start": "129",
+        "end": "165",
+        "offset": "-128"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "7",
+        "start": "166",
+        "end": "178",
+        "offset": "-165"
+      }
+    ]
+  }
+}

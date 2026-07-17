@@ -1,0 +1,19 @@
+{
+  "anidbid": "3395",
+  "tvdbid": "79604",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "12598",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Black Lagoon",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";5-0;"
+    }
+  }
+}

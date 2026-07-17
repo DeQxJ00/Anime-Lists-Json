@@ -1,0 +1,19 @@
+{
+  "anidbid": "14796",
+  "tvdbid": "259640",
+  "defaulttvdbseason": "4",
+  "episodeoffset": "",
+  "tmdbtv": "45782",
+  "tmdbseason": "4",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Sword Art Online: Alicization - War of Underworld",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-26;"
+    }
+  }
+}

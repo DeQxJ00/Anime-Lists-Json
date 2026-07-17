@@ -1,0 +1,22 @@
+{
+  "anidbid": "15954",
+  "tvdbid": "371310",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "11",
+  "tmdbtv": "94664",
+  "tmdbseason": "1",
+  "tmdboffset": "11",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Mushoku Tensei: Isekai Ittara Honki Dasu (2021)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "2",
+      "end": "17",
+      "offset": "-17",
+      "text": ";1-1;"
+    }
+  }
+}

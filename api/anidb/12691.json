@@ -1,0 +1,19 @@
+{
+  "anidbid": "12691",
+  "tvdbid": "313435",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "67676",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Saiki Kusuo no Sainan (2018)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

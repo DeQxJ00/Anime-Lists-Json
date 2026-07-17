@@ -1,0 +1,19 @@
+{
+  "anidbid": "9752",
+  "tvdbid": "82154",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "45893",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Hidamari Sketch: Sae Hiro Sotsugyou Hen",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-10;"
+    }
+  }
+}

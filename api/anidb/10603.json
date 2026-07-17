@@ -1,0 +1,19 @@
+{
+  "anidbid": "10603",
+  "tvdbid": "269872",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "78589",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Hello!! Kin'iro Mosaic",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;2-0;"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "anidbid": "175",
+  "tvdbid": "180111",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "34859",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Otogi Story Tenshi no Shippo",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "3",
+      "end": "6",
+      "offset": "1",
+      "text": ";2-13;"
+    }
+  }
+}

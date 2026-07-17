@@ -1,0 +1,19 @@
+{
+  "anidbid": "13527",
+  "tvdbid": "307375",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "67075",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Mob Psycho 100 Reigen: Shirarezaru Kiseki no Reinouryokusha",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-7;"
+    }
+  }
+}

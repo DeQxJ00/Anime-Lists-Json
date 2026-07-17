@@ -1,0 +1,19 @@
+{
+  "anidbid": "751",
+  "tvdbid": "72977",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "20177",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Onegai Twins",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";2-4;3-5;4-6;5-0;6-0;101-2;102-3;"
+    }
+  }
+}

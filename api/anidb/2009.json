@@ -1,0 +1,19 @@
+{
+  "anidbid": "2009",
+  "tvdbid": "80783",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "72677",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0159508",
+  "name": "Kidou Senshi Gundam 0083: Zeon no Zankou",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-1;2-1;3-1;"
+    }
+  }
+}

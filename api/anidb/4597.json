@@ -1,0 +1,19 @@
+{
+  "anidbid": "4597",
+  "tvdbid": "79604",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "12",
+  "tmdbtv": "12598",
+  "tmdbseason": "1",
+  "tmdboffset": "12",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Black Lagoon: The Second Barrage",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-5;2-6;3-7;"
+    }
+  }
+}

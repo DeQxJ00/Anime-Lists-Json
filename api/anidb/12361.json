@@ -1,0 +1,26 @@
+{
+  "anidbid": "12361",
+  "tvdbid": "262098",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "43967",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt7833606,tt7834494,tt12286898,tt28821523",
+  "name": "Girls und Panzer Saishuushou",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-46;2-52;3-43;4-47;5-53;6-50;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-41;2-45;3-51;4-62;"
+      }
+    ]
+  }
+}

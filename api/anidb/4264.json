@@ -1,0 +1,29 @@
+{
+  "anidbid": "4264",
+  "tvdbid": "79483",
+  "defaulttvdbseason": "a",
+  "episodeoffset": "",
+  "tmdbtv": "31739",
+  "tmdbseason": "a",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kiba",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "1",
+        "tvdbseason": "1",
+        "start": "1",
+        "end": "26"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "2",
+        "start": "27",
+        "end": "51",
+        "offset": "-26"
+      }
+    ]
+  }
+}

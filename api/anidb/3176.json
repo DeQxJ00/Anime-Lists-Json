@@ -1,0 +1,19 @@
+{
+  "anidbid": "3176",
+  "tvdbid": "324325",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "27347",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Patalliro Saiyuuki",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "1",
+      "text": ";1-27;"
+    }
+  }
+}

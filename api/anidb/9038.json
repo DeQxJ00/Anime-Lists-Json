@@ -1,0 +1,26 @@
+{
+  "anidbid": "9038",
+  "tvdbid": "76547",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "21731",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Ring of Gundam",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-0;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-0;"
+      }
+    ]
+  }
+}

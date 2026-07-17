@@ -1,0 +1,19 @@
+{
+  "anidbid": "8139",
+  "tvdbid": "76703",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "665583",
+  "imdbid": "",
+  "name": "Pikachu no Fushigi na Fushigi na Daibouken",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-39;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "10720",
+  "tvdbid": "264533",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "7",
+  "tmdbtv": "53721",
+  "tmdbseason": "0",
+  "tmdboffset": "7",
+  "tmdbid": "",
+  "imdbid": "tt3837248",
+  "name": "Love Live! The School Idol Movie",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;2-0;3-0;4-0;5-0;"
+    }
+  }
+}

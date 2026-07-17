@@ -1,0 +1,19 @@
+{
+  "anidbid": "1887",
+  "tvdbid": "72775",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "42444",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0326143",
+  "name": "Saint Seiya: Shinku no Shounen Densetsu",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-3;2-3;3-3;"
+    }
+  }
+}

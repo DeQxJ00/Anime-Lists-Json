@@ -1,0 +1,19 @@
+{
+  "anidbid": "8378",
+  "tvdbid": "252232",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "46388",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Persona 4 The Animation",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-2;"
+    }
+  }
+}

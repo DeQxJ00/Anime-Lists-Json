@@ -1,0 +1,19 @@
+{
+  "anidbid": "8130",
+  "tvdbid": "80554",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "81505",
+  "imdbid": "",
+  "name": "Gekijouban Hayate no Gotoku! Heaven Is a Place on Earth",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-2;"
+    }
+  }
+}

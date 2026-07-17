@@ -1,0 +1,21 @@
+{
+  "anidbid": "14172",
+  "tvdbid": "358331",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "85935",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Mayonaka no Occult Koumuin",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "2",
+      "offset": "1"
+    }
+  }
+}

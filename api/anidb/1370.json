@@ -1,0 +1,19 @@
+{
+  "anidbid": "1370",
+  "tvdbid": "89101",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "13511",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kikou Souseiki Mospeada",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";2-4;"
+    }
+  }
+}

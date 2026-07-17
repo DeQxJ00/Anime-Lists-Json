@@ -1,0 +1,19 @@
+{
+  "anidbid": "2540",
+  "tvdbid": "78500",
+  "defaulttvdbseason": "4",
+  "episodeoffset": "",
+  "tmdbtv": "3570",
+  "tmdbseason": "4",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Bishoujo Senshi Sailor Moon Super S",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-3+4;"
+    }
+  }
+}

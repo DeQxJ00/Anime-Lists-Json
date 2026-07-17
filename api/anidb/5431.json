@@ -1,0 +1,35 @@
+{
+  "anidbid": "5431",
+  "tvdbid": "78986",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "42716",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Mai-Otome 0: S.ifr",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-11;2-12;3-13;"
+    }
+  },
+  "supplemental-info": [
+    {
+      "studio": "Sunrise"
+    },
+    {
+      "replace": "true",
+      "fanart": {
+        "thumb": {
+          "dim": "1280x720",
+          "colors": "",
+          "preview": "http://www.thetvdb.com/banners/_cache/fanart/original/84213-1.jpg",
+          "text": "http://www.thetvdb.com/banners/fanart/original/84213-1.jpg"
+        }
+      }
+    }
+  ]
+}

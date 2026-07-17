@@ -1,0 +1,19 @@
+{
+  "anidbid": "211",
+  "tvdbid": "79156",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "56387",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0142371",
+  "name": "Hokuto no Ken (1986)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-1;2-1;3-1;"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "anidbid": "10889",
+  "tvdbid": "289884",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "62564",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Hibike! Euphonium",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-8;"
+      },
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "start": "2",
+        "end": "8",
+        "offset": "-1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "anidbid": "5694",
+  "tvdbid": "84025",
+  "defaulttvdbseason": "4",
+  "episodeoffset": "",
+  "tmdbtv": "42468",
+  "tmdbseason": "4",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Maria-sama ga Miteru 4th Season",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "11",
+      "offset": "18",
+      "text": ";12-0;13-0;14-0;15-0;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "7304",
+  "tvdbid": "81110",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "137502",
+  "imdbid": "",
+  "name": "Soukyuu no Fafner: Heaven and Earth",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-4;"
+    }
+  }
+}

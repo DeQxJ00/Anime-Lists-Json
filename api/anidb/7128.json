@@ -1,0 +1,19 @@
+{
+  "anidbid": "7128",
+  "tvdbid": "82154",
+  "defaulttvdbseason": "3",
+  "episodeoffset": "",
+  "tmdbtv": "45893",
+  "tmdbseason": "3",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Hidamari Sketch x Hoshi Mittsu",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-6;2-7;"
+    }
+  }
+}

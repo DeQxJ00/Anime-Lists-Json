@@ -1,0 +1,19 @@
+{
+  "anidbid": "13162",
+  "tvdbid": "273004",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "60667",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Gundam Build Fighters: GM no Gyakushuu",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-5;"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "anidbid": "11959",
+  "tvdbid": "254667",
+  "defaulttvdbseason": "5",
+  "episodeoffset": "",
+  "tmdbtv": "63322",
+  "tmdbseason": "5",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Senki Zesshou Symphogear XV",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "4",
+      "offset": "12"
+    }
+  }
+}

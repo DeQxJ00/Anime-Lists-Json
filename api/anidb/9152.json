@@ -1,0 +1,19 @@
+{
+  "anidbid": "9152",
+  "tvdbid": "72454",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "30983",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt12622500",
+  "name": "Meitantei Conan: Excalibur no Kiseki",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-53;"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "anidbid": "9187",
+  "tvdbid": "257516",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "43167",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Accel World OVA",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-1;2-10;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "Sunrise"
+  }
+}

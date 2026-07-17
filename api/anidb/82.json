@@ -1,0 +1,23 @@
+{
+  "anidbid": "82",
+  "tvdbid": "79996",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "37537",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Dual! Parallel Runrun Monogatari",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "1",
+      "text": ";1-14;"
+    }
+  },
+  "before": ";1-14;",
+  "supplemental-info": {
+    "studio": "AIC"
+  }
+}

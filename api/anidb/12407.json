@@ -1,0 +1,19 @@
+{
+  "anidbid": "12407",
+  "tvdbid": "76703",
+  "defaulttvdbseason": "18",
+  "episodeoffset": "",
+  "tmdbtv": "60572",
+  "tmdbseason": "18",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Pocket Monsters Sun & Moon",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;2-0;3-0;4-0;5-0;6-0;"
+    }
+  }
+}

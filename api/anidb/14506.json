@@ -1,0 +1,19 @@
+{
+  "anidbid": "14506",
+  "tvdbid": "76665",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "30669",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Yuu Yuu Hakusho Kanzen Shinsaku Animation",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-17+18;"
+    }
+  }
+}

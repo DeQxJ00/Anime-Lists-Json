@@ -1,0 +1,43 @@
+{
+  "anidbid": "590",
+  "tvdbid": "72491",
+  "defaulttvdbseason": "a",
+  "episodeoffset": "",
+  "tmdbtv": "42573",
+  "tmdbseason": "a",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Slam Dunk",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "1",
+        "tvdbseason": "1",
+        "start": "1",
+        "end": "26"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "2",
+        "start": "27",
+        "end": "52",
+        "offset": "-26"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "3",
+        "start": "53",
+        "end": "78",
+        "offset": "-52"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "4",
+        "start": "79",
+        "end": "101",
+        "offset": "-78"
+      }
+    ]
+  }
+}

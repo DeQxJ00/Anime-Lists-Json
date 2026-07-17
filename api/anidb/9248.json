@@ -1,0 +1,19 @@
+{
+  "anidbid": "9248",
+  "tvdbid": "79460",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "23587",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kindaichi Shounen no Jikenbo (2012)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-6;2-7;"
+    }
+  }
+}

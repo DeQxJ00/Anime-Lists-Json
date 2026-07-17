@@ -1,0 +1,26 @@
+{
+  "anidbid": "277",
+  "tvdbid": "72842",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "27117",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0107692",
+  "name": "Juubee Ninpuuchou",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-0;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";2-1;3-1;"
+      }
+    ]
+  }
+}

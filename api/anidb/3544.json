@@ -1,0 +1,19 @@
+{
+  "anidbid": "3544",
+  "tvdbid": "113671",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "119590",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Megazone 23 Part II: Himitsu Kudasai",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "1",
+      "text": ";1-2;2-2;3-2;"
+    }
+  }
+}

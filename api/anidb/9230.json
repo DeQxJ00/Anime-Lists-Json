@@ -1,0 +1,21 @@
+{
+  "anidbid": "9230",
+  "tvdbid": "262092",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "62696",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Onii-chan Dakedo Ai sae Areba Kankei Nai yo ne!",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "7",
+      "offset": "-1"
+    }
+  }
+}

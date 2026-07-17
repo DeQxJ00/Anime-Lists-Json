@@ -1,0 +1,21 @@
+{
+  "anidbid": "13263",
+  "tvdbid": "79895",
+  "defaulttvdbseason": "9",
+  "episodeoffset": "",
+  "tmdbtv": "57041",
+  "tmdbseason": "9",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Gintama. (2017)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "10",
+      "start": "14",
+      "end": "25",
+      "offset": "-13"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "anidbid": "1342",
+  "tvdbid": "72776",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "75911",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Transformers: SuperLink",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "1",
+        "text": ";1-44;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "1",
+        "start": "44",
+        "end": "51",
+        "offset": "1"
+      }
+    ]
+  },
+  "before": ";1-44;"
+}

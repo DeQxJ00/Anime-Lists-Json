@@ -1,0 +1,21 @@
+{
+  "anidbid": "106",
+  "tvdbid": "79077",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "12143",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Azumanga Daiou The Animation (2002)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "7",
+      "offset": "1"
+    }
+  }
+}

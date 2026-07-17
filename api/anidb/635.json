@@ -1,0 +1,29 @@
+{
+  "anidbid": "635",
+  "tvdbid": "74739",
+  "defaulttvdbseason": "a",
+  "episodeoffset": "",
+  "tmdbtv": "12501",
+  "tmdbseason": "a",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kaleido Star",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "1",
+        "tvdbseason": "1",
+        "start": "1",
+        "end": "26"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "2",
+        "start": "27",
+        "end": "51",
+        "offset": "-26"
+      }
+    ]
+  }
+}

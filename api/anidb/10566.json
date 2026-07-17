@@ -1,0 +1,19 @@
+{
+  "anidbid": "10566",
+  "tvdbid": "82099",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "97825",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Gekijouban Kara no Kyoukai: Mirai Fukuin - The Garden of Sinners Recalled Out Summer - Extra Chorus",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-4;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "8373",
+  "tvdbid": "73532",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "41",
+  "tmdbtv": "27845",
+  "tmdbseason": "0",
+  "tmdboffset": "41",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Tennis no Ouji-sama OVA Another Story II: Ano Toki no Bokura",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-7;2-64;"
+    }
+  }
+}

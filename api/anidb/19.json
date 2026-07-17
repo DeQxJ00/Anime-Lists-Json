@@ -1,0 +1,29 @@
+{
+  "anidbid": "19",
+  "tvdbid": "83692",
+  "defaulttvdbseason": "a",
+  "episodeoffset": "",
+  "tmdbtv": "34684",
+  "tmdbseason": "a",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Rizelmine",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "1",
+        "tvdbseason": "1",
+        "start": "1",
+        "end": "12"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "2",
+        "start": "13",
+        "end": "24",
+        "offset": "-12"
+      }
+    ]
+  }
+}

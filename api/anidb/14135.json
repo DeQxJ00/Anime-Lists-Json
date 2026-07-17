@@ -1,0 +1,19 @@
+{
+  "anidbid": "14135",
+  "tvdbid": "197261",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "51492",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Tantei Opera Milky Holmes: Psycho no Aisatsu",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-7;"
+    }
+  }
+}

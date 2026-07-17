@@ -1,0 +1,19 @@
+{
+  "anidbid": "9956",
+  "tvdbid": "76703",
+  "defaulttvdbseason": "16",
+  "episodeoffset": "",
+  "tmdbtv": "60572",
+  "tmdbseason": "16",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Pocket Monsters XY",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-49;2-0;3-0;"
+    }
+  }
+}

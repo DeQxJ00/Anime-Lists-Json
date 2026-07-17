@@ -1,0 +1,19 @@
+{
+  "anidbid": "73",
+  "tvdbid": "70863",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "1",
+  "tmdbtv": "28136",
+  "tmdbseason": "0",
+  "tmdboffset": "1",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku Hen",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

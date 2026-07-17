@@ -1,0 +1,19 @@
+{
+  "anidbid": "4706",
+  "tvdbid": "79654",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "30623",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Crayon Shin-chan: Bakuhatsu! Onsen Wakuwaku Daikessen",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-7;"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "anidbid": "171",
+  "tvdbid": "75911",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "35106",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Seihou Bukyou Outlaw Star",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";3-1;4-0;"
+      },
+      {
+        "anidbseason": "0",
+        "tvdbseason": "1",
+        "text": ";1-16;2-23;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "1",
+        "start": "16",
+        "end": "21",
+        "offset": "1",
+        "text": ";22-24;23-25;24-26;"
+      }
+    ]
+  },
+  "before": ";1-16;2-22;",
+  "supplemental-info": {
+    "studio": "Sunrise"
+  }
+}

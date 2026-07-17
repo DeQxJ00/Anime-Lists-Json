@@ -1,0 +1,19 @@
+{
+  "anidbid": "5974",
+  "tvdbid": "227501",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "19612",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Mashin Eiyuuden Wataru: Soukaizan Eiyuu Densetsu",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "anidbid": "9108",
+  "tvdbid": "254662",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "42972",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Rinne no Lagrange: Flower Declaration of Your Heart - Kamogawa Days",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-0;2-0;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-7;"
+      }
+    ]
+  }
+}

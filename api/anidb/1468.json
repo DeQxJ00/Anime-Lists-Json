@@ -1,0 +1,19 @@
+{
+  "anidbid": "1468",
+  "tvdbid": "262312",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "79328",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Dallos",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "1",
+      "text": ";1-2;2-1;"
+    }
+  }
+}

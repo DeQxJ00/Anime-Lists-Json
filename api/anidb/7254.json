@@ -1,0 +1,19 @@
+{
+  "anidbid": "7254",
+  "tvdbid": "79654",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "30623",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt1623674",
+  "name": "Crayon Shin-chan: Chou Jikuu! Arashi o Yobu Ora no Hanayome",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

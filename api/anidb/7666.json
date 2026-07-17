@@ -1,0 +1,19 @@
+{
+  "anidbid": "7666",
+  "tvdbid": "74796",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "73245",
+  "imdbid": "tt1785394",
+  "name": "Gekijouban Bleach: Jigoku Hen",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-6;"
+    }
+  }
+}

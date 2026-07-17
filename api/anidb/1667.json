@@ -1,0 +1,22 @@
+{
+  "anidbid": "1667",
+  "tvdbid": "79101",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "26201",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0807703",
+  "name": "Gekijouban Air",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-1;2-0;3-0;4-0;5-0;6-0;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "Toei Animation"
+  }
+}

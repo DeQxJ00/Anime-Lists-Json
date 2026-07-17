@@ -1,0 +1,19 @@
+{
+  "anidbid": "1540",
+  "tvdbid": "78974",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "34732",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Tenjou Tenge",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;2-0;3-0;"
+    }
+  }
+}

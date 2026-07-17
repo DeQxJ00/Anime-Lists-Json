@@ -1,0 +1,19 @@
+{
+  "anidbid": "17336",
+  "tvdbid": "419448",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "199928",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Yoru wa Neko to Issho",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "2651",
+  "tvdbid": "79179",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "34166",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0471767",
+  "name": "Kino no Tabi: Nanika o Suru Tame ni - Life Goes On.",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-2;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "3067",
+  "tvdbid": "80759",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "42873",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Ichigo 100%",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";2-6;3-0;4-0;5-0;"
+    }
+  }
+}

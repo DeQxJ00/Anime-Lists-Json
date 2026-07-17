@@ -1,0 +1,21 @@
+{
+  "anidbid": "15359",
+  "tvdbid": "326109",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "72636",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Made in Abyss: Retsujitsu no Ougonkyou",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "2",
+      "offset": "13"
+    }
+  }
+}

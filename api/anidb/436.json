@@ -1,0 +1,19 @@
+{
+  "anidbid": "436",
+  "tvdbid": "113231",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "97412",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Tatakae!! Iczer 1",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

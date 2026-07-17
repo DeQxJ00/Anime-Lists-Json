@@ -1,0 +1,21 @@
+{
+  "anidbid": "1661",
+  "tvdbid": "70827",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "22474",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Power Stone",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "2",
+      "start": "14",
+      "end": "26",
+      "offset": "-13"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "8163",
+  "tvdbid": "115991",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "36025",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kampfer: Fur die Liebe",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-9;2-10;"
+    }
+  }
+}

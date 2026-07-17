@@ -1,0 +1,19 @@
+{
+  "anidbid": "10954",
+  "tvdbid": "278157",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "60863",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Haikyuu!! (2014)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-1;2-3;"
+    }
+  }
+}

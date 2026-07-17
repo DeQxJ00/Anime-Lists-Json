@@ -1,0 +1,22 @@
+{
+  "anidbid": "47",
+  "tvdbid": "78953",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "42676",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Scryed",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;2-0;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "Sunrise"
+  }
+}

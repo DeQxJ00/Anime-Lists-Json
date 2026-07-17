@@ -1,0 +1,20 @@
+{
+  "anidbid": "2536",
+  "tvdbid": "93261",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "36251",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Suki na Mono wa Suki Dakara Shou ga Nai!!",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "1",
+      "text": ";1-13;"
+    }
+  },
+  "before": ";1-13;"
+}

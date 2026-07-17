@@ -1,0 +1,19 @@
+{
+  "anidbid": "8344",
+  "tvdbid": "73532",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "408973",
+  "imdbid": "tt1107335",
+  "name": "Tennis no Ouji-sama: Atobe kara no Okurimono - Kimi ni Sasageru Tennipri Matsuri",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-5;"
+    }
+  }
+}

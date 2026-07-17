@@ -1,0 +1,19 @@
+{
+  "anidbid": "7086",
+  "tvdbid": "79882",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "27244",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Harukanaru Toki no Naka de 3: Owarinaki Unmei",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-8;"
+    }
+  }
+}

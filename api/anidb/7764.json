@@ -1,0 +1,19 @@
+{
+  "anidbid": "7764",
+  "tvdbid": "75141",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "57912",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "The Doraemons: Okashina Okashi na Okashinana?",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

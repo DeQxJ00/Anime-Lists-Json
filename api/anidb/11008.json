@@ -1,0 +1,19 @@
+{
+  "anidbid": "11008",
+  "tvdbid": "281949",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "61422",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Grisaia no Meikyuu: Caprice no Mayu 0",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-7;"
+    }
+  }
+}

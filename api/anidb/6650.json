@@ -1,0 +1,19 @@
+{
+  "anidbid": "6650",
+  "tvdbid": "72454",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "1221954",
+  "imdbid": "",
+  "name": "Meitantei Conan: 10 Nengo no Stranger",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-26;"
+    }
+  }
+}

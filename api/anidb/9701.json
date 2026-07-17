@@ -1,0 +1,19 @@
+{
+  "anidbid": "9701",
+  "tvdbid": "249865",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "63463",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt3306854",
+  "name": "The Idolmaster Movie: Kagayaki no Mukougawa e!",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-6;"
+    }
+  }
+}

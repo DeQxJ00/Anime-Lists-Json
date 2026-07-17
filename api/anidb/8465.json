@@ -1,0 +1,19 @@
+{
+  "anidbid": "8465",
+  "tvdbid": "259863",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Pukapuka Dudu",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "2",
+      "text": ";1-3;"
+    }
+  }
+}

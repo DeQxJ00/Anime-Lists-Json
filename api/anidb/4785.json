@@ -1,0 +1,21 @@
+{
+  "anidbid": "4785",
+  "tvdbid": "79108",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "3",
+  "tmdbtv": "42855",
+  "tmdbseason": "0",
+  "tmdboffset": "3",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Ayu Mayu Gekijou",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "3",
+      "offset": "7"
+    }
+  }
+}

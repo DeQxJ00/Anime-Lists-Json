@@ -1,0 +1,27 @@
+{
+  "anidbid": "7307",
+  "tvdbid": "87501",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "42253",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "K-On!!",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";4-8;5-9;6-10;7-11;8-12;9-13;10-14;11-15;12-16;3-17;"
+      },
+      {
+        "anidbseason": "0",
+        "tvdbseason": "2",
+        "text": ";1-25;2-26;"
+      }
+    ]
+  },
+  "before": ";1-22;2-23;"
+}

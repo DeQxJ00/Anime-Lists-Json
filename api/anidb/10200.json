@@ -1,0 +1,19 @@
+{
+  "anidbid": "10200",
+  "tvdbid": "259863",
+  "defaulttvdbseason": "4",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "257473",
+  "imdbid": "",
+  "name": "Ookii 1 Nensei to Chiisana 2 Nensei",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "4",
+      "text": ";1-3;"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "anidbid": "1176",
+  "tvdbid": "73749",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "1095",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Koukaku Kidoutai S.A.C. 2nd GIG",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "5",
+      "end": "30",
+      "offset": "29",
+      "text": ";1-0;2-0;3-0;4-0;"
+    }
+  }
+}

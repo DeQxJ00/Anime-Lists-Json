@@ -1,0 +1,19 @@
+{
+  "anidbid": "8854",
+  "tvdbid": "79360",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "889",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Eureka Seven AO",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

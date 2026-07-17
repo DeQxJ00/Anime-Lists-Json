@@ -1,0 +1,20 @@
+{
+  "anidbid": "4761",
+  "tvdbid": "81111",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "77745",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Super Robot Taisen: Original Generation - Divine Wars",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "1",
+      "text": ";1-26;"
+    }
+  },
+  "before": ";1-26;"
+}

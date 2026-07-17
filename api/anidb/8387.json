@@ -1,0 +1,19 @@
+{
+  "anidbid": "8387",
+  "tvdbid": "79824",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "31910",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Gekijouban Naruto Soyokazeden: Naruto to Mashin to Mitsu no Onegai Datte ba yo!!",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-8;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "445",
+  "tvdbid": "79022",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "34182",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Stratos 4",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-5;2-0;"
+    }
+  }
+}

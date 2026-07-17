@@ -1,0 +1,19 @@
+{
+  "anidbid": "10199",
+  "tvdbid": "259863",
+  "defaulttvdbseason": "4",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "257474",
+  "imdbid": "",
+  "name": "Parol no Miraijima",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "4",
+      "text": ";1-4;"
+    }
+  }
+}

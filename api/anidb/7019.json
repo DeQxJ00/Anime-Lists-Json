@@ -1,0 +1,20 @@
+{
+  "anidbid": "7019",
+  "tvdbid": "80005",
+  "defaulttvdbseason": "3",
+  "episodeoffset": "",
+  "tmdbtv": "45527",
+  "tmdbseason": "3",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Nodame Cantabile: Finale",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-4;"
+    }
+  },
+  "before": ";1-1;"
+}

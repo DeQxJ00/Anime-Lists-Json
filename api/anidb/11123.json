@@ -1,0 +1,19 @@
+{
+  "anidbid": "11123",
+  "tvdbid": "293088",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "63926",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "One Punch Man",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-2;2-3;3-4;4-5;5-6;6-7;"
+    }
+  }
+}

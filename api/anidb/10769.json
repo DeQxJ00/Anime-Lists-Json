@@ -1,0 +1,19 @@
+{
+  "anidbid": "10769",
+  "tvdbid": "272309",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "292740",
+  "imdbid": "",
+  "name": "Yowamushi Pedal Re:Ride",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-2;"
+    }
+  }
+}

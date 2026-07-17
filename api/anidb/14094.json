@@ -1,0 +1,19 @@
+{
+  "anidbid": "14094",
+  "tvdbid": "354193",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "83116",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Ueno-san wa Bukiyou",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

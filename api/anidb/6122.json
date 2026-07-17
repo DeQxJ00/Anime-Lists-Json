@@ -1,0 +1,19 @@
+{
+  "anidbid": "6122",
+  "tvdbid": "73749",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "1095",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt1260502",
+  "name": "Ghost in the Shell (2008)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-6;"
+    }
+  }
+}

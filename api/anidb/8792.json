@@ -1,0 +1,19 @@
+{
+  "anidbid": "8792",
+  "tvdbid": "79077",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "626218",
+  "imdbid": "",
+  "name": "Azumanga Web Daiou",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-9;"
+    }
+  }
+}

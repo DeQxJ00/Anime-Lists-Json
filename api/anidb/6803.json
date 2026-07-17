@@ -1,0 +1,19 @@
+{
+  "anidbid": "6803",
+  "tvdbid": "76703",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "665580",
+  "imdbid": "",
+  "name": "Pikachu Koori no Daibouken",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-31;"
+    }
+  }
+}

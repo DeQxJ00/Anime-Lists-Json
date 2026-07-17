@@ -1,0 +1,20 @@
+{
+  "anidbid": "4261",
+  "tvdbid": "115841",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "51557",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Moero! Top Striker",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "1",
+      "text": ";1-50;2-51;3-52;"
+    }
+  },
+  "before": ";1-50;2-51;3-52;"
+}

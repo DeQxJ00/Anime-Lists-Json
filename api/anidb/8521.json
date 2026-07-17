@@ -1,0 +1,19 @@
+{
+  "anidbid": "8521",
+  "tvdbid": "80328",
+  "defaulttvdbseason": "3",
+  "episodeoffset": "",
+  "tmdbtv": "68007",
+  "tmdbseason": "3",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Tales of Symphonia The Animation: Sekai Tougou Hen",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-7;2-8;3-9;"
+    }
+  }
+}

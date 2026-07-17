@@ -1,0 +1,21 @@
+{
+  "anidbid": "638",
+  "tvdbid": "83421",
+  "defaulttvdbseason": "a",
+  "episodeoffset": "",
+  "tmdbtv": "35894",
+  "tmdbseason": "a",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Konjiki no Gash Bell!!",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "2",
+      "offset": "2"
+    }
+  }
+}

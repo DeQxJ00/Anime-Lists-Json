@@ -1,0 +1,19 @@
+{
+  "anidbid": "9335",
+  "tvdbid": "82029",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "27885",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Sakura Taisen: Kanadegumi",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

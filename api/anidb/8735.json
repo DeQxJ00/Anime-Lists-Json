@@ -1,0 +1,19 @@
+{
+  "anidbid": "8735",
+  "tvdbid": "76703",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "665584",
+  "imdbid": "",
+  "name": "Pikachu no Summer Bridge Story",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-43;"
+    }
+  }
+}

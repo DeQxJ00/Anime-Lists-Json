@@ -1,0 +1,19 @@
+{
+  "anidbid": "8090",
+  "tvdbid": "85249",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "80518",
+  "imdbid": "tt1776196",
+  "name": "Hagane no Renkinjutsushi: Milos no Seinaru Hoshi",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-21;"
+    }
+  }
+}

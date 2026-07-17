@@ -1,0 +1,19 @@
+{
+  "anidbid": "7295",
+  "tvdbid": "91431",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "837350",
+  "imdbid": "",
+  "name": "Issho ni Sleeping: Sleeping with Hinako",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "1",
+      "text": ";1-2;"
+    }
+  }
+}

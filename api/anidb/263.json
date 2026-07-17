@@ -1,0 +1,19 @@
+{
+  "anidbid": "263",
+  "tvdbid": "72719",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "27736",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Megami Kouhosei Special Curriculum: Nakama",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "1",
+      "text": ";1-13;"
+    }
+  }
+}

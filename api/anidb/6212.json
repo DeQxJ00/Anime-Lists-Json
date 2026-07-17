@@ -1,0 +1,19 @@
+{
+  "anidbid": "6212",
+  "tvdbid": "81007",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "35730",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Ichigo Marshmallow Encore",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-5;2-6;"
+    }
+  }
+}

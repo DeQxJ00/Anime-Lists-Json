@@ -1,0 +1,26 @@
+{
+  "anidbid": "6757",
+  "tvdbid": "78962",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "22634",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Shakugan no Shana S",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-12;2-14;3-16;4-18;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";1-11;2-13;3-15;4-17;"
+      }
+    ]
+  }
+}

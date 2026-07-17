@@ -1,0 +1,19 @@
+{
+  "anidbid": "3651",
+  "tvdbid": "79414",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "42511",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Suzumiya Haruhi no Yuuutsu",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;"
+    }
+  }
+}

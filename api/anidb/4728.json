@@ -1,0 +1,59 @@
+{
+  "anidbid": "4728",
+  "tvdbid": "76703",
+  "defaulttvdbseason": "10",
+  "episodeoffset": "",
+  "tmdbtv": "60572",
+  "tmdbseason": "10",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Pocket Monsters: Diamond and Pearl",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-0;2-14;3-20;4-51;5-52;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "0",
+        "text": ";48-73;120-72;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "10",
+        "text": ";49-48;50-49;51-50;52-51;"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "11",
+        "start": "53",
+        "end": "104",
+        "offset": "-52"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "12",
+        "start": "105",
+        "end": "119",
+        "offset": "-104"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "12",
+        "start": "121",
+        "end": "157",
+        "offset": "-105"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "13",
+        "start": "158",
+        "end": "191",
+        "offset": "-157"
+      }
+    ]
+  }
+}

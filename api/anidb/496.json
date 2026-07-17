@@ -1,0 +1,22 @@
+{
+  "anidbid": "496",
+  "tvdbid": "79327",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "7",
+  "tmdbtv": "21730",
+  "tmdbseason": "0",
+  "tmdboffset": "7",
+  "tmdbid": "",
+  "imdbid": "tt0260191",
+  "name": "Shin Kidou Senki Gundam Wing: Endless Waltz Tokubetsu Hen",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";2-8;3-8;"
+    }
+  },
+  "supplemental-info": {
+    "studio": "Sunrise"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "24",
+  "tvdbid": "79099",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "8864",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": ".hack//Sign",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";2-6;"
+    }
+  }
+}

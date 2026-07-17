@@ -1,0 +1,28 @@
+{
+  "anidbid": "4018",
+  "tvdbid": "movie",
+  "defaulttvdbseason": "",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Jigoku Sensei Nube: Gozen 0 Ji Nube Shisu!",
+  "supplemental-info": [
+    {
+      "studio": "Toei Douga"
+    },
+    {
+      "replace": "true",
+      "fanart": {
+        "thumb": {
+          "dim": "1440x900",
+          "colors": "",
+          "preview": "https://sites.google.com/site/anidblist/htn-96578t.jpg",
+          "text": "https://sites.google.com/site/anidblist/htn-96578b.jpg"
+        }
+      }
+    }
+  ]
+}

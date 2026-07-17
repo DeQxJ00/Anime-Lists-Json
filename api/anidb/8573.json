@@ -1,0 +1,21 @@
+{
+  "anidbid": "8573",
+  "tvdbid": "172921",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "52083",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Amagami SS Plus",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "8",
+      "offset": "7"
+    }
+  }
+}

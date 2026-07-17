@@ -1,0 +1,19 @@
+{
+  "anidbid": "7191",
+  "tvdbid": "393182",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "3",
+  "tmdbtv": "89579",
+  "tmdbseason": "1",
+  "tmdboffset": "3",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Aoyama Goushou Tanpenshuu 2",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "1",
+      "text": ";1-7;"
+    }
+  }
+}

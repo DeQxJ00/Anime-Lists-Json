@@ -1,0 +1,19 @@
+{
+  "anidbid": "8556",
+  "tvdbid": "254349",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "42589",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Another",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-2;"
+    }
+  }
+}

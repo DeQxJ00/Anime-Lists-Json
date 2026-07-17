@@ -1,0 +1,19 @@
+{
+  "anidbid": "17493",
+  "tvdbid": "188551",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "246862",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "New Panty & Stocking with Garterbelt",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "2",
+      "text": ";1-1;2-2+3;3-4+5+6;4-7+8+9;5-10+11+12;6-13;7-14+15;8-16+17+18;9-19+20+21;10-22+23;11-24+25+26;12-27+28;13-29+30;"
+    }
+  }
+}

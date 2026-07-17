@@ -1,0 +1,19 @@
+{
+  "anidbid": "6645",
+  "tvdbid": "79604",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "7",
+  "tmdbtv": "12598",
+  "tmdbseason": "0",
+  "tmdboffset": "7",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Black Lagoon: Roberta's Blood Trail",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;2-0;3-0;4-0;5-0;"
+    }
+  }
+}

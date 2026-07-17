@@ -1,0 +1,19 @@
+{
+  "anidbid": "10368",
+  "tvdbid": "254899",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "67249",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Shin Tennis no Ouji-sama (2014)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-0;2-0;3-0;4-0;5-0;"
+    }
+  }
+}

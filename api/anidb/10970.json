@@ -1,0 +1,21 @@
+{
+  "anidbid": "10970",
+  "tvdbid": "297315",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "63330",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Okusama ga Seitokaichou!",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "13",
+      "offset": "1"
+    }
+  }
+}

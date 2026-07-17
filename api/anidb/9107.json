@@ -1,0 +1,19 @@
+{
+  "anidbid": "9107",
+  "tvdbid": "195571",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "45088",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Tamayura: More Aggressive",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-6;"
+    }
+  }
+}

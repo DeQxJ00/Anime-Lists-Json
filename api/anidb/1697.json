@@ -1,0 +1,22 @@
+{
+  "anidbid": "1697",
+  "tvdbid": "84012",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "34733",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Sensei no Ojikan: Doki Doki School Hours",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "1",
+      "start": "1",
+      "end": "7",
+      "offset": "13"
+    }
+  },
+  "before": ";1-14;2-15;3-16;4-17;5-18;6-19;7-20;"
+}

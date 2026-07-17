@@ -1,0 +1,19 @@
+{
+  "anidbid": "7669",
+  "tvdbid": "79796",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "31670",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Air Gear: Kuro no Hane to Nemuri no Mori - Break on the Sky",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-2;2-3;3-4;"
+    }
+  }
+}

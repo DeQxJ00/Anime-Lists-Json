@@ -1,0 +1,22 @@
+{
+  "anidbid": "9822",
+  "tvdbid": "259638",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "53715",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Little Busters! Refrain",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "1",
+      "end": "8",
+      "offset": "1",
+      "text": ";9-0;10-0;11-0;12-0;13-0;"
+    }
+  }
+}

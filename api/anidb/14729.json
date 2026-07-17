@@ -1,0 +1,19 @@
+{
+  "anidbid": "14729",
+  "tvdbid": "321532",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "71000",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Tsugumomo (2020)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-1;"
+    }
+  }
+}

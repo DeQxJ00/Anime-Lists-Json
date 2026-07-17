@@ -1,0 +1,19 @@
+{
+  "anidbid": "447",
+  "tvdbid": "79099",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "8864",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": ".hack//Tasogare no Udewa Densetsu",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-7;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "2811",
+  "tvdbid": "85230",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "13339",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "tt0140647",
+  "name": "Uchuu Senkan Yamato: Aratanaru Tabidachi",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-3;"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "anidbid": "6788",
+  "tvdbid": "212551",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "42569",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Anyamal Tantei Kiruminzoo",
+  "supplemental-info": {
+    "replace": "true",
+    "fanart": {
+      "thumb": {
+        "dim": "1280x720",
+        "colors": "",
+        "preview": "https://sites.google.com/site/anidblist/atk-001t.jpg",
+        "text": "https://sites.google.com/site/anidblist/atk-001b.jpg"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "anidbid": "15989",
+  "tvdbid": "397208",
+  "defaulttvdbseason": "1",
+  "episodeoffset": "",
+  "tmdbtv": "116727",
+  "tmdbseason": "1",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Odd Taxi",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "start": "2",
+      "end": "14",
+      "offset": "-1",
+      "text": ";1-14;"
+    }
+  }
+}

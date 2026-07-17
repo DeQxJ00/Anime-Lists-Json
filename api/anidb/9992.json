@@ -1,0 +1,19 @@
+{
+  "anidbid": "9992",
+  "tvdbid": "254658",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "",
+  "tmdbtv": "85065",
+  "tmdbseason": "2",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Kyousougiga (2013)",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-4;"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anidbid": "10867",
+  "tvdbid": "133341",
+  "defaulttvdbseason": "2",
+  "episodeoffset": "24",
+  "tmdbtv": "42410",
+  "tmdbseason": "2",
+  "tmdboffset": "24",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Durarara!!x2 Ketsu",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "0",
+      "tvdbseason": "0",
+      "text": ";1-5;"
+    }
+  }
+}

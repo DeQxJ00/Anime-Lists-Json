@@ -1,0 +1,19 @@
+{
+  "anidbid": "9934",
+  "tvdbid": "78919",
+  "defaulttvdbseason": "0",
+  "episodeoffset": "",
+  "tmdbtv": "34708",
+  "tmdbseason": "0",
+  "tmdboffset": "",
+  "tmdbid": "",
+  "imdbid": "",
+  "name": "Genshiken Nidaime no Roku",
+  "mapping-list": {
+    "mapping": {
+      "anidbseason": "1",
+      "tvdbseason": "0",
+      "text": ";1-5;"
+    }
+  }
+}
