@@ -36,13 +36,16 @@
       gap: 8px;
       margin: 20px 0;
     }
+    select,
     input {
-      flex: 1;
       min-width: 0;
       padding: 12px 14px;
       border: 1px solid #cfd6dd;
       border-radius: 8px;
       font-size: 16px;
+    }
+    input {
+      flex: 1;
     }
     button {
       padding: 0 18px;
@@ -80,6 +83,7 @@
       p {
         color: #aeb8c4;
       }
+      select,
       input {
         background: #20262e;
         color: #f3f4f6;
@@ -105,31 +109,40 @@
 <body>
   <main>
     <h1>AniDB Static JSON API</h1>
-    <p>输入 AniDB ID 查询完整 anime 映射信息。直接 API 路径格式：<code>/api/anidb/&lt;id&gt;.json</code></p>
+    <p>输入 AniDB ID 或 IMDb ID 查询完整 anime 映射信息。直接 API 路径格式：<code>/api/anidb/&lt;id&gt;.json</code> 或 <code>/api/imdb/&lt;id&gt;.json</code></p>
     <form id="lookup-form">
-      <input id="anidbid" name="anidbid" inputmode="numeric" pattern="[0-9]+" placeholder="例如 1" autocomplete="off" required>
+      <select id="lookup-type" name="type" aria-label="查询类型">
+        <option value="anidb">AniDB</option>
+        <option value="imdb">IMDb</option>
+      </select>
+      <input id="lookup-id" name="id" placeholder="例如 1 或 tt0119698" autocomplete="off" required>
       <button type="submit">查询</button>
     </form>
-    <pre id="result">等待输入 AniDB ID...</pre>
+    <pre id="result">等待输入 ID...</pre>
   </main>
   <script>
     const form = document.querySelector("#lookup-form");
-    const input = document.querySelector("#anidbid");
+    const typeInput = document.querySelector("#lookup-type");
+    const idInput = document.querySelector("#lookup-id");
     const result = document.querySelector("#result");
 
-    async function lookup(id) {
+    async function lookup(type, id) {
       const cleanId = String(id).trim();
-      if (!/^\d+$/.test(cleanId)) {
+      if (type === "anidb" && !/^\d+$/.test(cleanId)) {
         result.textContent = "请输入纯数字 AniDB ID。";
         return;
       }
+      if (type === "imdb" && !/^tt\d+$/.test(cleanId)) {
+        result.textContent = "请输入 IMDb ID，例如 tt0119698。";
+        return;
+      }
 
-      const url = `api/anidb/${encodeURIComponent(cleanId)}.json`;
+      const url = `api/${type}/${encodeURIComponent(cleanId)}.json`;
       result.textContent = `GET ${url}`;
 
       const response = await fetch(url, { headers: { "Accept": "application/json" } });
       if (!response.ok) {
-        result.textContent = `未找到 AniDB ID ${cleanId}。HTTP ${response.status}`;
+        result.textContent = `未找到 ${type.toUpperCase()} ID ${cleanId}。HTTP ${response.status}`;
         return;
       }
 
@@ -139,15 +152,20 @@
 
     form.addEventListener("submit", (event) => {
       event.preventDefault();
-      lookup(input.value).catch((error) => {
+      lookup(typeInput.value, idInput.value).catch((error) => {
         result.textContent = `请求失败：${error.message}`;
       });
     });
 
     const query = new URLSearchParams(location.search);
     if (query.has("id")) {
-      input.value = query.get("id");
-      lookup(input.value);
+      idInput.value = query.get("id");
+      if (query.has("type")) {
+        typeInput.value = query.get("type");
+      } else if (/^tt\d+$/.test(idInput.value)) {
+        typeInput.value = "imdb";
+      }
+      lookup(typeInput.value, idInput.value);
     }
   </script>
 </body>

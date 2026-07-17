@@ -53,10 +53,13 @@ def build_api(xml_path: Path, output_dir: Path) -> dict[str, Any]:
     tree = ET.parse(xml_path)
     root = tree.getroot()
 
-    api_dir = output_dir / "api" / "anidb"
-    if api_dir.exists():
-        shutil.rmtree(api_dir)
-    api_dir.mkdir(parents=True, exist_ok=True)
+    api_root = output_dir / "api"
+    anidb_dir = api_root / "anidb"
+    imdb_dir = api_root / "imdb"
+    for api_dir in (anidb_dir, imdb_dir):
+        if api_dir.exists():
+            shutil.rmtree(api_dir)
+        api_dir.mkdir(parents=True, exist_ok=True)
 
     ids_seen: set[str] = set()
     index: dict[str, Any] = {
@@ -64,6 +67,7 @@ def build_api(xml_path: Path, output_dir: Path) -> dict[str, Any]:
         "count": 0,
         "ids": [],
     }
+    imdb_items: dict[str, list[dict[str, Any]]] = defaultdict(list)
     duplicate_ids: dict[str, list[dict[str, Any]]] = defaultdict(list)
 
     for anime in root.findall("anime"):
@@ -79,7 +83,11 @@ def build_api(xml_path: Path, output_dir: Path) -> dict[str, Any]:
         ids_seen.add(anidbid)
         index["ids"].append(anidbid)
 
-        output_file = api_dir / f"{anidbid}.json"
+        imdbid = item.get("imdbid")
+        if imdbid:
+            imdb_items[imdbid].append(item)
+
+        output_file = anidb_dir / f"{anidbid}.json"
         output_file.write_text(
             json.dumps(item, ensure_ascii=False, indent=2) + "\n",
             encoding="utf-8",
@@ -88,8 +96,24 @@ def build_api(xml_path: Path, output_dir: Path) -> dict[str, Any]:
     index["ids"].sort(key=lambda value: int(value) if value.isdigit() else value)
     index["count"] = len(index["ids"])
 
-    (api_dir / "index.json").write_text(
+    (anidb_dir / "index.json").write_text(
         json.dumps(index, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
+
+    imdb_index: dict[str, Any] = {
+        "source": RAW_XML_URL,
+        "count": len(imdb_items),
+        "ids": sorted(imdb_items),
+    }
+    for imdbid, items in imdb_items.items():
+        value: Any = items[0] if len(items) == 1 else items
+        (imdb_dir / f"{imdbid}.json").write_text(
+            json.dumps(value, ensure_ascii=False, indent=2) + "\n",
+            encoding="utf-8",
+        )
+    (imdb_dir / "index.json").write_text(
+        json.dumps(imdb_index, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
 
@@ -99,6 +123,7 @@ def build_api(xml_path: Path, output_dir: Path) -> dict[str, Any]:
             encoding="utf-8",
         )
 
+    index["imdb_count"] = len(imdb_items)
     return index
 
 
@@ -109,7 +134,8 @@ def main() -> None:
     args = parser.parse_args()
 
     index = build_api(args.xml, args.out)
-    print(f"Wrote {index['count']} anime JSON files to {args.out / 'api' / 'anidb'}")
+    print(f"Wrote {index['count']} AniDB JSON files to {args.out / 'api' / 'anidb'}")
+    print(f"Wrote {index['imdb_count']} IMDb JSON files to {args.out / 'api' / 'imdb'}")
 
 
 if __name__ == "__main__":
