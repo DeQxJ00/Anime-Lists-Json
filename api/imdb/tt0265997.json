@@ -1,26 +1,12 @@
-[
-  {
-    "anidbid": "3434",
-    "tvdbid": "OVA",
-    "defaulttvdbseason": "",
-    "episodeoffset": "",
-    "tmdbtv": "",
-    "tmdbseason": "",
-    "tmdboffset": "",
-    "tmdbid": "",
-    "imdbid": "tt0265997",
-    "name": "Violence Jack: Jigoku Gai"
-  },
-  {
-    "anidbid": "3435",
-    "tvdbid": "OVA",
-    "defaulttvdbseason": "",
-    "episodeoffset": "",
-    "tmdbtv": "",
-    "tmdbseason": "",
-    "tmdboffset": "",
-    "tmdbid": "",
-    "imdbid": "tt0265997",
-    "name": "Violence Jack: Hell's Wind Hen"
-  }
-]
+{
+  "anidbid": "3434",
+  "tvdbid": "OVA",
+  "defaulttvdbseason": "",
+  "episodeoffset": "",
+  "tmdbtv": "",
+  "tmdbseason": "",
+  "tmdboffset": "",
+  "tmdbid": "96650",
+  "imdbid": "tt0265997",
+  "name": "Violence Jack: Jigoku Gai"
+}
