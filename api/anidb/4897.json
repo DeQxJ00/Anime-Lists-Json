@@ -8,13 +8,5 @@
   "tmdboffset": "",
   "tmdbid": "",
   "imdbid": "",
-  "name": "Baccano!",
-  "mapping-list": {
-    "mapping": {
-      "anidbseason": "0",
-      "tvdbseason": "1",
-      "text": ";1-14;2-15;3-16;"
-    }
-  },
-  "before": ";1-14;2-15;3-16;"
+  "name": "Baccano!"
 }
