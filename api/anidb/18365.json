@@ -1,12 +1,29 @@
 {
   "anidbid": "18365",
-  "tvdbid": "",
-  "defaulttvdbseason": "",
+  "tvdbid": "392226",
+  "defaulttvdbseason": "4",
   "episodeoffset": "",
-  "tmdbtv": "",
-  "tmdbseason": "",
-  "tmdboffset": "",
+  "tmdbtv": "101172",
+  "tmdbseason": "1",
+  "tmdboffset": "85",
   "tmdbid": "",
   "imdbid": "",
-  "name": "Tunshi Xingkong (2023)"
+  "name": "Tunshi Xingkong (2023)",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "1",
+        "tvdbseason": "4",
+        "start": "1",
+        "end": "123"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "5",
+        "start": "124",
+        "end": "175",
+        "offset": "-123"
+      }
+    ]
+  }
 }
