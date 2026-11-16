@@ -1,7 +1,7 @@
 {
   "anidbid": "8039",
   "tvdbid": "247805",
-  "defaulttvdbseason": "1",
+  "defaulttvdbseason": "a",
   "episodeoffset": "",
   "tmdbtv": "42419",
   "tmdbseason": "1",
@@ -9,6 +9,23 @@
   "tmdbid": "",
   "imdbid": "",
   "name": "Sket Dance",
+  "mapping-list": {
+    "mapping": [
+      {
+        "anidbseason": "1",
+        "tvdbseason": "1",
+        "start": "1",
+        "end": "51"
+      },
+      {
+        "anidbseason": "1",
+        "tvdbseason": "2",
+        "start": "52",
+        "end": "77",
+        "offset": "-51"
+      }
+    ]
+  },
   "supplemental-info": {
     "studio": "Tatsunoko Production"
   }
