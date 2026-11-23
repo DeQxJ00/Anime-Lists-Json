@@ -10,13 +10,24 @@
   "imdbid": "",
   "name": "Black Clover (2017)",
   "mapping-list": {
-    "mapping": {
-      "anidbseason": "0",
-      "tvdbseason": "0",
-      "start": "2",
-      "end": "16",
-      "offset": "9",
-      "text": ";1-2;"
-    }
+    "mapping": [
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "text": ";1-2;"
+      },
+      {
+        "anidbseason": "0",
+        "tvdbseason": "0",
+        "start": "2",
+        "end": "16",
+        "offset": "9"
+      },
+      {
+        "anidbseason": "0",
+        "tmdbseason": "0",
+        "text": ";1-2;2-0;"
+      }
+    ]
   }
 }
